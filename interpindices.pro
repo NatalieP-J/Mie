@@ -4,6 +4,9 @@ pro interpindices, fname, l1, wavelength, n, k, desiredwv
 ; interpolate refraction indices for desired wavelengths
 ; fname = fname of reference file
 ; l1 = first line to print in file
+; wavelength = wavelengths for which indices were intially generated
+; n = the real part of the refraction index at wavelength
+; k = the imaginary part of the refraction index at wavelength
 ; desiredwv = array of wavelengths to find indices for (in microns)
 
 ; interpolate to find real and imaginary parts of the index of

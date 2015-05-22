@@ -1,9 +1,11 @@
 pro plotoptions, datadict, outputdir, pname, ptitle,$
+                 nmeanings, ncolors, nlstyles, nthicks,$
                  hgplot = hgplot, isoplot = isoplot,$
                  pplot = pplot, nplot=nplot,$
                  mirror = mirror, _extra=extra
 
-setdefaultvalue, hgplot, 0
+; SET DEFAULT VALUES FOR KEYWORD PARAMETERS
+setdefaultvalue, hgplot, dictionary('null',0)
 setdefaultvalue, isoplot, 0, /boolean
 setdefaultvalue, pplot, 0, /boolean
 setdefaultvalue, nplot, 0, /boolean
@@ -21,6 +23,8 @@ endif
 keys = datadict.keys()
 keys = keys[where((keys ne 'angle' and keys ne 'scatter'))]
 
+; IF MIRRORING OF DATA REQUIRED, FLIP DEPENDENT VARIABLE ARRAY AND
+; FLIP SIGN AND ORDER OF ANGLE ARRAY
 if mirror ne 0 then begin
 angle = nmirrordata(angle)
 for i=0, leng(keys)-1 do begin
@@ -30,14 +34,16 @@ datadict[keys[i]] = mirrordata(temp)
 endfor
 endif
 
-
+; PRODUCE TEMPORARY VARIABLES TO CHECK IF HGPLOTTING REQUIRED
+a = hgplot.values()
+b = a.toarray()
 
 ; IF PLOTTING OF THE HENYEY-GREENSTEIN FUNCTION DESIRED, ADD 
 ; APPROPRIATE ARRAYS TO DATADICT
-if total(hgplot) ne 0 then begin
+if total(b) ne 0 then begin
 for i=0, leng(hgplot)-1 do begin
 hgkey = string(keys[i])+'hg'
-datadict[hgkey] = hg(g=hgplot[i],u=cos(angle))
+datadict[hgkey] = hg(g=hgplot[keys[i]],u=cos(angle))
 endfor
 endif
 
@@ -55,7 +61,6 @@ lstyles = dictionary()
 mkey = keys[0]
 mval = 0
 
-
 for i=0, leng(keys)-1 do begin
 pdata = datadict[keys[i]]
 ; FIND ARRAY CONTAINING THE HIGHEST VALUE OF ALL ARRAYS
@@ -69,7 +74,7 @@ if ccheck eq -1 then begin
 colors[keys[i]] = 'red'
 endif
 if ccheck ne -1 then begin
-colors[keys[i]] = 'green'
+colors[keys[i]] = 'grn5'
 endif
 ; DETERMINE THE TYPE OF SCATTERING - HG OR MIE - AND USE THE 
 ; APPROPRIATE LINESTYLE AND LABEL
@@ -111,47 +116,56 @@ keys = keys[where((keys ne 'angle' and keys ne 'scatter'))]
 
 ; IF NOT MAKING A POLAR PLOT, USE THE FOLLOWING PLOTTING INSTRUCTIONS
 if pplot eq 0 then begin
+; CREATE OUTPUT POSTSCRIPT FILE
 rpsopen, outputdir+pname+'.ps', /color, /landscape
+; DRAW AXES IN BLACK AND SET APPROPRIATE BOUNDS ON X,Y RANGES
 plot, angle*!radeg, datadict[mkey]/isovals,/nodata, title = ptitle,$
       _extra = extra
+; FOR EACH DATA SET IN THE DICTIONARY, PLOT IT IN THE APPROPRIATE
+; COLOR AND LINESTYLE
 for i=0, leng(keys)-1 do begin
-oplot, angle*!radeg, datadict[keys[i]]/isovals, color = cgcolor(colors[keys[i]]), $
+oplot, angle*!radeg, datadict[keys[i]]/isovals,$ 
+       color = cgcolor(colors[keys[i]]), thick = 5,$
        linestyle = lstyles[keys[i]]
 endfor
+; ADD SCATTERING ANGLES POINTING TOWARD EARTH
 vline, datadict['scatter']*!radeg
-meanings = meanings.values()
-meanings = meanings.toarray()
-lstyles = lstyles.values()
-lstyles = lstyles.toarray()
-colors = colors.values()
-colors = colors.toarray()
-legend, meanings, linestyle = lstyles, color = colors
+; ADD LEGEND
+legend, nmeanings, linestyle = nlstyles, color = ncolors, thick = nthicks,$
+        /right
 rpsclose, /high
+; ROTATE POSTSCRIPT FILE
 cgfixps, outputdir+pname+'.ps'
+; CONVERT POSTSCRIPT TO PDF AND REMOVE POSTSCRIPT FILE
 cgps2pdf, outputdir+pname+'.ps'
 spawn, 'rm '+outputdir+pname+'.ps'
 endif
 
+; IF MAKING A POLAR PLOT, USE THE FOLLOWING PLOTTING INSTRUCTIONS
 if pplot ne 0 then begin
+; CREATE OUTPUT POSTSCIPT FILE
 rpsopen, outputdir+pname+'.ps', /color, /landscape
+; DRAW AXES IN BLACK AND SET APPROPRIATE BOUNDS ON X,Y RANGES
 plot, datadict[mkey]/isovals, angle, /polar,/nodata, title = ptitle,$
       _extra=extra
+; FOR EACH DATA SET IN THE DICTIONARY, PLOT IT IN THE APPROPRIATE
+; COLOUR AND LINESTYLE
 for i=0, leng(keys)-1 do begin
 oplot, datadict[keys[i]]/isovals, angle, color = cgcolor(colors[keys[i]]), $
-       /polar, linestyle = lstyles[keys[i]]
+       /polar, linestyle = lstyles[keys[i]], thick = 5
 endfor
+; ADD SCATTERING ANGLES POINTING TOWARD EARTH
 angline, datadict['scatter']
+; ADD AXIS LINES
 hline, 0
 vline, 0
-meanings = meanings.values()
-meanings = meanings.toarray()
-lstyles = lstyles.values()
-lstyles = lstyles.toarray()
-colors = colors.values()
-colors = colors.toarray()
-legend, meanings, linestyle = lstyles, color = colors
+; ADD LEGENDE
+legend, nmeanings, linestyle = nlstyles, color = ncolors, thick = nthicks, $
+        /right
 rpsclose, /high
+; ROTATE POSTSCRIPT FILE
 cgfixps, outputdir+pname+'.ps'
+; CONVERT POSTSCIPT TO PDF AND REMOVE POSTSCRIPT FILE
 cgps2pdf, outputdir+pname+'.ps'
 spawn, 'rm '+outputdir+pname+'.ps'
 endif
