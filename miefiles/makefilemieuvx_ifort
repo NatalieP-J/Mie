@@ -1,0 +1,29 @@
+# makefile for mieuvx
+#VERSION for linux, Oct 2014
+FFLAGS = -O
+LDFLAGS = -O
+
+PREF = mieuvx
+SOU = $(PREF).f
+OBJ = $(PREF).o
+
+# explicit inclusion of io assignments: includes binary (unformatted) version
+# IOPREF = ibo
+# IOSOU = $(IOPREF).f
+# IOOBJ = $(IOPREF).o
+
+# OBJA = $(PREF).o sinpar.o ritdft.o anomal.o $(IOOBJ)
+OBJA = $(PREF).o sinpar.o ritdft.o anomal.o
+EXE = $(PREF)
+
+$(EXE): $(OBJA)
+	ifort  $(LDFLAGS) $(OBJA) -o $(EXE)
+$(OBJ): $(SOU)
+	ifort $(FFLAGS) -c $(SOU)
+
+sinpar.o: sinpar.f
+	ifort $(FFLAGS) -c sinpar.f
+ritdft.o: ritdft.f
+	ifort $(FFLAGS) -c ritdft.f
+anomal.o: anomal.f
+	ifort $(FFLAGS) -c anomal.f

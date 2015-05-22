@@ -1,0 +1,54 @@
+44,60c44
+< c
+< c change shell script to get around this f77 construction
+< c      call ioinit(.true.,.false.,.false.,'fort',.false.)
+< c
+< c May 2015, standard i/o to go with new shell script mieuvx.sh
+< c temporary file names: "t" for temporary
+< c INPUT
+< c 2 input wavelength and refractive index
+<       open(unit=2,file='tsd2.refr',status='old')
+< c 4 input mie, rho, size distribution
+<       open(unit=4,file='tsd4.uvxsd',status='old')
+< c OUTPUT
+< c 3 printed output
+<       open(unit=3,file='tsd3.prsd',status='old')
+< c 1 single particle output for verification
+<       open(unit=1,file='tsd1.sd',status='old')
+< c
+---
+>       call ioinit(.true.,.false.,.false.,'fort',.false.)
+83,84c67
+< c      jxf = max1(2 , 2*jx-1)
+<       jxf = max(2 , 2*jx-1)
+---
+>       jxf = max1(2 , 2*jx-1)
+196,200d178
+< c for plotting and hazy, and qphase for kramers-kronig checks
+< c ibase = 12 used consistently below
+< c maximum 2 size distributions; open both even if 2nd not to be used
+<       open(unit=13,file='tsd13.posd',status='old')
+<       open(unit=14,file='tsd14.posd',status='old')
+206,208c184,186
+< c         inquire(unit=iter,opened=lopen)
+< c         if(lopen .eqv. .false.) go to 9001
+< c         write(3,*) ' writing unit',iter,lopen
+---
+>          inquire(unit=iter,opened=lopen)
+>          if(lopen .eqv. .false.) go to 9001
+>          write(3,*) ' writing unit',iter,lopen
+337,338c315
+< c      jmx = max1(1,jx - 1)
+<       jmx = max(1,jx - 1)
+---
+>       jmx = max1(1,jx - 1)
+340,341c317
+< c         jj = max1(1,jx - j)
+<          jj = max(1,jx - j)
+---
+>          jj = max1(1,jx - j)
+373,374c349
+< c      k=max1(1,i-2*kk)
+<       k=max(1,i-2*kk)
+---
+>       k=max1(1,i-2*kk)

@@ -1,0 +1,2912 @@
+ nosina= 7 nosini= 1
+ number of scattering angles =   2
+ density =    3.300000
+
+ radius = 1.000000E-01
+
+
+ vacuum wavelength =  9.1177E+03 wavenumber =  1.0968E-04 x =  6.8912E-05
+ rydberg =  9.9945E-06 ev =  1.3598E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=5.3985E-03 ep1= 1.1584E+01 ep2=3.6748E-02
+  relative errors    4.1086D-10   4.1086D-10
+  n, nmx2, nmx1     2     4    19
+ qext=  1.6469E-07 qphase=  2.1477E-04 qscat=  3.6508E-17 qabs=  1.6469E-07
+ g =  2.3968E-09 albedo =  2.2168E-10 1-g =  1.0000E+00
+ qext/a =  1.6469E-02 c/v =  1.2352E-02 kappa =  3.7429E-03
+
+ vacuum wavelength =  8.6135E+03 wavenumber =  1.1610E-04 x =  7.2946E-05
+ rydberg =  1.0580E-05 ev =  1.4394E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=5.7144E-03 ep1= 1.1584E+01 ep2=3.8898E-02
+  relative errors    4.6037D-10   4.6037D-10
+  n, nmx2, nmx1     2     4    19
+ qext=  1.8453E-07 qphase=  2.2734E-04 qscat=  4.5837E-17 qabs=  1.8453E-07
+ g =  2.6856E-09 albedo =  2.4840E-10 1-g =  1.0000E+00
+ qext/a =  1.8453E-02 c/v =  1.3840E-02 kappa =  4.1938E-03
+
+ vacuum wavelength =  8.1373E+03 wavenumber =  1.2289E-04 x =  7.7215E-05
+ rydberg =  1.1199E-05 ev =  1.5237E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=6.0488E-03 ep1= 1.1584E+01 ep2=4.1174E-02
+  relative errors    5.1583D-10   5.1583D-10
+  n, nmx2, nmx1     2     4    19
+ qext=  2.0676E-07 qphase=  2.4065E-04 qscat=  5.7545E-17 qabs=  2.0676E-07
+ g =  3.0091E-09 albedo =  2.7832E-10 1-g =  1.0000E+00
+ qext/a =  2.0676E-02 c/v =  1.5507E-02 kappa =  4.6990E-03
+
+ vacuum wavelength =  7.6874E+03 wavenumber =  1.3008E-04 x =  8.1734E-05
+ rydberg =  1.1854E-05 ev =  1.6128E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=6.4027E-03 ep1= 1.1584E+01 ep2=4.3583E-02
+  relative errors    5.7797D-10   5.7797D-10
+  n, nmx2, nmx1     2     4    19
+ qext=  2.3166E-07 qphase=  2.5473E-04 qscat=  7.2246E-17 qabs=  2.3166E-07
+ g =  3.3716E-09 albedo =  3.1186E-10 1-g =  1.0000E+00
+ qext/a =  2.3166E-02 c/v =  1.7375E-02 kappa =  5.2651E-03
+
+ vacuum wavelength =  7.2623E+03 wavenumber =  1.3770E-04 x =  8.6518E-05
+ rydberg =  1.2548E-05 ev =  1.7072E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=6.7774E-03 ep1= 1.1584E+01 ep2=4.6134E-02
+  relative errors    6.4762D-10   6.4762D-10
+  n, nmx2, nmx1     2     4    19
+ qext=  2.5957E-07 qphase=  2.6964E-04 qscat=  9.0706E-17 qabs=  2.5957E-07
+ g =  3.7779E-09 albedo =  3.4944E-10 1-g =  1.0000E+00
+ qext/a =  2.5957E-02 c/v =  1.9468E-02 kappa =  5.8994E-03
+
+ vacuum wavelength =  6.8608E+03 wavenumber =  1.4576E-04 x =  9.1581E-05
+ rydberg =  1.3282E-05 ev =  1.8071E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=7.1740E-03 ep1= 1.1584E+01 ep2=4.8833E-02
+  relative errors    7.2563D-10   7.2563D-10
+  n, nmx2, nmx1     2     4    19
+ qext=  2.9084E-07 qphase=  2.8542E-04 qscat=  1.1388E-16 qabs=  2.9084E-07
+ g =  4.2330E-09 albedo =  3.9154E-10 1-g =  1.0000E+00
+ qext/a =  2.9084E-02 c/v =  2.1813E-02 kappa =  6.6101E-03
+
+ vacuum wavelength =  6.4815E+03 wavenumber =  1.5429E-04 x =  9.6940E-05
+ rydberg =  1.4060E-05 ev =  1.9129E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=7.5938E-03 ep1= 1.1584E+01 ep2=5.1691E-02
+  relative errors    8.1305D-10   8.1305D-10
+  n, nmx2, nmx1     2     4    19
+ qext=  3.2588E-07 qphase=  3.0212E-04 qscat=  1.4297E-16 qabs=  3.2588E-07
+ g =  4.7429E-09 albedo =  4.3871E-10 1-g =  1.0000E+00
+ qext/a =  3.2588E-02 c/v =  2.4441E-02 kappa =  7.4063E-03
+
+ vacuum wavelength =  6.1231E+03 wavenumber =  1.6332E-04 x =  1.0261E-04
+ rydberg =  1.4882E-05 ev =  2.0249E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=8.0382E-03 ep1= 1.1584E+01 ep2=5.4716E-02
+  relative errors    9.1101D-10   9.1101D-10
+  n, nmx2, nmx1     2     4    19
+ qext=  3.6514E-07 qphase=  3.1981E-04 qscat=  1.7949E-16 qabs=  3.6514E-07
+ g =  5.3144E-09 albedo =  4.9157E-10 1-g =  1.0000E+00
+ qext/a =  3.6514E-02 c/v =  2.7385E-02 kappa =  8.2986E-03
+
+ vacuum wavelength =  5.7845E+03 wavenumber =  1.7288E-04 x =  1.0862E-04
+ rydberg =  1.5754E-05 ev =  2.1434E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=8.5086E-03 ep1= 1.1584E+01 ep2=5.7918E-02
+  relative errors    1.0208D-09   1.0208D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  4.0913E-07 qphase=  3.3853E-04 qscat=  2.2536E-16 qabs=  4.0913E-07
+ g =  5.9547E-09 albedo =  5.5082E-10 1-g =  1.0000E+00
+ qext/a =  4.0913E-02 c/v =  3.0685E-02 kappa =  9.2984E-03
+
+ vacuum wavelength =  5.4647E+03 wavenumber =  1.8299E-04 x =  1.1498E-04
+ rydberg =  1.6676E-05 ev =  2.2688E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=9.0066E-03 ep1= 1.1584E+01 ep2=6.1308E-02
+  relative errors    1.1438D-09   1.1438D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  4.5842E-07 qphase=  3.5834E-04 qscat=  2.8292E-16 qabs=  4.5842E-07
+ g =  6.6721E-09 albedo =  6.1717E-10 1-g =  1.0000E+00
+ qext/a =  4.5842E-02 c/v =  3.4382E-02 kappa =  1.0419E-02
+
+ vacuum wavelength =  5.1626E+03 wavenumber =  1.9370E-04 x =  1.2171E-04
+ rydberg =  1.7651E-05 ev =  2.4016E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=9.5337E-03 ep1= 1.1584E+01 ep2=6.4896E-02
+  relative errors    1.2815D-09   1.2815D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  5.1364E-07 qphase=  3.7931E-04 qscat=  3.5519E-16 qabs=  5.1364E-07
+ g =  7.4758E-09 albedo =  6.9151E-10 1-g =  1.0000E+00
+ qext/a =  5.1364E-02 c/v =  3.8523E-02 kappa =  1.1674E-02
+
+ vacuum wavelength =  4.8771E+03 wavenumber =  2.0504E-04 x =  1.2883E-04
+ rydberg =  1.8685E-05 ev =  2.5422E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=1.0092E-02 ep1= 1.1584E+01 ep2=6.8696E-02
+  relative errors    1.4360D-09   1.4360D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  5.7555E-07 qphase=  4.0151E-04 qscat=  4.4595E-16 qabs=  5.7555E-07
+ g =  8.3767E-09 albedo =  7.7482E-10 1-g =  1.0000E+00
+ qext/a =  5.7555E-02 c/v =  4.3166E-02 kappa =  1.3081E-02
+
+ vacuum wavelength =  4.6075E+03 wavenumber =  2.1704E-04 x =  1.3637E-04
+ rydberg =  1.9778E-05 ev =  2.6909E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=1.0682E-02 ep1= 1.1584E+01 ep2=7.2712E-02
+  relative errors    1.6089D-09   1.6089D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  6.4485E-07 qphase=  4.2501E-04 qscat=  5.5985E-16 qabs=  6.4485E-07
+ g =  9.3856E-09 albedo =  8.6820E-10 1-g =  1.0000E+00
+ qext/a =  6.4485E-02 c/v =  4.8363E-02 kappa =  1.4656E-02
+
+ vacuum wavelength =  4.3527E+03 wavenumber =  2.2974E-04 x =  1.4435E-04
+ rydberg =  2.0936E-05 ev =  2.8484E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=1.1308E-02 ep1= 1.1584E+01 ep2=7.6974E-02
+  relative errors    1.8028D-09   1.8028D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  7.2259E-07 qphase=  4.4989E-04 qscat=  7.0291E-16 qabs=  7.2259E-07
+ g =  1.0517E-08 albedo =  9.7276E-10 1-g =  1.0000E+00
+ qext/a =  7.2259E-02 c/v =  5.4195E-02 kappa =  1.6423E-02
+
+ vacuum wavelength =  4.1120E+03 wavenumber =  2.4319E-04 x =  1.5280E-04
+ rydberg =  2.2161E-05 ev =  3.0152E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=1.1970E-02 ep1= 1.1584E+01 ep2=8.1480E-02
+  relative errors    2.0200D-09   2.0200D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  8.0967E-07 qphase=  4.7622E-04 qscat=  8.8252E-16 qabs=  8.0967E-07
+ g =  1.1784E-08 albedo =  1.0900E-09 1-g =  1.0000E+00
+ qext/a =  8.0967E-02 c/v =  6.0725E-02 kappa =  1.8402E-02
+
+ vacuum wavelength =  3.8847E+03 wavenumber =  2.5742E-04 x =  1.6174E-04
+ rydberg =  2.3458E-05 ev =  3.1916E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=1.2670E-02 ep1= 1.1584E+01 ep2=8.6245E-02
+  relative errors    2.2633D-09   2.2633D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  9.0716E-07 qphase=  5.0409E-04 qscat=  1.1079E-15 qabs=  9.0716E-07
+ g =  1.3203E-08 albedo =  1.2213E-09 1-g =  1.0000E+00
+ qext/a =  9.0716E-02 c/v =  6.8037E-02 kappa =  2.0617E-02
+
+ vacuum wavelength =  3.6699E+03 wavenumber =  2.7249E-04 x =  1.7121E-04
+ rydberg =  2.4831E-05 ev =  3.3784E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=1.3412E-02 ep1= 1.1584E+01 ep2=9.1295E-02
+  relative errors    2.5360D-09   2.5360D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  1.0165E-06 qphase=  5.3359E-04 qscat=  1.3910E-15 qabs=  1.0165E-06
+ g =  1.4794E-08 albedo =  1.3684E-09 1-g =  1.0000E+00
+ qext/a =  1.0165E-01 c/v =  7.6237E-02 kappa =  2.3102E-02
+
+ vacuum wavelength =  3.4670E+03 wavenumber =  2.8843E-04 x =  1.8123E-04
+ rydberg =  2.6284E-05 ev =  3.5761E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=1.4197E-02 ep1= 1.1584E+01 ep2=9.6639E-02
+  relative errors    2.8416D-09   2.8416D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  1.1390E-06 qphase=  5.6482E-04 qscat=  1.7463E-15 qabs=  1.1390E-06
+ g =  1.6576E-08 albedo =  1.5333E-09 1-g =  1.0000E+00
+ qext/a =  1.1390E-01 c/v =  8.5422E-02 kappa =  2.5885E-02
+
+ vacuum wavelength =  3.2753E+03 wavenumber =  3.0532E-04 x =  1.9184E-04
+ rydberg =  2.7822E-05 ev =  3.7854E-04
+ n= 3.4035E+00 n-1= 2.4035E+00 k=1.5028E-02 ep1= 1.1584E+01 ep2=1.0230E-01
+  relative errors    3.1839D-09   3.1839D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  1.2762E-06 qphase=  5.9788E-04 qscat=  2.1925E-15 qabs=  1.2762E-06
+ g =  1.8573E-08 albedo =  1.7180E-09 1-g =  1.0000E+00
+ qext/a =  1.2762E-01 c/v =  9.5714E-02 kappa =  2.9004E-02
+
+ vacuum wavelength =  3.0942E+03 wavenumber =  3.2319E-04 x =  2.0306E-04
+ rydberg =  2.9451E-05 ev =  4.0070E-04
+ n= 3.4034E+00 n-1= 2.4034E+00 k=1.5908E-02 ep1= 1.1583E+01 ep2=1.0828E-01
+  relative errors    3.5675D-09   3.5675D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  1.4301E-06 qphase=  6.3287E-04 qscat=  2.7526E-15 qabs=  1.4301E-06
+ g =  2.0810E-08 albedo =  1.9248E-09 1-g =  1.0000E+00
+ qext/a =  1.4301E-01 c/v =  1.0726E-01 kappa =  3.2502E-02
+
+ vacuum wavelength =  2.9231E+03 wavenumber =  3.4210E-04 x =  2.1495E-04
+ rydberg =  3.1175E-05 ev =  4.2415E-04
+ n= 3.4034E+00 n-1= 2.4034E+00 k=1.6839E-02 ep1= 1.1583E+01 ep2=1.1462E-01
+  relative errors    3.9974D-09   3.9974D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  1.6024E-06 qphase=  6.6991E-04 qscat=  3.4559E-15 qabs=  1.6024E-06
+ g =  2.3317E-08 albedo =  2.1567E-09 1-g =  1.0000E+00
+ qext/a =  1.6024E-01 c/v =  1.2018E-01 kappa =  3.6418E-02
+
+ vacuum wavelength =  2.7615E+03 wavenumber =  3.6212E-04 x =  2.2753E-04
+ rydberg =  3.2999E-05 ev =  4.4897E-04
+ n= 3.4034E+00 n-1= 2.4034E+00 k=1.7825E-02 ep1= 1.1583E+01 ep2=1.2133E-01
+  relative errors    4.4789D-09   4.4789D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  1.7955E-06 qphase=  7.0911E-04 qscat=  4.3386E-15 qabs=  1.7955E-06
+ g =  2.6126E-08 albedo =  2.4165E-09 1-g =  1.0000E+00
+ qext/a =  1.7955E-01 c/v =  1.3466E-01 kappa =  4.0806E-02
+
+ vacuum wavelength =  2.6088E+03 wavenumber =  3.8332E-04 x =  2.4085E-04
+ rydberg =  3.4931E-05 ev =  4.7525E-04
+ n= 3.4034E+00 n-1= 2.4034E+00 k=1.8868E-02 ep1= 1.1583E+01 ep2=1.2843E-01
+  relative errors    5.0186D-09   5.0186D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  2.0117E-06 qphase=  7.5062E-04 qscat=  5.4472E-15 qabs=  2.0117E-06
+ g =  2.9274E-08 albedo =  2.7077E-09 1-g =  1.0000E+00
+ qext/a =  2.0117E-01 c/v =  1.5088E-01 kappa =  4.5722E-02
+
+ vacuum wavelength =  2.4646E+03 wavenumber =  4.0575E-04 x =  2.5494E-04
+ rydberg =  3.6974E-05 ev =  5.0306E-04
+ n= 3.4034E+00 n-1= 2.4034E+00 k=1.9972E-02 ep1= 1.1583E+01 ep2=1.3595E-01
+  relative errors    5.6231D-09   5.6231D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  2.2540E-06 qphase=  7.9454E-04 qscat=  6.8384E-15 qabs=  2.2540E-06
+ g =  3.2800E-08 albedo =  3.0338E-09 1-g =  1.0000E+00
+ qext/a =  2.2540E-01 c/v =  1.6905E-01 kappa =  5.1228E-02
+
+ vacuum wavelength =  2.3283E+03 wavenumber =  4.2950E-04 x =  2.6986E-04
+ rydberg =  3.9139E-05 ev =  5.3251E-04
+ n= 3.4034E+00 n-1= 2.4034E+00 k=2.1141E-02 ep1= 1.1583E+01 ep2=1.4390E-01
+  relative errors    6.3007D-09   6.3007D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  2.5256E-06 qphase=  8.4106E-04 qscat=  8.5859E-15 qabs=  2.5256E-06
+ g =  3.6752E-08 albedo =  3.3995E-09 1-g =  1.0000E+00
+ qext/a =  2.5256E-01 c/v =  1.8942E-01 kappa =  5.7401E-02
+
+ vacuum wavelength =  2.1996E+03 wavenumber =  4.5463E-04 x =  2.8565E-04
+ rydberg =  4.1429E-05 ev =  5.6367E-04
+ n= 3.4034E+00 n-1= 2.4034E+00 k=2.2378E-02 ep1= 1.1583E+01 ep2=1.5232E-01
+  relative errors    7.0596D-09   7.0596D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  2.8298E-06 qphase=  8.9027E-04 qscat=  1.0779E-14 qabs=  2.8298E-06
+ g =  4.1179E-08 albedo =  3.8090E-09 1-g =  1.0000E+00
+ qext/a =  2.8298E-01 c/v =  2.1224E-01 kappa =  6.4314E-02
+
+ vacuum wavelength =  2.0780E+03 wavenumber =  4.8123E-04 x =  3.0237E-04
+ rydberg =  4.3853E-05 ev =  5.9665E-04
+ n= 3.4033E+00 n-1= 2.4033E+00 k=2.3687E-02 ep1= 1.1582E+01 ep2=1.6123E-01
+  relative errors    6.8435D-09   7.9100D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  3.1708E-06 qphase=  9.4236E-04 qscat=  1.3532E-14 qabs=  3.1708E-06
+ g =  4.3889E-08 albedo =  4.2675E-09 1-g =  1.0000E+00
+ qext/a =  3.1708E-01 c/v =  2.3781E-01 kappa =  7.2065E-02
+
+ vacuum wavelength =  1.9631E+03 wavenumber =  5.0940E-04 x =  3.2006E-04
+ rydberg =  4.6420E-05 ev =  6.3157E-04
+ n= 3.4033E+00 n-1= 2.4033E+00 k=2.5073E-02 ep1= 1.1582E+01 ep2=1.7066E-01
+  relative errors    1.3058D-08   8.8630D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  3.5528E-06 qphase=  9.9751E-04 qscat=  1.6989E-14 qabs=  3.5528E-06
+ g =  5.4213E-08 albedo =  4.7819E-09 1-g =  1.0000E+00
+ qext/a =  3.5528E-01 c/v =  2.6646E-01 kappa =  8.0745E-02
+
+ vacuum wavelength =  1.8545E+03 wavenumber =  5.3923E-04 x =  3.3881E-04
+ rydberg =  4.9138E-05 ev =  6.6856E-04
+ n= 3.4033E+00 n-1= 2.4033E+00 k=2.6540E-02 ep1= 1.1582E+01 ep2=1.8065E-01
+  relative errors    1.0236D-08   9.9314D-09
+  n, nmx2, nmx1     2     4    19
+ qext=  3.9809E-06 qphase=  1.0559E-03 qscat=  2.1332E-14 qabs=  3.9809E-06
+ g =  5.8110E-08 albedo =  5.3587E-09 1-g =  1.0000E+00
+ qext/a =  3.9809E-01 c/v =  2.9856E-01 kappa =  9.0474E-02
+
+ vacuum wavelength =  1.7520E+03 wavenumber =  5.7078E-04 x =  3.5863E-04
+ rydberg =  5.2013E-05 ev =  7.0767E-04
+ n= 3.4033E+00 n-1= 2.4033E+00 k=2.8092E-02 ep1= 1.1582E+01 ep2=1.9121E-01
+  relative errors    1.6310D-08   1.1128D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  4.4601E-06 qphase=  1.1177E-03 qscat=  2.6780E-14 qabs=  4.4601E-06
+ g =  6.8013E-08 albedo =  6.0043E-09 1-g =  1.0000E+00
+ qext/a =  4.4601E-01 c/v =  3.3451E-01 kappa =  1.0137E-01
+
+ vacuum wavelength =  1.6551E+03 wavenumber =  6.0419E-04 x =  3.7963E-04
+ rydberg =  5.5058E-05 ev =  7.4910E-04
+ n= 3.4032E+00 n-1= 2.4032E+00 k=2.9735E-02 ep1= 1.1581E+01 ep2=2.0239E-01
+  relative errors    1.5427D-08   1.2469D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  4.9977E-06 qphase=  1.1831E-03 qscat=  3.3623E-14 qabs=  4.9977E-06
+ g =  7.4497E-08 albedo =  6.7278E-09 1-g =  1.0000E+00
+ qext/a =  4.9977E-01 c/v =  3.7483E-01 kappa =  1.1358E-01
+
+ vacuum wavelength =  1.5636E+03 wavenumber =  6.3955E-04 x =  4.0184E-04
+ rydberg =  5.8280E-05 ev =  7.9294E-04
+ n= 3.4032E+00 n-1= 2.4032E+00 k=3.1474E-02 ep1= 1.1581E+01 ep2=2.1422E-01
+  relative errors    1.3853D-08   1.3971D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  5.5995E-06 qphase=  1.2524E-03 qscat=  4.2213E-14 qabs=  5.5995E-06
+ g =  8.1411E-08 albedo =  7.5387E-09 1-g =  1.0000E+00
+ qext/a =  5.5995E-01 c/v =  4.1996E-01 kappa =  1.2726E-01
+
+ vacuum wavelength =  1.4772E+03 wavenumber =  6.7696E-04 x =  4.2534E-04
+ rydberg =  6.1689E-05 ev =  8.3932E-04
+ n= 3.4032E+00 n-1= 2.4032E+00 k=3.3314E-02 ep1= 1.1581E+01 ep2=2.2675E-01
+  relative errors    1.4835D-08   1.5653D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  6.2734E-06 qphase=  1.3256E-03 qscat=  5.2990E-14 qabs=  6.2734E-06
+ g =  9.0800E-08 albedo =  8.4468E-09 1-g =  1.0000E+00
+ qext/a =  6.2734E-01 c/v =  4.7051E-01 kappa =  1.4258E-01
+
+ vacuum wavelength =  1.3955E+03 wavenumber =  7.1659E-04 x =  4.5025E-04
+ rydberg =  6.5300E-05 ev =  8.8846E-04
+ n= 3.4031E+00 n-1= 2.4031E+00 k=3.5262E-02 ep1= 1.1580E+01 ep2=2.4000E-01
+  relative errors    2.0732D-08   1.7539D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  7.0294E-06 qphase=  1.4032E-03 qscat=  6.6531E-14 qabs=  7.0294E-06
+ g =  1.0420E-07 albedo =  9.4647E-09 1-g =  1.0000E+00
+ qext/a =  7.0294E-01 c/v =  5.2720E-01 kappa =  1.5976E-01
+
+ vacuum wavelength =  1.3183E+03 wavenumber =  7.5855E-04 x =  4.7661E-04
+ rydberg =  6.9124E-05 ev =  9.4049E-04
+ n= 3.4031E+00 n-1= 2.4031E+00 k=3.7324E-02 ep1= 1.1580E+01 ep2=2.5403E-01
+  relative errors    1.8757D-08   1.9653D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  7.8760E-06 qphase=  1.4854E-03 qscat=  8.3540E-14 qabs=  7.8760E-06
+ g =  1.1408E-07 albedo =  1.0607E-08 1-g =  1.0000E+00
+ qext/a =  7.8760E-01 c/v =  5.9070E-01 kappa =  1.7900E-01
+
+ vacuum wavelength =  1.2454E+03 wavenumber =  8.0295E-04 x =  5.0451E-04
+ rydberg =  7.3171E-05 ev =  9.9554E-04
+ n= 3.4030E+00 n-1= 2.4030E+00 k=3.9508E-02 ep1= 1.1579E+01 ep2=2.6889E-01
+  relative errors    2.3064D-08   2.2022D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  8.8254E-06 qphase=  1.5724E-03 qscat=  1.0489E-13 qabs=  8.8254E-06
+ g =  1.2905E-07 albedo =  1.1884E-08 1-g =  1.0000E+00
+ qext/a =  8.8254E-01 c/v =  6.6190E-01 kappa =  2.0058E-01
+
+ vacuum wavelength =  1.1766E+03 wavenumber =  8.4991E-04 x =  5.3401E-04
+ rydberg =  7.7449E-05 ev =  1.0538E-03
+ n= 3.4030E+00 n-1= 2.4030E+00 k=4.1820E-02 ep1= 1.1579E+01 ep2=2.8463E-01
+  relative errors    2.6480D-08   2.4672D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  9.8879E-06 qphase=  1.6643E-03 qscat=  1.3166E-13 qabs=  9.8879E-06
+ g =  1.4496E-07 albedo =  1.3315E-08 1-g =  1.0000E+00
+ qext/a =  9.8879E-01 c/v =  7.4159E-01 kappa =  2.2472E-01
+
+ vacuum wavelength =  1.1115E+03 wavenumber =  8.9969E-04 x =  5.6529E-04
+ rydberg =  8.1985E-05 ev =  1.1155E-03
+ n= 3.4029E+00 n-1= 2.4029E+00 k=4.4269E-02 ep1= 1.1578E+01 ep2=3.0129E-01
+  relative errors    2.7082D-08   2.7647D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  1.1081E-05 qphase=  1.7618E-03 qscat=  1.6532E-13 qabs=  1.1081E-05
+ g =  1.6088E-07 albedo =  1.4920E-08 1-g =  1.0000E+00
+ qext/a =  1.1081E+00 c/v =  8.3104E-01 kappa =  2.5183E-01
+
+ vacuum wavelength =  1.0501E+03 wavenumber =  9.5229E-04 x =  5.9834E-04
+ rydberg =  8.6779E-05 ev =  1.1807E-03
+ n= 3.4028E+00 n-1= 2.4028E+00 k=4.6862E-02 ep1= 1.1577E+01 ep2=3.1892E-01
+  relative errors    3.0006D-08   3.0975D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  1.2416E-05 qphase=  1.8648E-03 qscat=  2.0751E-13 qabs=  1.2416E-05
+ g =  1.8003E-07 albedo =  1.6713E-08 1-g =  1.0000E+00
+ qext/a =  1.2416E+00 c/v =  9.3120E-01 kappa =  2.8218E-01
+
+ vacuum wavelength =  9.9201E+02 wavenumber =  1.0081E-03 x =  6.3338E-04
+ rydberg =  9.1861E-05 ev =  1.2498E-03
+ n= 3.4027E+00 n-1= 2.4027E+00 k=4.9608E-02 ep1= 1.1576E+01 ep2=3.3760E-01
+  relative errors    3.6735D-08   3.4708D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  1.3914E-05 qphase=  1.9740E-03 qscat=  2.6055E-13 qabs=  1.3914E-05
+ g =  2.0358E-07 albedo =  1.8726E-08 1-g =  1.0000E+00
+ qext/a =  1.3914E+00 c/v =  1.0435E+00 kappa =  3.1622E-01
+
+ vacuum wavelength =  9.3716E+02 wavenumber =  1.0671E-03 x =  6.7045E-04
+ rydberg =  9.7237E-05 ev =  1.3230E-03
+ n= 3.4026E+00 n-1= 2.4026E+00 k=5.2514E-02 ep1= 1.1575E+01 ep2=3.5737E-01
+  relative errors    3.8827D-08   3.8890D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  1.5592E-05 qphase=  2.0895E-03 qscat=  3.2712E-13 qabs=  1.5592E-05
+ g =  2.2669E-07 albedo =  2.0981E-08 1-g =  1.0000E+00
+ qext/a =  1.5592E+00 c/v =  1.1694E+00 kappa =  3.5435E-01
+
+ vacuum wavelength =  8.8534E+02 wavenumber =  1.1295E-03 x =  7.0969E-04
+ rydberg =  1.0293E-04 ev =  1.4004E-03
+ n= 3.4025E+00 n-1= 2.4025E+00 k=5.5590E-02 ep1= 1.1574E+01 ep2=3.7829E-01
+  relative errors    4.4267D-08   4.3576D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  1.7471E-05 qphase=  2.2119E-03 qscat=  4.1070E-13 qabs=  1.7471E-05
+ g =  2.5445E-07 albedo =  2.3507E-08 1-g =  1.0000E+00
+ qext/a =  1.7471E+00 c/v =  1.3104E+00 kappa =  3.9708E-01
+
+ vacuum wavelength =  8.3639E+02 wavenumber =  1.1956E-03 x =  7.5123E-04
+ rydberg =  1.0895E-04 ev =  1.4824E-03
+ n= 3.4024E+00 n-1= 2.4024E+00 k=5.8847E-02 ep1= 1.1573E+01 ep2=4.0044E-01
+  relative errors    4.8897D-08   4.8826D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  1.9578E-05 qphase=  2.3413E-03 qscat=  5.1563E-13 qabs=  1.9578E-05
+ g =  2.8466E-07 albedo =  2.6337E-08 1-g =  1.0000E+00
+ qext/a =  1.9578E+00 c/v =  1.4684E+00 kappa =  4.4496E-01
+
+ vacuum wavelength =  7.9015E+02 wavenumber =  1.2656E-03 x =  7.9519E-04
+ rydberg =  1.1533E-04 ev =  1.5691E-03
+ n= 3.4023E+00 n-1= 2.4023E+00 k=6.2295E-02 ep1= 1.1572E+01 ep2=4.2389E-01
+  relative errors    5.3658D-08   5.4708D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  2.1939E-05 qphase=  2.4783E-03 qscat=  6.4736E-13 qabs=  2.1939E-05
+ g =  3.1825E-07 albedo =  2.9508E-08 1-g =  1.0000E+00
+ qext/a =  2.1939E+00 c/v =  1.6454E+00 kappa =  4.9861E-01
+
+ vacuum wavelength =  7.4646E+02 wavenumber =  1.3397E-03 x =  8.4173E-04
+ rydberg =  1.2208E-04 ev =  1.6610E-03
+ n= 3.4021E+00 n-1= 2.4021E+00 k=6.5944E-02 ep1= 1.1570E+01 ep2=4.4870E-01
+  relative errors    6.1512D-08   6.1299D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  2.4585E-05 qphase=  2.6234E-03 qscat=  8.1275E-13 qabs=  2.4585E-05
+ g =  3.5739E-07 albedo =  3.3058E-08 1-g =  1.0000E+00
+ qext/a =  2.4585E+00 c/v =  1.8439E+00 kappa =  5.5876E-01
+
+ vacuum wavelength =  7.0519E+02 wavenumber =  1.4181E-03 x =  8.9099E-04
+ rydberg =  1.2922E-04 ev =  1.7582E-03
+ n= 3.4020E+00 n-1= 2.4020E+00 k=6.9808E-02 ep1= 1.1569E+01 ep2=4.7497E-01
+  relative errors    6.8231D-08   6.8684D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  2.7550E-05 qphase=  2.7770E-03 qscat=  1.0204E-12 qabs=  2.7550E-05
+ g =  4.0000E-07 albedo =  3.7039E-08 1-g =  1.0000E+00
+ qext/a =  2.7550E+00 c/v =  2.0662E+00 kappa =  6.2613E-01
+
+ vacuum wavelength =  6.6620E+02 wavenumber =  1.5011E-03 x =  9.4314E-04
+ rydberg =  1.3679E-04 ev =  1.8611E-03
+ n= 3.4018E+00 n-1= 2.4018E+00 k=7.3899E-02 ep1= 1.1567E+01 ep2=5.0278E-01
+  relative errors    7.6470D-08   7.6959D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  3.0873E-05 qphase=  2.9395E-03 qscat=  1.2811E-12 qabs=  3.0873E-05
+ g =  4.4814E-07 albedo =  4.1496E-08 1-g =  1.0000E+00
+ qext/a =  3.0873E+00 c/v =  2.3155E+00 kappa =  7.0167E-01
+
+ vacuum wavelength =  6.2936E+02 wavenumber =  1.5889E-03 x =  9.9835E-04
+ rydberg =  1.4479E-04 ev =  1.9700E-03
+ n= 3.4016E+00 n-1= 2.4016E+00 k=7.8229E-02 ep1= 1.1565E+01 ep2=5.3221E-01
+  relative errors    8.5726D-08   8.6233D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  3.4598E-05 qphase=  3.1116E-03 qscat=  1.6085E-12 qabs=  3.4598E-05
+ g =  5.0210E-07 albedo =  4.6491E-08 1-g =  1.0000E+00
+ qext/a =  3.4598E+00 c/v =  2.5949E+00 kappa =  7.8632E-01
+
+ vacuum wavelength =  5.9456E+02 wavenumber =  1.6819E-03 x =  1.0568E-03
+ rydberg =  1.5327E-04 ev =  2.0853E-03
+ n= 3.4014E+00 n-1= 2.4014E+00 k=8.2814E-02 ep1= 1.1563E+01 ep2=5.6337E-01
+  relative errors    9.6986D-08   9.6623D-08
+  n, nmx2, nmx1     2     4    19
+ qext=  3.8772E-05 qphase=  3.2937E-03 qscat=  2.0195E-12 qabs=  3.8772E-05
+ g =  5.6308E-07 albedo =  5.2087E-08 1-g =  1.0000E+00
+ qext/a =  3.8772E+00 c/v =  2.9079E+00 kappa =  8.8118E-01
+
+ vacuum wavelength =  5.6169E+02 wavenumber =  1.7803E-03 x =  1.1186E-03
+ rydberg =  1.6224E-04 ev =  2.2073E-03
+ n= 3.4011E+00 n-1= 2.4011E+00 k=8.7669E-02 ep1= 1.1560E+01 ep2=5.9634E-01
+  relative errors    2.5727D-10   4.8789D-15
+  n, nmx2, nmx1     3     4    19
+ qext=  4.3453E-05 qphase=  3.4865E-03 qscat=  2.5354E-12 qabs=  4.3453E-05
+ g =  6.3065E-07 albedo =  5.8349E-08 1-g =  1.0000E+00
+ qext/a =  4.3453E+00 c/v =  3.2589E+00 kappa =  9.8756E-01
+
+ vacuum wavelength =  5.3063E+02 wavenumber =  1.8846E-03 x =  1.1841E-03
+ rydberg =  1.7173E-04 ev =  2.3365E-03
+ n= 3.4008E+00 n-1= 2.4008E+00 k=9.2811E-02 ep1= 1.1557E+01 ep2=6.3126E-01
+  relative errors    8.7814D-10   6.1255D-15
+  n, nmx2, nmx1     3     4    19
+ qext=  4.8700E-05 qphase=  3.6905E-03 qscat=  3.1833E-12 qabs=  4.8700E-05
+ g =  7.0600E-07 albedo =  6.5367E-08 1-g =  1.0000E+00
+ qext/a =  4.8700E+00 c/v =  3.6525E+00 kappa =  1.1068E+00
+
+ vacuum wavelength =  5.0129E+02 wavenumber =  1.9949E-03 x =  1.2534E-03
+ rydberg =  1.8178E-04 ev =  2.4733E-03
+ n= 3.4005E+00 n-1= 2.4005E+00 k=9.8256E-02 ep1= 1.1554E+01 ep2=6.6824E-01
+  relative errors    3.5889D-10   7.6905D-15
+  n, nmx2, nmx1     3     4    19
+ qext=  5.4580E-05 qphase=  3.9066E-03 qscat=  3.9968E-12 qabs=  5.4580E-05
+ g =  7.9117E-07 albedo =  7.3228E-08 1-g =  1.0000E+00
+ qext/a =  5.4580E+00 c/v =  4.0935E+00 kappa =  1.2405E+00
+
+ vacuum wavelength =  4.7358E+02 wavenumber =  2.1116E-03 x =  1.3267E-03
+ rydberg =  1.9242E-04 ev =  2.6180E-03
+ n= 3.4001E+00 n-1= 2.4001E+00 k=1.0402E-01 ep1= 1.1550E+01 ep2=7.0736E-01
+  relative errors    1.5347D-11   9.6547D-15
+  n, nmx2, nmx1     3     4    19
+ qext=  6.1173E-05 qphase=  4.1352E-03 qscat=  5.0177E-12 qabs=  6.1173E-05
+ g =  8.8640E-07 albedo =  8.2025E-08 1-g =  1.0000E+00
+ qext/a =  6.1173E+00 c/v =  4.5879E+00 kappa =  1.3903E+00
+
+ vacuum wavelength =  4.4739E+02 wavenumber =  2.2352E-03 x =  1.4044E-03
+ rydberg =  2.0369E-04 ev =  2.7713E-03
+ n= 3.3997E+00 n-1= 2.3997E+00 k=1.1013E-01 ep1= 1.1546E+01 ep2=7.4882E-01
+  relative errors    3.6707D-10   1.2122D-14
+  n, nmx2, nmx1     3     4    19
+ qext=  6.8567E-05 qphase=  4.3773E-03 qscat=  6.3002E-12 qabs=  6.8567E-05
+ g =  9.9312E-07 albedo =  9.1883E-08 1-g =  1.0000E+00
+ qext/a =  6.8567E+00 c/v =  5.1426E+00 kappa =  1.5583E+00
+
+ vacuum wavelength =  4.2266E+02 wavenumber =  2.3660E-03 x =  1.4866E-03
+ rydberg =  2.1560E-04 ev =  2.9334E-03
+ n= 3.3993E+00 n-1= 2.3993E+00 k=1.1660E-01 ep1= 1.1542E+01 ep2=7.9272E-01
+  relative errors    7.7233D-11   1.5218D-14
+  n, nmx2, nmx1     3     4    19
+ qext=  7.6853E-05 qphase=  4.6335E-03 qscat=  7.9097E-12 qabs=  7.6853E-05
+ g =  1.1122E-06 albedo =  1.0292E-07 1-g =  1.0000E+00
+ qext/a =  7.6853E+00 c/v =  5.7640E+00 kappa =  1.7467E+00
+
+ vacuum wavelength =  3.9929E+02 wavenumber =  2.5044E-03 x =  1.5736E-03
+ rydberg =  2.2822E-04 ev =  3.1051E-03
+ n= 3.3988E+00 n-1= 2.3988E+00 k=1.2345E-01 ep1= 1.1537E+01 ep2=8.3916E-01
+  relative errors    5.6127D-11   1.9106D-14
+  n, nmx2, nmx1     3     4    19
+ qext=  8.6147E-05 qphase=  4.9047E-03 qscat=  9.9311E-12 qabs=  8.6147E-05
+ g =  1.2459E-06 albedo =  1.1528E-07 1-g =  1.0000E+00
+ qext/a =  8.6147E+00 c/v =  6.4610E+00 kappa =  1.9579E+00
+
+ vacuum wavelength =  3.7721E+02 wavenumber =  2.6510E-03 x =  1.6657E-03
+ rydberg =  2.4158E-04 ev =  3.2869E-03
+ n= 3.3982E+00 n-1= 2.3982E+00 k=1.3071E-01 ep1= 1.1531E+01 ep2=8.8836E-01
+  relative errors    5.3087D-11   2.3987D-14
+  n, nmx2, nmx1     3     4    19
+ qext=  9.6574E-05 qphase=  5.1919E-03 qscat=  1.2469E-11 qabs=  9.6574E-05
+ g =  1.3954E-06 albedo =  1.2912E-07 1-g =  1.0000E+00
+ qext/a =  9.6574E+00 c/v =  7.2431E+00 kappa =  2.1949E+00
+
+ vacuum wavelength =  3.5635E+02 wavenumber =  2.8062E-03 x =  1.7632E-03
+ rydberg =  2.5572E-04 ev =  3.4793E-03
+ n= 3.3976E+00 n-1= 2.3976E+00 k=1.3840E-01 ep1= 1.1525E+01 ep2=9.4046E-01
+  relative errors    2.0970D-10   3.0117D-14
+  n, nmx2, nmx1     3     4    19
+ qext=  1.0826E-04 qphase=  5.4959E-03 qscat=  1.5657E-11 qabs=  1.0826E-04
+ g =  1.5630E-06 albedo =  1.4462E-07 1-g =  1.0000E+00
+ qext/a =  1.0826E+01 c/v =  8.1199E+00 kappa =  2.4606E+00
+
+ vacuum wavelength =  3.3665E+02 wavenumber =  2.9704E-03 x =  1.8664E-03
+ rydberg =  2.7069E-04 ev =  3.6829E-03
+ n= 3.3968E+00 n-1= 2.3968E+00 k=1.4654E-01 ep1= 1.1517E+01 ep2=9.9553E-01
+  relative errors    7.8577D-11   3.7810D-14
+  n, nmx2, nmx1     3     4    19
+ qext=  1.2138E-04 qphase=  5.8175E-03 qscat=  1.9657E-11 qabs=  1.2138E-04
+ g =  1.7503E-06 albedo =  1.6195E-07 1-g =  1.0000E+00
+ qext/a =  1.2138E+01 c/v =  9.1035E+00 kappa =  2.7586E+00
+
+ vacuum wavelength =  3.1804E+02 wavenumber =  3.1443E-03 x =  1.9756E-03
+ rydberg =  2.8653E-04 ev =  3.8984E-03
+ n= 3.3960E+00 n-1= 2.3960E+00 k=1.5516E-01 ep1= 1.1509E+01 ep2=1.0538E+00
+  relative errors    1.2482D-10   4.7467D-14
+  n, nmx2, nmx1     3     4    19
+ qext=  1.3608E-04 qphase=  6.1581E-03 qscat=  2.4680E-11 qabs=  1.3608E-04
+ g =  1.9600E-06 albedo =  1.8136E-07 1-g =  1.0000E+00
+ qext/a =  1.3608E+01 c/v =  1.0206E+01 kappa =  3.0927E+00
+
+ vacuum wavelength =  3.0045E+02 wavenumber =  3.3283E-03 x =  2.0913E-03
+ rydberg =  3.0330E-04 ev =  4.1266E-03
+ n= 3.3951E+00 n-1= 2.3951E+00 k=1.6428E-01 ep1= 1.1500E+01 ep2=1.1155E+00
+  relative errors    1.3920D-10   5.9598D-14
+  n, nmx2, nmx1     3     4    19
+ qext=  1.5257E-04 qphase=  6.5187E-03 qscat=  3.0990E-11 qabs=  1.5257E-04
+ g =  2.1951E-06 albedo =  2.0313E-07 1-g =  1.0000E+00
+ qext/a =  1.5257E+01 c/v =  1.1442E+01 kappa =  3.4674E+00
+
+ vacuum wavelength =  2.8384E+02 wavenumber =  3.5231E-03 x =  2.2136E-03
+ rydberg =  3.2105E-04 ev =  4.3681E-03
+ n= 3.3941E+00 n-1= 2.3941E+00 k=1.7395E-01 ep1= 1.1490E+01 ep2=1.1808E+00
+  relative errors    4.3569D-11   7.4822D-14
+  n, nmx2, nmx1     3     4    19
+ qext=  1.7106E-04 qphase=  6.9004E-03 qscat=  3.8911E-11 qabs=  1.7106E-04
+ g =  2.4577E-06 albedo =  2.2746E-07 1-g =  1.0000E+00
+ qext/a =  1.7106E+01 c/v =  1.2830E+01 kappa =  3.8878E+00
+
+ vacuum wavelength =  2.6815E+02 wavenumber =  3.7293E-03 x =  2.3432E-03
+ rydberg =  3.3983E-04 ev =  4.6237E-03
+ n= 3.3929E+00 n-1= 2.3929E+00 k=1.8419E-01 ep1= 1.1478E+01 ep2=1.2499E+00
+  relative errors    3.0848D-12   9.3933D-14
+  n, nmx2, nmx1     3     4    19
+ qext=  1.9182E-04 qphase=  7.3042E-03 qscat=  4.8854E-11 qabs=  1.9182E-04
+ g =  2.7516E-06 albedo =  2.5468E-07 1-g =  1.0000E+00
+ qext/a =  1.9182E+01 c/v =  1.4387E+01 kappa =  4.3596E+00
+
+ vacuum wavelength =  2.5332E+02 wavenumber =  3.9476E-03 x =  2.4803E-03
+ rydberg =  3.5973E-04 ev =  4.8944E-03
+ n= 3.3916E+00 n-1= 2.3916E+00 k=1.9503E-01 ep1= 1.1465E+01 ep2=1.3229E+00
+  relative errors    8.9483D-11   1.1794D-13
+  n, nmx2, nmx1     3     4    19
+ qext=  2.1511E-04 qphase=  7.7320E-03 qscat=  6.1347E-11 qabs=  2.1511E-04
+ g =  3.0806E-06 albedo =  2.8519E-07 1-g =  1.0000E+00
+ qext/a =  2.1511E+01 c/v =  1.6133E+01 kappa =  4.8888E+00
+
+ vacuum wavelength =  2.3932E+02 wavenumber =  4.1785E-03 x =  2.6254E-03
+ rydberg =  3.8077E-04 ev =  5.1807E-03
+ n= 3.3901E+00 n-1= 2.3901E+00 k=2.0652E-01 ep1= 1.1450E+01 ep2=1.4002E+00
+  relative errors    1.9304D-10   1.4805D-13
+  n, nmx2, nmx1     3     4    19
+ qext=  2.4125E-04 qphase=  8.1845E-03 qscat=  7.7021E-11 qabs=  2.4125E-04
+ g =  3.4481E-06 albedo =  3.1926E-07 1-g =  1.0000E+00
+ qext/a =  2.4125E+01 c/v =  1.8094E+01 kappa =  5.4829E+00
+
+ vacuum wavelength =  2.2608E+02 wavenumber =  4.4232E-03 x =  2.7792E-03
+ rydberg =  4.0307E-04 ev =  5.4841E-03
+ n= 3.3885E+00 n-1= 2.3885E+00 k=2.1870E-01 ep1= 1.1434E+01 ep2=1.4821E+00
+  relative errors    6.3693D-11   1.8591D-13
+  n, nmx2, nmx1     3     4    19
+ qext=  2.7060E-04 qphase=  8.6642E-03 qscat=  9.6729E-11 qabs=  2.7060E-04
+ g =  3.8597E-06 albedo =  3.5746E-07 1-g =  1.0000E+00
+ qext/a =  2.7060E+01 c/v =  2.0295E+01 kappa =  6.1500E+00
+
+ vacuum wavelength =  2.1358E+02 wavenumber =  4.6821E-03 x =  2.9418E-03
+ rydberg =  4.2666E-04 ev =  5.8050E-03
+ n= 3.3866E+00 n-1= 2.3866E+00 k=2.3161E-01 ep1= 1.1415E+01 ep2=1.5687E+00
+  relative errors    7.6426D-11   2.3340D-13
+  n, nmx2, nmx1     3     4    19
+ qext=  3.0357E-04 qphase=  9.1715E-03 qscat=  1.2146E-10 qabs=  3.0357E-04
+ g =  4.3194E-06 albedo =  4.0011E-07 1-g =  1.0000E+00
+ qext/a =  3.0357E+01 c/v =  2.2768E+01 kappa =  6.8993E+00
+
+ vacuum wavelength =  2.0177E+02 wavenumber =  4.9561E-03 x =  3.1140E-03
+ rydberg =  4.5164E-04 ev =  6.1448E-03
+ n= 3.3845E+00 n-1= 2.3845E+00 k=2.4530E-01 ep1= 1.1395E+01 ep2=1.6604E+00
+  relative errors    1.3951D-10   2.9304D-13
+  n, nmx2, nmx1     3     4    19
+ qext=  3.4061E-04 qphase=  9.7086E-03 qscat=  1.5253E-10 qabs=  3.4061E-04
+ g =  4.8331E-06 albedo =  4.4781E-07 1-g =  1.0000E+00
+ qext/a =  3.4061E+01 c/v =  2.5546E+01 kappa =  7.7411E+00
+
+ vacuum wavelength =  1.9062E+02 wavenumber =  5.2460E-03 x =  3.2962E-03
+ rydberg =  4.7805E-04 ev =  6.5043E-03
+ n= 3.3822E+00 n-1= 2.3822E+00 k=2.5982E-01 ep1= 1.1372E+01 ep2=1.7575E+00
+  relative errors    1.1271D-10   3.6786D-13
+  n, nmx2, nmx1     3     4    19
+ qext=  3.8220E-04 qphase=  1.0277E-02 qscat=  1.9151E-10 qabs=  3.8220E-04
+ g =  5.4068E-06 albedo =  5.0108E-07 1-g =  9.9999E-01
+ qext/a =  3.8220E+01 c/v =  2.8665E+01 kappa =  8.6864E+00
+
+ vacuum wavelength =  1.8008E+02 wavenumber =  5.5531E-03 x =  3.4891E-03
+ rydberg =  5.0603E-04 ev =  6.8850E-03
+ n= 3.3795E+00 n-1= 2.3795E+00 k=2.7521E-01 ep1= 1.1345E+01 ep2=1.8601E+00
+  relative errors    5.2879D-11   4.6185D-13
+  n, nmx2, nmx1     3     4    19
+ qext=  4.2899E-04 qphase=  1.0879E-02 qscat=  2.4050E-10 qabs=  4.2899E-04
+ g =  6.0474E-06 albedo =  5.6063E-07 1-g =  9.9999E-01
+ qext/a =  4.2899E+01 c/v =  3.2174E+01 kappa =  9.7498E+00
+
+ vacuum wavelength =  1.7012E+02 wavenumber =  5.8782E-03 x =  3.6934E-03
+ rydberg =  5.3566E-04 ev =  7.2880E-03
+ n= 3.3764E+00 n-1= 2.3764E+00 k=2.9154E-01 ep1= 1.1315E+01 ep2=1.9687E+00
+  relative errors    3.3870D-11   5.7990D-13
+  n, nmx2, nmx1     3     4    19
+ qext=  4.8164E-04 qphase=  1.1516E-02 qscat=  3.0205E-10 qabs=  4.8164E-04
+ g =  6.7625E-06 albedo =  6.2712E-07 1-g =  9.9999E-01
+ qext/a =  4.8164E+01 c/v =  3.6123E+01 kappa =  1.0946E+01
+
+ vacuum wavelength =  1.6072E+02 wavenumber =  6.2220E-03 x =  3.9094E-03
+ rydberg =  5.6699E-04 ev =  7.7143E-03
+ n= 3.3730E+00 n-1= 2.3730E+00 k=3.0885E-01 ep1= 1.1282E+01 ep2=2.0835E+00
+  relative errors    4.5389D-11   7.2796D-13
+  n, nmx2, nmx1     3     4    19
+ qext=  5.4080E-04 qphase=  1.2190E-02 qscat=  3.7928E-10 qabs=  5.4080E-04
+ g =  7.5597E-06 albedo =  7.0132E-07 1-g =  9.9999E-01
+ qext/a =  5.4080E+01 c/v =  4.0560E+01 kappa =  1.2291E+01
+
+ vacuum wavelength =  1.5183E+02 wavenumber =  6.5863E-03 x =  4.1383E-03
+ rydberg =  6.0019E-04 ev =  8.1660E-03
+ n= 3.3690E+00 n-1= 2.3690E+00 k=3.2721E-01 ep1= 1.1243E+01 ep2=2.2047E+00
+  relative errors    3.0906D-11   9.1405D-13
+  n, nmx2, nmx1     3     4    19
+ qext=  6.0748E-04 qphase=  1.2905E-02 qscat=  4.7637E-10 qabs=  6.0748E-04
+ g =  8.4488E-06 albedo =  7.8417E-07 1-g =  9.9999E-01
+ qext/a =  6.0748E+01 c/v =  4.5561E+01 kappa =  1.3806E+01
+
+ vacuum wavelength =  1.4343E+02 wavenumber =  6.9720E-03 x =  4.3807E-03
+ rydberg =  6.3534E-04 ev =  8.6442E-03
+ n= 3.3646E+00 n-1= 2.3646E+00 k=3.4666E-01 ep1= 1.1200E+01 ep2=2.3327E+00
+  relative errors    2.7491D-11   1.1478D-12
+  n, nmx2, nmx1     3     4    19
+ qext=  6.8248E-04 qphase=  1.3661E-02 qscat=  5.9838E-10 qabs=  6.8248E-04
+ g =  9.4400E-06 albedo =  8.7678E-07 1-g =  9.9999E-01
+ qext/a =  6.8248E+01 c/v =  5.1186E+01 kappa =  1.5511E+01
+
+ vacuum wavelength =  1.3550E+02 wavenumber =  7.3801E-03 x =  4.6370E-03
+ rydberg =  6.7252E-04 ev =  9.1501E-03
+ n= 3.3594E+00 n-1= 2.3594E+00 k=3.6726E-01 ep1= 1.1151E+01 ep2=2.4675E+00
+  relative errors    8.3931D-11   1.4410D-12
+  n, nmx2, nmx1     3     4    19
+ qext=  7.6699E-04 qphase=  1.4461E-02 qscat=  7.5152E-10 qabs=  7.6699E-04
+ g =  1.0542E-05 albedo =  9.7982E-07 1-g =  9.9999E-01
+ qext/a =  7.6699E+01 c/v =  5.7525E+01 kappa =  1.7432E+01
+
+ vacuum wavelength =  1.2801E+02 wavenumber =  7.8119E-03 x =  4.9084E-03
+ rydberg =  7.1187E-04 ev =  9.6855E-03
+ n= 3.3536E+00 n-1= 2.3536E+00 k=3.8908E-01 ep1= 1.1095E+01 ep2=2.6096E+00
+  relative errors    1.4786D-12   1.8092D-12
+  n, nmx2, nmx1     3     4    19
+ qext=  8.6216E-04 qphase=  1.5308E-02 qscat=  9.4386E-10 qabs=  8.6216E-04
+ g =  1.1767E-05 albedo =  1.0948E-06 1-g =  9.9999E-01
+ qext/a =  8.6216E+01 c/v =  6.4662E+01 kappa =  1.9595E+01
+
+ vacuum wavelength =  1.2093E+02 wavenumber =  8.2692E-03 x =  5.1957E-03
+ rydberg =  7.5355E-04 ev =  1.0253E-02
+ n= 3.3469E+00 n-1= 2.3469E+00 k=4.1218E-01 ep1= 1.1032E+01 ep2=2.7591E+00
+  relative errors    1.8565D-12   2.2717D-12
+  n, nmx2, nmx1     3     4    19
+ qext=  9.6955E-04 qphase=  1.6204E-02 qscat=  1.1856E-09 qabs=  9.6955E-04
+ g =  1.3128E-05 albedo =  1.2228E-06 1-g =  9.9999E-01
+ qext/a =  9.6955E+01 c/v =  7.2716E+01 kappa =  2.2035E+01
+
+ vacuum wavelength =  1.1425E+02 wavenumber =  8.7527E-03 x =  5.4995E-03
+ rydberg =  7.9761E-04 ev =  1.0852E-02
+ n= 3.3393E+00 n-1= 2.3393E+00 k=4.3661E-01 ep1= 1.0960E+01 ep2=2.9159E+00
+  relative errors    5.7327D-12   2.8516D-12
+  n, nmx2, nmx1     3     4    19
+ qext=  1.0906E-03 qphase=  1.7152E-02 qscat=  1.4889E-09 qabs=  1.0906E-03
+ g =  1.4636E-05 albedo =  1.3652E-06 1-g =  9.9999E-01
+ qext/a =  1.0906E+02 c/v =  8.1792E+01 kappa =  2.4785E+01
+
+ vacuum wavelength =  1.0793E+02 wavenumber =  9.2653E-03 x =  5.8215E-03
+ rydberg =  8.4431E-04 ev =  1.1487E-02
+ n= 3.3306E+00 n-1= 2.3306E+00 k=4.6243E-01 ep1= 1.0879E+01 ep2=3.0803E+00
+  relative errors    4.8241D-11   3.5807D-12
+  n, nmx2, nmx1     3     4    19
+ qext=  1.2273E-03 qphase=  1.8156E-02 qscat=  1.8704E-09 qabs=  1.2273E-03
+ g =  1.6308E-05 albedo =  1.5240E-06 1-g =  9.9998E-01
+ qext/a =  1.2273E+02 c/v =  9.2044E+01 kappa =  2.7892E+01
+
+ vacuum wavelength =  1.0196E+02 wavenumber =  9.8078E-03 x =  6.1624E-03
+ rydberg =  8.9375E-04 ev =  1.2160E-02
+ n= 3.3207E+00 n-1= 2.3207E+00 k=4.8972E-01 ep1= 1.0787E+01 ep2=3.2524E+00
+  relative errors    2.9092D-11   4.4964D-12
+  n, nmx2, nmx1     3     4    19
+ qext=  1.3817E-03 qphase=  1.9219E-02 qscat=  2.3497E-09 qabs=  1.3817E-03
+ g =  1.8158E-05 albedo =  1.7006E-06 1-g =  9.9998E-01
+ qext/a =  1.3817E+02 c/v =  1.0363E+02 kappa =  3.1402E+01
+
+ vacuum wavelength =  9.6326E+01 wavenumber =  1.0381E-02 x =  6.5228E-03
+ rydberg =  9.4602E-04 ev =  1.2871E-02
+ n= 3.3093E+00 n-1= 2.3093E+00 k=5.1852E-01 ep1= 1.0683E+01 ep2=3.4319E+00
+  relative errors    4.6113D-12   5.6449D-12
+  n, nmx2, nmx1     3     4    19
+ qext=  1.5563E-03 qphase=  2.0341E-02 qscat=  2.9512E-09 qabs=  1.5563E-03
+ g =  2.0195E-05 albedo =  1.8963E-06 1-g =  9.9998E-01
+ qext/a =  1.5563E+02 c/v =  1.1672E+02 kappa =  3.5371E+01
+
+ vacuum wavelength =  9.1000E+01 wavenumber =  1.0989E-02 x =  6.9046E-03
+ rydberg =  1.0014E-03 ev =  1.3625E-02
+ n= 3.2961E+00 n-1= 2.2961E+00 k=5.4884E-01 ep1= 1.0563E+01 ep2=3.6181E+00
+  relative errors    9.0611D-12   7.0881D-12
+  n, nmx2, nmx1     3     4    19
+ qext=  1.7541E-03 qphase=  2.1529E-02 qscat=  3.7071E-09 qabs=  1.7541E-03
+ g =  2.2439E-05 albedo =  2.1134E-06 1-g =  9.9998E-01
+ qext/a =  1.7541E+02 c/v =  1.3156E+02 kappa =  3.9867E+01
+
+ vacuum wavelength =  8.5968E+01 wavenumber =  1.1632E-02 x =  7.3087E-03
+ rydberg =  1.0600E-03 ev =  1.4422E-02
+ n= 3.2809E+00 n-1= 2.2809E+00 k=5.8060E-01 ep1= 1.0427E+01 ep2=3.8098E+00
+  relative errors    7.2688D-12   8.9006D-12
+  n, nmx2, nmx1     3     4    19
+ qext=  1.9780E-03 qphase=  2.2785E-02 qscat=  4.6566E-09 qabs=  1.9780E-03
+ g =  2.4901E-05 albedo =  2.3541E-06 1-g =  9.9998E-01
+ qext/a =  1.9780E+02 c/v =  1.4835E+02 kappa =  4.4956E+01
+
+ vacuum wavelength =  8.1215E+01 wavenumber =  1.2313E-02 x =  7.7365E-03
+ rydberg =  1.1220E-03 ev =  1.5266E-02
+ n= 3.2635E+00 n-1= 2.2635E+00 k=6.1369E-01 ep1= 1.0274E+01 ep2=4.0056E+00
+  relative errors    2.8495D-11   1.1177D-11
+  n, nmx2, nmx1     3     4    19
+ qext=  2.2313E-03 qphase=  2.4111E-02 qscat=  5.8487E-09 qabs=  2.2313E-03
+ g =  2.7594E-05 albedo =  2.6212E-06 1-g =  9.9997E-01
+ qext/a =  2.2313E+02 c/v =  1.6735E+02 kappa =  5.0711E+01
+
+ vacuum wavelength =  7.6725E+01 wavenumber =  1.3034E-02 x =  8.1892E-03
+ rydberg =  1.1877E-03 ev =  1.6160E-02
+ n= 3.2435E+00 n-1= 2.2435E+00 k=6.4799E-01 ep1= 1.0100E+01 ep2=4.2035E+00
+  relative errors    1.8468D-11   1.4035D-11
+  n, nmx2, nmx1     3     4    19
+ qext=  2.5179E-03 qphase=  2.5512E-02 qscat=  7.3450E-09 qabs=  2.5179E-03
+ g =  3.0531E-05 albedo =  2.9171E-06 1-g =  9.9997E-01
+ qext/a =  2.5179E+02 c/v =  1.8884E+02 kappa =  5.7226E+01
+
+ vacuum wavelength =  7.2482E+01 wavenumber =  1.3797E-02 x =  8.6686E-03
+ rydberg =  1.2572E-03 ev =  1.7106E-02
+ n= 3.2208E+00 n-1= 2.2208E+00 k=6.8331E-01 ep1= 9.9066E+00 ep2=4.4016E+00
+  relative errors    1.4389D-11   1.7627D-11
+  n, nmx2, nmx1     3     4    19
+ qext=  2.8420E-03 qphase=  2.6990E-02 qscat=  9.2239E-09 qabs=  2.8420E-03
+ g =  3.3725E-05 albedo =  3.2455E-06 1-g =  9.9997E-01
+ qext/a =  2.8420E+02 c/v =  2.1315E+02 kappa =  6.4592E+01
+
+ vacuum wavelength =  6.8475E+01 wavenumber =  1.4604E-02 x =  9.1759E-03
+ rydberg =  1.3308E-03 ev =  1.8106E-02
+ n= 3.1951E+00 n-1= 2.1951E+00 k=7.1944E-01 ep1= 9.6911E+00 ep2=4.5974E+00
+  relative errors    2.8493D-11   2.2137D-11
+  n, nmx2, nmx1     3     4    19
+ qext=  3.2084E-03 qphase=  2.8549E-02 qscat=  1.1581E-08 qabs=  3.2084E-03
+ g =  3.7183E-05 albedo =  3.6094E-06 1-g =  9.9996E-01
+ qext/a =  3.2084E+02 c/v =  2.4063E+02 kappa =  7.2919E+01
+
+ vacuum wavelength =  6.4689E+01 wavenumber =  1.5459E-02 x =  9.7129E-03
+ rydberg =  1.4087E-03 ev =  1.9166E-02
+ n= 3.1661E+00 n-1= 2.1661E+00 k=7.5611E-01 ep1= 9.4525E+00 ep2=4.7878E+00
+  relative errors    2.3787D-11   2.7805D-11
+  n, nmx2, nmx1     3     4    19
+ qext=  3.6227E-03 qphase=  3.0191E-02 qscat=  1.4537E-08 qabs=  3.6227E-03
+ g =  4.0912E-05 albedo =  4.0127E-06 1-g =  9.9996E-01
+ qext/a =  3.6227E+02 c/v =  2.7170E+02 kappa =  8.2334E+01
+
+ vacuum wavelength =  6.1112E+01 wavenumber =  1.6363E-02 x =  1.0281E-02
+ rydberg =  1.4911E-03 ev =  2.0288E-02
+ n= 3.1335E+00 n-1= 2.1335E+00 k=7.9296E-01 ep1= 9.1900E+00 ep2=4.9695E+00
+  relative errors    3.4967D-11   3.4927D-11
+  n, nmx2, nmx1     3     4    19
+ qext=  4.0911E-03 qphase=  3.1919E-02 qscat=  1.8243E-08 qabs=  4.0911E-03
+ g =  4.4918E-05 albedo =  4.4592E-06 1-g =  9.9996E-01
+ qext/a =  4.0911E+02 c/v =  3.0683E+02 kappa =  9.2979E+01
+
+ vacuum wavelength =  5.7733E+01 wavenumber =  1.7321E-02 x =  1.0883E-02
+ rydberg =  1.5784E-03 ev =  2.1475E-02
+ n= 3.0974E+00 n-1= 2.0974E+00 k=8.2956E-01 ep1= 8.9057E+00 ep2=5.1390E+00
+  relative errors    3.9475D-11   4.3877D-11
+  n, nmx2, nmx1     3     4    19
+ qext=  4.6191E-03 qphase=  3.3737E-02 qscat=  2.2887E-08 qabs=  4.6191E-03
+ g =  4.9208E-05 albedo =  4.9548E-06 1-g =  9.9995E-01
+ qext/a =  4.6191E+02 c/v =  3.4643E+02 kappa =  1.0498E+02
+
+ vacuum wavelength =  5.4541E+01 wavenumber =  1.8335E-02 x =  1.1520E-02
+ rydberg =  1.6708E-03 ev =  2.2732E-02
+ n= 3.0575E+00 n-1= 2.0575E+00 k=8.6546E-01 ep1= 8.5993E+00 ep2=5.2923E+00
+  relative errors    5.6123D-11   5.5125D-11
+  n, nmx2, nmx1     3     4    19
+ qext=  5.2145E-03 qphase=  3.5645E-02 qscat=  2.8701E-08 qabs=  5.2145E-03
+ g =  5.3782E-05 albedo =  5.5040E-06 1-g =  9.9995E-01
+ qext/a =  5.2145E+02 c/v =  3.9109E+02 kappa =  1.1851E+02
+
+ vacuum wavelength =  5.1526E+01 wavenumber =  1.9408E-02 x =  1.2194E-02
+ rydberg =  1.7686E-03 ev =  2.4062E-02
+ n= 3.0138E+00 n-1= 2.0138E+00 k=9.0013E-01 ep1= 8.2728E+00 ep2=5.4256E+00
+  relative errors    6.7932D-11   6.9265D-11
+  n, nmx2, nmx1     3     4    19
+ qext=  5.8848E-03 qphase=  3.7644E-02 qscat=  3.5972E-08 qabs=  5.8847E-03
+ g =  5.8643E-05 albedo =  6.1128E-06 1-g =  9.9994E-01
+ qext/a =  5.8848E+02 c/v =  4.4136E+02 kappa =  1.3374E+02
+
+ vacuum wavelength =  4.8677E+01 wavenumber =  2.0544E-02 x =  1.2908E-02
+ rydberg =  1.8721E-03 ev =  2.5471E-02
+ n= 2.9666E+00 n-1= 1.9666E+00 k=9.3302E-01 ep1= 7.9302E+00 ep2=5.5358E+00
+  relative errors    9.1477D-11   8.7047D-11
+  n, nmx2, nmx1     3     4    19
+ qext=  6.6368E-03 qphase=  3.9737E-02 qscat=  4.5064E-08 qabs=  6.6368E-03
+ g =  6.3808E-05 albedo =  6.7900E-06 1-g =  9.9994E-01
+ qext/a =  6.6368E+02 c/v =  4.9776E+02 kappa =  1.5084E+02
+
+ vacuum wavelength =  4.5985E+01 wavenumber =  2.1746E-02 x =  1.3664E-02
+ rydberg =  1.9817E-03 ev =  2.6962E-02
+ n= 2.9161E+00 n-1= 1.9161E+00 k=9.6371E-01 ep1= 7.5749E+00 ep2=5.6205E+00
+  relative errors    1.0918D-10   1.0942D-10
+  n, nmx2, nmx1     3     4    19
+ qext=  7.4795E-03 qphase=  4.1924E-02 qscat=  5.6423E-08 qabs=  7.4794E-03
+ g =  6.9289E-05 albedo =  7.5436E-06 1-g =  9.9993E-01
+ qext/a =  7.4795E+02 c/v =  5.6096E+02 kappa =  1.6999E+02
+
+ vacuum wavelength =  4.3443E+01 wavenumber =  2.3019E-02 x =  1.4463E-02
+ rydberg =  2.0976E-03 ev =  2.8540E-02
+ n= 2.8628E+00 n-1= 1.8628E+00 k=9.9200E-01 ep1= 7.2116E+00 ep2=5.6798E+00
+  relative errors    1.3880D-10   1.3755D-10
+  n, nmx2, nmx1     3     4    19
+ qext=  8.4215E-03 qphase=  4.4208E-02 qscat=  7.0596E-08 qabs=  8.4215E-03
+ g =  7.5105E-05 albedo =  8.3828E-06 1-g =  9.9992E-01
+ qext/a =  8.4215E+02 c/v =  6.3161E+02 kappa =  1.9140E+02
+
+ vacuum wavelength =  4.1041E+01 wavenumber =  2.4366E-02 x =  1.5310E-02
+ rydberg =  2.2204E-03 ev =  3.0210E-02
+ n= 2.8068E+00 n-1= 1.8068E+00 k=1.0177E+00 ep1= 6.8424E+00 ep2=5.7130E+00
+  relative errors    1.7566D-10   1.7295D-10
+  n, nmx2, nmx1     3     4    19
+ qext=  9.4755E-03 qphase=  4.6588E-02 qscat=  8.8277E-08 qabs=  9.4754E-03
+ g =  8.1275E-05 albedo =  9.3164E-06 1-g =  9.9992E-01
+ qext/a =  9.4755E+02 c/v =  7.1066E+02 kappa =  2.1535E+02
+
+ vacuum wavelength =  3.8772E+01 wavenumber =  2.5792E-02 x =  1.6205E-02
+ rydberg =  2.3503E-03 ev =  3.1978E-02
+ n= 2.7485E+00 n-1= 1.7485E+00 k=1.0407E+00 ep1= 6.4712E+00 ep2=5.7207E+00
+  relative errors    2.1901D-10   2.1750D-10
+  n, nmx2, nmx1     3     4    19
+ qext=  1.0653E-02 qphase=  4.9065E-02 qscat=  1.1032E-07 qabs=  1.0653E-02
+ g =  8.7823E-05 albedo =  1.0355E-05 1-g =  9.9991E-01
+ qext/a =  1.0653E+03 c/v =  7.9901E+02 kappa =  2.4212E+02
+
+ vacuum wavelength =  3.6628E+01 wavenumber =  2.7302E-02 x =  1.7154E-02
+ rydberg =  2.4879E-03 ev =  3.3850E-02
+ n= 2.6881E+00 n-1= 1.6881E+00 k=1.0609E+00 ep1= 6.1004E+00 ep2=5.7036E+00
+  relative errors    2.7196D-10   2.7360D-10
+  n, nmx2, nmx1     3     4    19
+ qext=  1.1970E-02 qphase=  5.1637E-02 qscat=  1.3777E-07 qabs=  1.1970E-02
+ g =  9.4777E-05 albedo =  1.1509E-05 1-g =  9.9991E-01
+ qext/a =  1.1970E+03 c/v =  8.9777E+02 kappa =  2.7205E+02
+
+ vacuum wavelength =  3.4603E+01 wavenumber =  2.8899E-02 x =  1.8158E-02
+ rydberg =  2.6335E-03 ev =  3.5830E-02
+ n= 2.6256E+00 n-1= 1.6256E+00 k=1.0782E+00 ep1= 5.7313E+00 ep2=5.6618E+00
+  relative errors    3.3965D-10   3.4426D-10
+  n, nmx2, nmx1     3     4    19
+ qext=  1.3444E-02 qphase=  5.4298E-02 qscat=  1.7191E-07 qabs=  1.3444E-02
+ g =  1.0215E-04 albedo =  1.2787E-05 1-g =  9.9990E-01
+ qext/a =  1.3444E+03 c/v =  1.0083E+03 kappa =  3.0555E+02
+
+ vacuum wavelength =  3.2690E+01 wavenumber =  3.0590E-02 x =  1.9221E-02
+ rydberg =  2.7876E-03 ev =  3.7927E-02
+ n= 2.5615E+00 n-1= 1.5615E+00 k=1.0926E+00 ep1= 5.3675E+00 ep2=5.5974E+00
+  relative errors    4.3031D-10   4.3328D-10
+  n, nmx2, nmx1     3     4    19
+ qext=  1.5091E-02 qphase=  5.7046E-02 qscat=  2.1434E-07 qabs=  1.5091E-02
+ g =  1.0999E-04 albedo =  1.4203E-05 1-g =  9.9989E-01
+ qext/a =  1.5091E+03 c/v =  1.1319E+03 kappa =  3.4299E+02
+
+ vacuum wavelength =  3.0882E+01 wavenumber =  3.2381E-02 x =  2.0346E-02
+ rydberg =  2.9508E-03 ev =  4.0148E-02
+ n= 2.4957E+00 n-1= 1.4957E+00 k=1.1041E+00 ep1= 5.0095E+00 ep2=5.5110E+00
+  relative errors    5.4294D-10   5.4555D-10
+  n, nmx2, nmx1     3     4    19
+ qext=  1.6938E-02 qphase=  5.9873E-02 qscat=  2.6704E-07 qabs=  1.6937E-02
+ g =  1.1832E-04 albedo =  1.5766E-05 1-g =  9.9988E-01
+ qext/a =  1.6938E+03 c/v =  1.2703E+03 kappa =  3.8494E+02
+
+ vacuum wavelength =  2.9175E+01 wavenumber =  3.4276E-02 x =  2.1536E-02
+ rydberg =  3.1235E-03 ev =  4.2497E-02
+ n= 2.4284E+00 n-1= 1.4284E+00 k=1.1126E+00 ep1= 4.6592E+00 ep2=5.4037E+00
+  relative errors    6.8677D-10   6.8711D-10
+  n, nmx2, nmx1     3     4    19
+ qext=  1.9005E-02 qphase=  6.2761E-02 qscat=  3.3231E-07 qabs=  1.9005E-02
+ g =  1.2718E-04 albedo =  1.7486E-05 1-g =  9.9987E-01
+ qext/a =  1.9005E+03 c/v =  1.4254E+03 kappa =  4.3193E+02
+
+ vacuum wavelength =  2.7562E+01 wavenumber =  3.6282E-02 x =  2.2797E-02
+ rydberg =  3.3062E-03 ev =  4.4984E-02
+ n= 2.3599E+00 n-1= 1.3599E+00 k=1.1188E+00 ep1= 4.3174E+00 ep2=5.2805E+00
+  relative errors    8.6424D-10   8.6580D-10
+  n, nmx2, nmx1     3     4    19
+ qext=  2.1328E-02 qphase=  6.5713E-02 qscat=  4.1329E-07 qabs=  2.1327E-02
+ g =  1.3661E-04 albedo =  1.9378E-05 1-g =  9.9986E-01
+ qext/a =  2.1328E+03 c/v =  1.5996E+03 kappa =  4.8472E+02
+
+ vacuum wavelength =  2.6038E+01 wavenumber =  3.8405E-02 x =  2.4131E-02
+ rydberg =  3.4998E-03 ev =  4.7617E-02
+ n= 2.2894E+00 n-1= 1.2894E+00 k=1.1240E+00 ep1= 3.9780E+00 ep2=5.1466E+00
+  relative errors    1.0927D-09   1.0915D-09
+  n, nmx2, nmx1     3     4    19
+ qext=  2.3975E-02 qphase=  6.8724E-02 qscat=  5.1398E-07 qabs=  2.3974E-02
+ g =  1.4652E-04 albedo =  2.1438E-05 1-g =  9.9985E-01
+ qext/a =  2.3975E+03 c/v =  1.7981E+03 kappa =  5.4488E+02
+
+ vacuum wavelength =  2.4598E+01 wavenumber =  4.0654E-02 x =  2.5543E-02
+ rydberg =  3.7046E-03 ev =  5.0404E-02
+ n= 2.2141E+00 n-1= 1.2141E+00 k=1.1295E+00 ep1= 3.6265E+00 ep2=5.0017E+00
+  relative errors    1.3778D-09   1.3773D-09
+  n, nmx2, nmx1     3     4    19
+ qext=  2.7081E-02 qphase=  7.1766E-02 qscat=  6.3959E-07 qabs=  2.7080E-02
+ g =  1.5658E-04 albedo =  2.3618E-05 1-g =  9.9984E-01
+ qext/a =  2.7081E+03 c/v =  2.0311E+03 kappa =  6.1547E+02
+
+ vacuum wavelength =  2.3238E+01 wavenumber =  4.3033E-02 x =  2.7038E-02
+ rydberg =  3.9215E-03 ev =  5.3354E-02
+ n= 2.1269E+00 n-1= 1.1269E+00 k=1.1326E+00 ep1= 3.2409E+00 ep2=4.8179E+00
+  relative errors    1.7400D-09   1.7405D-09
+  n, nmx2, nmx1     3     4    19
+ qext=  3.0881E-02 qphase=  7.4624E-02 qscat=  7.9442E-07 qabs=  3.0880E-02
+ g =  1.6611E-04 albedo =  2.5725E-05 1-g =  9.9983E-01
+ qext/a =  3.0881E+03 c/v =  2.3160E+03 kappa =  7.0183E+02
+
+ vacuum wavelength =  2.1953E+01 wavenumber =  4.5552E-02 x =  2.8621E-02
+ rydberg =  4.1510E-03 ev =  5.6477E-02
+ n= 2.0255E+00 n-1= 1.0255E+00 k=1.1234E+00 ep1= 2.8406E+00 ep2=4.5509E+00
+  relative errors    2.2056D-09   2.2060D-09
+  n, nmx2, nmx1     3     4    19
+ qext=  3.5451E-02 qphase=  7.6846E-02 qscat=  9.7743E-07 qabs=  3.5450E-02
+ g =  1.7532E-04 albedo =  2.7571E-05 1-g =  9.9982E-01
+ qext/a =  3.5451E+03 c/v =  2.6588E+03 kappa =  8.0571E+02
+
+ vacuum wavelength =  2.0739E+01 wavenumber =  4.8218E-02 x =  3.0296E-02
+ rydberg =  4.3940E-03 ev =  5.9783E-02
+ n= 1.9140E+00 n-1= 9.1402E-01 k=1.0917E+00 ep1= 2.4717E+00 ep2=4.1791E+00
+  relative errors    2.8060D-09   2.8078D-09
+  n, nmx2, nmx1     3     4    19
+ qext=  4.0608E-02 qphase=  7.7811E-02 qscat=  1.1780E-06 qabs=  4.0607E-02
+ g =  1.8538E-04 albedo =  2.9008E-05 1-g =  9.9981E-01
+ qext/a =  4.0608E+03 c/v =  3.0456E+03 kappa =  9.2291E+02
+
+ vacuum wavelength =  1.9593E+01 wavenumber =  5.1039E-02 x =  3.2069E-02
+ rydberg =  4.6510E-03 ev =  6.3280E-02
+ n= 1.8009E+00 n-1= 8.0093E-01 k=1.0294E+00 ep1= 2.1837E+00 ep2=3.7078E+00
+  relative errors    3.5902D-09   3.5912D-09
+  n, nmx2, nmx1     3     4    19
+ qext=  4.5714E-02 qphase=  7.6776E-02 qscat=  1.3678E-06 qabs=  4.5712E-02
+ g =  1.9823E-04 albedo =  2.9922E-05 1-g =  9.9980E-01
+ qext/a =  4.5714E+03 c/v =  3.4285E+03 kappa =  1.0389E+03
+
+ vacuum wavelength =  1.8509E+01 wavenumber =  5.4028E-02 x =  3.3947E-02
+ rydberg =  4.9234E-03 ev =  6.6986E-02
+ n= 1.7011E+00 n-1= 7.0111E-01 k=9.2457E-01 ep1= 2.0389E+00 ep2=3.1456E+00
+  relative errors    4.6086D-09   4.6107D-09
+  n, nmx2, nmx1     3     4    19
+ qext=  4.8952E-02 qphase=  7.3023E-02 qscat=  1.4836E-06 qabs=  4.8951E-02
+ g =  2.1724E-04 albedo =  3.0307E-05 1-g =  9.9978E-01
+ qext/a =  4.8952E+03 c/v =  3.6714E+03 kappa =  1.1125E+03
+
+ vacuum wavelength =  1.7486E+01 wavenumber =  5.7189E-02 x =  3.5933E-02
+ rydberg =  5.2114E-03 ev =  7.0905E-02
+ n= 1.6513E+00 n-1= 6.5126E-01 k=7.8666E-01 ep1= 2.1078E+00 ep2=2.5980E+00
+  relative errors    5.8643D-09   5.8670D-09
+  n, nmx2, nmx1     3     4    19
+ qext=  4.7476E-02 qphase=  6.8766E-02 qscat=  1.5017E-06 qabs=  4.7474E-02
+ g =  2.4718E-04 albedo =  3.1632E-05 1-g =  9.9975E-01
+ qext/a =  4.7476E+03 c/v =  3.5607E+03 kappa =  1.0790E+03
+
+ vacuum wavelength =  1.6519E+01 wavenumber =  6.0536E-02 x =  3.8036E-02
+ rydberg =  5.5165E-03 ev =  7.5056E-02
+ n= 1.6606E+00 n-1= 6.6061E-01 k=6.5127E-01 ep1= 2.3335E+00 ep2=2.1630E+00
+  relative errors    7.3415D-09   7.3451D-09
+  n, nmx2, nmx1     3     4    19
+ qext=  4.2140E-02 qphase=  6.7844E-02 qscat=  1.5370E-06 qabs=  4.2139E-02
+ g =  2.8840E-04 albedo =  3.6473E-05 1-g =  9.9971E-01
+ qext/a =  4.2140E+03 c/v =  3.1605E+03 kappa =  9.5774E+02
+
+ vacuum wavelength =  1.5606E+01 wavenumber =  6.4078E-02 x =  4.0261E-02
+ rydberg =  5.8392E-03 ev =  7.9447E-02
+ n= 1.7195E+00 n-1= 7.1950E-01 k=5.4251E-01 ep1= 2.6624E+00 ep2=1.8657E+00
+  relative errors    9.0948D-09   9.1005D-09
+  n, nmx2, nmx1     3     4    19
+ qext=  3.5795E-02 qphase=  7.1755E-02 qscat=  1.7358E-06 qabs=  3.5793E-02
+ g =  3.4099E-04 albedo =  4.8493E-05 1-g =  9.9966E-01
+ qext/a =  3.5795E+03 c/v =  2.6846E+03 kappa =  8.1352E+02
+
+ vacuum wavelength =  1.4743E+01 wavenumber =  6.7829E-02 x =  4.2618E-02
+ rydberg =  6.1810E-03 ev =  8.4097E-02
+ n= 1.8193E+00 n-1= 8.1928E-01 k=4.7425E-01 ep1= 3.0849E+00 ep2=1.7256E+00
+  relative errors    1.1237D-08   1.1245D-08
+  n, nmx2, nmx1     3     4    19
+ qext=  3.0661E-02 qphase=  8.0334E-02 qscat=  2.2361E-06 qabs=  3.0659E-02
+ g =  4.0723E-04 albedo =  7.2928E-05 1-g =  9.9959E-01
+ qext/a =  3.0661E+03 c/v =  2.2996E+03 kappa =  6.9685E+02
+
+ vacuum wavelength =  1.3928E+01 wavenumber =  7.1798E-02 x =  4.5112E-02
+ rydberg =  6.5427E-03 ev =  8.9018E-02
+ n= 1.9613E+00 n-1= 9.6126E-01 k=4.8151E-01 ep1= 3.6147E+00 ep2=1.8887E+00
+  relative errors    1.3873D-08   1.3884D-08
+  n, nmx2, nmx1     3     5    20
+ qext=  2.9204E-02 qphase=  9.3914E-02 qscat=  3.2771E-06 qabs=  2.9201E-02
+ g =  4.9123E-04 albedo =  1.1221E-04 1-g =  9.9951E-01
+ qext/a =  2.9204E+03 c/v =  2.1903E+03 kappa =  6.6374E+02
+
+ vacuum wavelength =  1.3158E+01 wavenumber =  7.5999E-02 x =  4.7752E-02
+ rydberg =  6.9256E-03 ev =  9.4227E-02
+ n= 2.0608E+00 n-1= 1.0608E+00 k=6.1931E-01 ep1= 3.8634E+00 ep2=2.5525E+00
+  relative errors    1.7235D-08   1.7252D-08
+  n, nmx2, nmx1     3     5    20
+ qext=  3.5873E-02 qphase=  1.0896E-01 qscat=  4.9946E-06 qabs=  3.5868E-02
+ g =  5.6810E-04 albedo =  1.3923E-04 1-g =  9.9943E-01
+ qext/a =  3.5873E+03 c/v =  2.6904E+03 kappa =  8.1529E+02
+
+ vacuum wavelength =  1.2430E+01 wavenumber =  8.0451E-02 x =  5.0549E-02
+ rydberg =  7.3312E-03 ev =  9.9746E-02
+ n= 2.0275E+00 n-1= 1.0275E+00 k=7.8904E-01 ep1= 3.4882E+00 ep2=3.1996E+00
+  relative errors    2.1672D-08   2.1693D-08
+  n, nmx2, nmx1     3     5    20
+ qext=  4.8252E-02 qphase=  1.1983E-01 qscat=  7.0968E-06 qabs=  4.8245E-02
+ g =  6.0389E-04 albedo =  1.4708E-04 1-g =  9.9940E-01
+ qext/a =  4.8252E+03 c/v =  3.6189E+03 kappa =  1.0966E+03
+
+ vacuum wavelength =  1.1743E+01 wavenumber =  8.5157E-02 x =  5.3506E-02
+ rydberg =  7.7601E-03 ev =  1.0558E-01
+ n= 1.9124E+00 n-1= 9.1244E-01 k=9.2028E-01 ep1= 2.8105E+00 ep2=3.5200E+00
+  relative errors    2.7489D-08   2.7515D-08
+  n, nmx2, nmx1     3     5    20
+ qext=  6.3837E-02 qphase=  1.2721E-01 qscat=  9.6524E-06 qabs=  6.3827E-02
+ g =  6.1164E-04 albedo =  1.5120E-04 1-g =  9.9939E-01
+ qext/a =  6.3837E+03 c/v =  4.7878E+03 kappa =  1.4508E+03
+
+ vacuum wavelength =  1.1094E+01 wavenumber =  9.0139E-02 x =  5.6636E-02
+ rydberg =  8.2141E-03 ev =  1.1176E-01
+ n= 1.7321E+00 n-1= 7.3215E-01 k=9.9734E-01 ep1= 2.0057E+00 ep2=3.4551E+00
+  relative errors    3.5370D-08   3.5401D-08
+  n, nmx2, nmx1     3     5    20
+ qext=  8.4217E-02 qphase=  1.2933E-01 qscat=  1.2716E-05 qabs=  8.4205E-02
+ g =  5.9969E-04 albedo =  1.5099E-04 1-g =  9.9940E-01
+ qext/a =  8.4217E+03 c/v =  6.3163E+03 kappa =  1.9140E+03
+
+ vacuum wavelength =  1.0480E+01 wavenumber =  9.5420E-02 x =  5.9954E-02
+ rydberg =  8.6953E-03 ev =  1.1831E-01
+ n= 1.5257E+00 n-1= 5.2568E-01 k=9.8494E-01 ep1= 1.3576E+00 ep2=3.0054E+00
+  relative errors    4.6646D-08   4.6684D-08
+  n, nmx2, nmx1     3     5    20
+ qext=  1.0683E-01 qphase=  1.2084E-01 qscat=  1.5564E-05 qabs=  1.0682E-01
+ g =  5.9645E-04 albedo =  1.4568E-04 1-g =  9.9940E-01
+ qext/a =  1.0683E+04 c/v =  8.0126E+03 kappa =  2.4281E+03
+
+ vacuum wavelength =  9.9008E+00 wavenumber =  1.0100E-01 x =  6.3461E-02
+ rydberg =  9.2040E-03 ev =  1.2523E-01
+ n= 1.3396E+00 n-1= 3.3962E-01 k=9.1104E-01 ep1= 9.6459E-01 ep2=2.4409E+00
+  relative errors    6.3369D-08   6.3420D-08
+  n, nmx2, nmx1     3     5    20
+ qext=  1.2639E-01 qphase=  1.0062E-01 qscat=  1.7492E-05 qabs=  1.2638E-01
+ g =  6.1964E-04 albedo =  1.3839E-04 1-g =  9.9938E-01
+ qext/a =  1.2639E+04 c/v =  9.4795E+03 kappa =  2.8726E+03
+
+ vacuum wavelength =  9.3534E+00 wavenumber =  1.0691E-01 x =  6.7175E-02
+ rydberg =  9.7426E-03 ev =  1.3256E-01
+ n= 1.1358E+00 n-1= 1.3579E-01 k=7.5978E-01 ep1= 7.1275E-01 ep2=1.7259E+00
+  relative errors    9.4968D-08   9.5037D-08
+  n, nmx2, nmx1     3     5    20
+ qext=  1.3478E-01 qphase=  5.6926E-02 qscat=  1.6072E-05 qabs=  1.3476E-01
+ g =  6.6535E-04 albedo =  1.1925E-04 1-g =  9.9933E-01
+ qext/a =  1.3478E+04 c/v =  1.0108E+04 kappa =  3.0631E+03
+
+ vacuum wavelength =  8.8362E+00 wavenumber =  1.1317E-01 x =  7.1107E-02
+ rydberg =  1.0313E-02 ev =  1.4031E-01
+ n= 1.0640E+00 n-1= 6.4037E-02 k=4.8676E-01 ep1= 8.9524E-01 ep2=1.0359E+00
+  relative errors    1.2037D-11   1.3537D-11
+  n, nmx2, nmx1     4     5    20
+ qext=  9.3535E-02 qphase=  2.3019E-02 qscat=  7.8038E-06 qabs=  9.3527E-02
+ g =  7.8540E-04 albedo =  8.3432E-05 1-g =  9.9921E-01
+ qext/a =  9.3535E+03 c/v =  7.0151E+03 kappa =  2.1258E+03
+
+ vacuum wavelength =  8.3477E+00 wavenumber =  1.1979E-01 x =  7.5268E-02
+ rydberg =  1.0916E-02 ev =  1.4853E-01
+ n= 1.1310E+00 n-1= 1.3101E-01 k=2.7404E-01 ep1= 1.2041E+00 ep2=6.1988E-01
+  relative errors    1.2903D-11   1.4647D-11
+  n, nmx2, nmx1     4     5    20
+ qext=  5.2619E-02 qphase=  2.9312E-02 qscat=  3.4176E-06 qabs=  5.2615E-02
+ g =  9.3819E-04 albedo =  6.4951E-05 1-g =  9.9906E-01
+ qext/a =  5.2619E+03 c/v =  3.9464E+03 kappa =  1.1959E+03
+
+ vacuum wavelength =  7.8861E+00 wavenumber =  1.2681E-01 x =  7.9674E-02
+ rydberg =  1.1555E-02 ev =  1.5722E-01
+ n= 1.2376E+00 n-1= 2.3764E-01 k=1.4951E-01 ep1= 1.5094E+00 ep2=3.7008E-01
+  relative errors    1.7435D-11   1.8700D-11
+  n, nmx2, nmx1     4     5    20
+ qext=  2.8466E-02 qphase=  4.9281E-02 qscat=  3.4175E-06 qabs=  2.8462E-02
+ g =  1.1118E-03 albedo =  1.2006E-04 1-g =  9.9889E-01
+ qext/a =  2.8466E+03 c/v =  2.1349E+03 kappa =  6.4694E+02
+
+ vacuum wavelength =  7.4501E+00 wavenumber =  1.3423E-01 x =  8.4337E-02
+ rydberg =  1.2232E-02 ev =  1.6642E-01
+ n= 1.3374E+00 n-1= 3.3736E-01 k=8.6560E-02 ep1= 1.7810E+00 ep2=2.3152E-01
+  relative errors    2.5088D-11   2.5535D-11
+  n, nmx2, nmx1     4     5    20
+ qext=  1.6379E-02 qphase=  7.0772E-02 qscat=  6.2359E-06 qabs=  1.6373E-02
+ g =  1.3056E-03 albedo =  3.8072E-04 1-g =  9.9869E-01
+ qext/a =  1.6379E+03 c/v =  1.2284E+03 kappa =  3.7225E+02
+
+ vacuum wavelength =  7.0382E+00 wavenumber =  1.4208E-01 x =  8.9273E-02
+ rydberg =  1.2947E-02 ev =  1.7616E-01
+ n= 1.4177E+00 n-1= 4.1770E-01 k=5.8529E-02 ep1= 2.0064E+00 ep2=1.6595E-01
+  relative errors    3.4593D-11   3.5364D-11
+  n, nmx2, nmx1     4     5    20
+ qext=  1.1109E-02 qphase=  9.0322E-02 qscat=  1.0960E-05 qabs=  1.1098E-02
+ g =  1.5187E-03 albedo =  9.8660E-04 1-g =  9.9848E-01
+ qext/a =  1.1109E+03 c/v =  8.3317E+02 kappa =  2.5247E+02
+
+ vacuum wavelength =  6.6490E+00 wavenumber =  1.5040E-01 x =  9.4498E-02
+ rydberg =  1.3705E-02 ev =  1.8647E-01
+ n= 1.4781E+00 n-1= 4.7806E-01 k=4.9665E-02 ep1= 2.1822E+00 ep2=1.4682E-01
+  relative errors    4.9072D-11   4.9253D-11
+  n, nmx2, nmx1     4     5    20
+ qext=  9.5694E-03 qphase=  1.0743E-01 qscat=  1.7240E-05 qabs=  9.5521E-03
+ g =  1.7508E-03 albedo =  1.8016E-03 1-g =  9.9825E-01
+ qext/a =  9.5694E+02 c/v =  7.1770E+02 kappa =  2.1749E+02
+
+ vacuum wavelength =  6.2814E+00 wavenumber =  1.5920E-01 x =  1.0003E-01
+ rydberg =  1.4507E-02 ev =  1.9738E-01
+ n= 1.5207E+00 n-1= 5.2067E-01 k=4.9272E-02 ep1= 2.3100E+00 ep2=1.4985E-01
+  relative errors    6.8179D-11   6.8831D-11
+  n, nmx2, nmx1     4     5    20
+ qext=  9.7524E-03 qphase=  1.2229E-01 qscat=  2.4977E-05 qabs=  9.7274E-03
+ g =  2.0017E-03 albedo =  2.5611E-03 1-g =  9.9800E-01
+ qext/a =  9.7524E+02 c/v =  7.3143E+02 kappa =  2.2165E+02
+
+ vacuum wavelength =  5.9341E+00 wavenumber =  1.6852E-01 x =  1.0588E-01
+ rydberg =  1.5356E-02 ev =  2.0894E-01
+ n= 1.5494E+00 n-1= 5.4942E-01 k=5.0569E-02 ep1= 2.3981E+00 ep2=1.5671E-01
+  relative errors    9.6030D-11   9.6418D-11
+  n, nmx2, nmx1     4     5    20
+ qext=  1.0385E-02 qphase=  1.3544E-01 qscat=  3.4294E-05 qabs=  1.0350E-02
+ g =  2.2738E-03 albedo =  3.3024E-03 1-g =  9.9773E-01
+ qext/a =  1.0385E+03 c/v =  7.7885E+02 kappa =  2.3602E+02
+
+ vacuum wavelength =  5.6060E+00 wavenumber =  1.7838E-01 x =  1.1208E-01
+ rydberg =  1.6255E-02 ev =  2.2116E-01
+ n= 1.5701E+00 n-1= 5.7014E-01 k=4.9440E-02 ep1= 2.4629E+00 ep2=1.5526E-01
+  relative errors    1.3435D-10   1.3523D-10
+  n, nmx2, nmx1     4     5    20
+ qext=  1.0600E-02 qphase=  1.4787E-01 qscat=  4.5737E-05 qabs=  1.0554E-02
+ g =  2.5732E-03 albedo =  4.3148E-03 1-g =  9.9743E-01
+ qext/a =  1.0600E+03 c/v =  7.9500E+02 kappa =  2.4091E+02
+
+ vacuum wavelength =  5.2960E+00 wavenumber =  1.8882E-01 x =  1.1864E-01
+ rydberg =  1.7207E-02 ev =  2.3411E-01
+ n= 1.5874E+00 n-1= 5.8741E-01 k=4.6755E-02 ep1= 2.5177E+00 ep2=1.4844E-01
+  relative errors    1.8833D-10   1.8978D-10
+  n, nmx2, nmx1     4     5    20
+ qext=  1.0498E-02 qphase=  1.6046E-01 qscat=  6.0244E-05 qabs=  1.0438E-02
+ g =  2.9072E-03 albedo =  5.7385E-03 1-g =  9.9709E-01
+ qext/a =  1.0498E+03 c/v =  7.8736E+02 kappa =  2.3859E+02
+
+ vacuum wavelength =  5.0032E+00 wavenumber =  1.9987E-01 x =  1.2558E-01
+ rydberg =  1.8214E-02 ev =  2.4781E-01
+ n= 1.6028E+00 n-1= 6.0283E-01 k=4.4077E-02 ep1= 2.5671E+00 ep2=1.4130E-01
+  relative errors    2.6475D-10   2.6639D-10
+  n, nmx2, nmx1     4     5    20
+ qext=  1.0385E-02 qphase=  1.7354E-01 qscat=  7.8833E-05 qabs=  1.0306E-02
+ g =  3.2817E-03 albedo =  7.5914E-03 1-g =  9.9672E-01
+ qext/a =  1.0385E+03 c/v =  7.7884E+02 kappa =  2.3601E+02
+
+ vacuum wavelength =  4.7266E+00 wavenumber =  2.1157E-01 x =  1.3293E-01
+ rydberg =  1.9280E-02 ev =  2.6231E-01
+ n= 1.6164E+00 n-1= 6.1637E-01 k=4.2441E-02 ep1= 2.6109E+00 ep2=1.3720E-01
+  relative errors    3.7118D-10   3.7405D-10
+  n, nmx2, nmx1     4     5    20
+ qext=  1.0512E-02 qphase=  1.8713E-01 qscat=  1.0256E-04 qabs=  1.0409E-02
+ g =  3.7009E-03 albedo =  9.7570E-03 1-g =  9.9630E-01
+ qext/a =  1.0512E+03 c/v =  7.8837E+02 kappa =  2.3890E+02
+
+ vacuum wavelength =  4.4653E+00 wavenumber =  2.2395E-01 x =  1.4071E-01
+ rydberg =  2.0408E-02 ev =  2.7766E-01
+ n= 1.6277E+00 n-1= 6.2765E-01 k=4.1667E-02 ep1= 2.6475E+00 ep2=1.3564E-01
+  relative errors    5.2072D-10   5.2539D-10
+  n, nmx2, nmx1     4     5    20
+ qext=  1.0872E-02 qphase=  2.0113E-01 qscat=  1.3257E-04 qabs=  1.0740E-02
+ g =  4.1689E-03 albedo =  1.2194E-02 1-g =  9.9583E-01
+ qext/a =  1.0872E+03 c/v =  8.1542E+02 kappa =  2.4710E+02
+
+ vacuum wavelength =  4.2184E+00 wavenumber =  2.3706E-01 x =  1.4895E-01
+ rydberg =  2.1602E-02 ev =  2.9391E-01
+ n= 1.6368E+00 n-1= 6.3682E-01 k=4.1330E-02 ep1= 2.6775E+00 ep2=1.3530E-01
+  relative errors    7.3110D-10   7.3825D-10
+  n, nmx2, nmx1     4     5    20
+ qext=  1.1386E-02 qphase=  2.1555E-01 qscat=  1.7040E-04 qabs=  1.1216E-02
+ g =  4.6913E-03 albedo =  1.4965E-02 1-g =  9.9531E-01
+ qext/a =  1.1386E+03 c/v =  8.5396E+02 kappa =  2.5877E+02
+
+ vacuum wavelength =  3.9851E+00 wavenumber =  2.5093E-01 x =  1.5767E-01
+ rydberg =  2.2867E-02 ev =  3.1112E-01
+ n= 1.6441E+00 n-1= 6.4413E-01 k=4.1046E-02 ep1= 2.7015E+00 ep2=1.3497E-01
+  relative errors    1.0264D-09   1.0377D-09
+  n, nmx2, nmx1     4     5    20
+ qext=  1.1965E-02 qphase=  2.3047E-01 qscat=  2.1795E-04 qabs=  1.1747E-02
+ g =  5.2743E-03 albedo =  1.8216E-02 1-g =  9.9473E-01
+ qext/a =  1.1965E+03 c/v =  8.9735E+02 kappa =  2.7192E+02
+
+ vacuum wavelength =  3.7648E+00 wavenumber =  2.6562E-01 x =  1.6689E-01
+ rydberg =  2.4205E-02 ev =  3.2932E-01
+ n= 1.6500E+00 n-1= 6.5004E-01 k=4.0528E-02 ep1= 2.7210E+00 ep2=1.3375E-01
+  relative errors    1.4413D-09   1.4587D-09
+  n, nmx2, nmx1     4     5    20
+ qext=  1.2525E-02 qphase=  2.4598E-01 qscat=  2.7773E-04 qabs=  1.2247E-02
+ g =  5.9253E-03 albedo =  2.2174E-02 1-g =  9.9407E-01
+ qext/a =  1.2525E+03 c/v =  9.3938E+02 kappa =  2.8466E+02
+
+ vacuum wavelength =  3.5566E+00 wavenumber =  2.8117E-01 x =  1.7666E-01
+ rydberg =  2.5622E-02 ev =  3.4860E-01
+ n= 1.6550E+00 n-1= 6.5499E-01 k=3.9800E-02 ep1= 2.7374E+00 ep2=1.3174E-01
+  relative errors    2.0234D-09   2.0512D-09
+  n, nmx2, nmx1     4     5    20
+ qext=  1.3066E-02 qphase=  2.6224E-01 qscat=  3.5307E-04 qabs=  1.2713E-02
+ g =  6.6536E-03 albedo =  2.7021E-02 1-g =  9.9335E-01
+ qext/a =  1.3066E+03 c/v =  9.7999E+02 kappa =  2.9697E+02
+
+ vacuum wavelength =  3.3600E+00 wavenumber =  2.9762E-01 x =  1.8700E-01
+ rydberg =  2.7121E-02 ev =  3.6900E-01
+ n= 1.6592E+00 n-1= 6.5923E-01 k=3.8953E-02 ep1= 2.7515E+00 ep2=1.2926E-01
+  relative errors    2.8404D-09   2.8841D-09
+  n, nmx2, nmx1     4     6    21
+ qext=  1.3611E-02 qphase=  2.7936E-01 qscat=  4.4802E-04 qabs=  1.3163E-02
+ g =  7.4682E-03 albedo =  3.2915E-02 1-g =  9.9253E-01
+ qext/a =  1.3611E+03 c/v =  1.0209E+03 kappa =  3.0935E+02
+
+ vacuum wavelength =  3.1742E+00 wavenumber =  3.1504E-01 x =  1.9795E-01
+ rydberg =  2.8709E-02 ev =  3.9060E-01
+ n= 1.6629E+00 n-1= 6.6292E-01 k=3.8071E-02 ep1= 2.7639E+00 ep2=1.2662E-01
+  relative errors    3.9874D-09   4.0562D-09
+  n, nmx2, nmx1     4     6    21
+ qext=  1.4189E-02 qphase=  2.9743E-01 qscat=  5.6783E-04 qabs=  1.3621E-02
+ g =  8.3802E-03 albedo =  4.0020E-02 1-g =  9.9162E-01
+ qext/a =  1.4189E+03 c/v =  1.0642E+03 kappa =  3.2247E+02
+
+ vacuum wavelength =  2.9987E+00 wavenumber =  3.3348E-01 x =  2.0953E-01
+ rydberg =  3.0389E-02 ev =  4.1346E-01
+ n= 1.6662E+00 n-1= 6.6615E-01 k=3.7227E-02 ep1= 2.7747E+00 ep2=1.2405E-01
+  relative errors    5.5965D-09   5.7049D-09
+  n, nmx2, nmx1     4     6    21
+ qext=  1.4830E-02 qphase=  3.1655E-01 qscat=  7.1890E-04 qabs=  1.4111E-02
+ g =  9.4010E-03 albedo =  4.8475E-02 1-g =  9.9060E-01
+ qext/a =  1.4830E+03 c/v =  1.1123E+03 kappa =  3.3705E+02
+
+ vacuum wavelength =  2.8329E+00 wavenumber =  3.5300E-01 x =  2.2179E-01
+ rydberg =  3.2167E-02 ev =  4.3766E-01
+ n= 1.6689E+00 n-1= 6.6894E-01 k=3.6474E-02 ep1= 2.7840E+00 ep2=1.2175E-01
+  relative errors    7.8538D-09   8.0244D-09
+  n, nmx2, nmx1     4     6    21
+ qext=  1.5569E-02 qphase=  3.3678E-01 qscat=  9.0930E-04 qabs=  1.4659E-02
+ g =  1.0543E-02 albedo =  5.8406E-02 1-g =  9.8946E-01
+ qext/a =  1.5569E+03 c/v =  1.1676E+03 kappa =  3.5383E+02
+
+ vacuum wavelength =  2.6763E+00 wavenumber =  3.7365E-01 x =  2.3477E-01
+ rydberg =  3.4050E-02 ev =  4.6327E-01
+ n= 1.6713E+00 n-1= 6.7134E-01 k=3.5807E-02 ep1= 2.7921E+00 ep2=1.1969E-01
+  relative errors    1.1019D-08   1.1287D-08
+  n, nmx2, nmx1     4     6    21
+ qext=  1.6419E-02 qphase=  3.5820E-01 qscat=  1.1491E-03 qabs=  1.5270E-02
+ g =  1.1822E-02 albedo =  6.9988E-02 1-g =  9.8818E-01
+ qext/a =  1.6419E+03 c/v =  1.2314E+03 kappa =  3.7316E+02
+
+ vacuum wavelength =  2.5283E+00 wavenumber =  3.9552E-01 x =  2.4851E-01
+ rydberg =  3.6043E-02 ev =  4.9039E-01
+ n= 1.6734E+00 n-1= 6.7337E-01 k=3.5209E-02 ep1= 2.7989E+00 ep2=1.1784E-01
+  relative errors    1.5458D-08   1.5881D-08
+  n, nmx2, nmx1     4     6    21
+ qext=  1.7396E-02 qphase=  3.8092E-01 qscat=  1.4513E-03 qabs=  1.5945E-02
+ g =  1.3252E-02 albedo =  8.3426E-02 1-g =  9.8675E-01
+ qext/a =  1.7396E+03 c/v =  1.3047E+03 kappa =  3.9536E+02
+
+ vacuum wavelength =  2.3885E+00 wavenumber =  4.1867E-01 x =  2.6306E-01
+ rydberg =  3.8152E-02 ev =  5.1909E-01
+ n= 1.6751E+00 n-1= 6.7506E-01 k=3.4663E-02 ep1= 2.8046E+00 ep2=1.1613E-01
+  relative errors    2.1680D-08   2.2345D-08
+  n, nmx2, nmx1     4     6    21
+ qext=  1.8514E-02 qphase=  4.0501E-01 qscat=  1.8316E-03 qabs=  1.6683E-02
+ g =  1.4852E-02 albedo =  9.8929E-02 1-g =  9.8515E-01
+ qext/a =  1.8514E+03 c/v =  1.3886E+03 kappa =  4.2078E+02
+
+ vacuum wavelength =  2.2564E+00 wavenumber =  4.4318E-01 x =  2.7846E-01
+ rydberg =  4.0386E-02 ev =  5.4948E-01
+ n= 1.6765E+00 n-1= 6.7648E-01 k=3.4153E-02 ep1= 2.8094E+00 ep2=1.1451E-01
+  relative errors    3.0399D-08   3.1446D-08
+  n, nmx2, nmx1     4     6    21
+ qext=  1.9794E-02 qphase=  4.3061E-01 qscat=  2.3106E-03 qabs=  1.7483E-02
+ g =  1.6643E-02 albedo =  1.1673E-01 1-g =  9.8336E-01
+ qext/a =  1.9794E+03 c/v =  1.4845E+03 kappa =  4.4986E+02
+
+ vacuum wavelength =  2.1317E+00 wavenumber =  4.6911E-01 x =  2.9475E-01
+ rydberg =  4.2748E-02 ev =  5.8162E-01
+ n= 1.6776E+00 n-1= 6.7765E-01 k=3.3666E-02 ep1= 2.8134E+00 ep2=1.1296E-01
+  relative errors    4.2601D-08   4.4248D-08
+  n, nmx2, nmx1     4     6    21
+ qext=  2.1259E-02 qphase=  4.5782E-01 qscat=  2.9131E-03 qabs=  1.8346E-02
+ g =  1.8644E-02 albedo =  1.3703E-01 1-g =  9.8136E-01
+ qext/a =  2.1259E+03 c/v =  1.5944E+03 kappa =  4.8316E+02
+
+ vacuum wavelength =  2.0138E+00 wavenumber =  4.9657E-01 x =  3.1201E-01
+ rydberg =  4.5251E-02 ev =  6.1567E-01
+ n= 1.6786E+00 n-1= 6.7863E-01 k=3.3205E-02 ep1= 2.8167E+00 ep2=1.1148E-01
+  relative errors    5.9695D-08   6.2286D-08
+  n, nmx2, nmx1     4     6    21
+ qext=  2.2952E-02 qphase=  4.8683E-01 qscat=  3.6724E-03 qabs=  1.9280E-02
+ g =  2.0885E-02 albedo =  1.6000E-01 1-g =  9.7911E-01
+ qext/a =  2.2952E+03 c/v =  1.7214E+03 kappa =  5.2164E+02
+
+ vacuum wavelength =  1.9025E+00 wavenumber =  5.2562E-01 x =  3.3026E-01
+ rydberg =  4.7898E-02 ev =  6.5169E-01
+ n= 1.6795E+00 n-1= 6.7946E-01 k=3.2789E-02 ep1= 2.8195E+00 ep2=1.1014E-01
+  relative errors    8.3594D-08   8.7666D-08
+  n, nmx2, nmx1     4     6    21
+ qext=  2.4931E-02 qphase=  5.1775E-01 qscat=  4.6280E-03 qabs=  2.0303E-02
+ g =  2.3390E-02 albedo =  1.8563E-01 1-g =  9.7661E-01
+ qext/a =  2.4931E+03 c/v =  1.8699E+03 kappa =  5.6662E+02
+
+ vacuum wavelength =  1.7973E+00 wavenumber =  5.5639E-01 x =  3.4959E-01
+ rydberg =  5.0702E-02 ev =  6.8984E-01
+ n= 1.6801E+00 n-1= 6.8013E-01 k=3.2420E-02 ep1= 2.8218E+00 ep2=1.0894E-01
+  relative errors    1.7159D-10   1.8141D-10
+  n, nmx2, nmx1     5     6    21
+ qext=  2.7263E-02 qphase=  5.5078E-01 qscat=  5.8321E-03 qabs=  2.1431E-02
+ g =  2.6194E-02 albedo =  2.1392E-01 1-g =  9.7381E-01
+ qext/a =  2.7263E+03 c/v =  2.0447E+03 kappa =  6.1962E+02
+
+ vacuum wavelength =  1.6979E+00 wavenumber =  5.8896E-01 x =  3.7006E-01
+ rydberg =  5.3670E-02 ev =  7.3022E-01
+ n= 1.6807E+00 n-1= 6.8067E-01 k=3.2095E-02 ep1= 2.8236E+00 ep2=1.0788E-01
+  relative errors    2.6906D-10   2.8634D-10
+  n, nmx2, nmx1     5     6    21
+ qext=  3.0023E-02 qphase=  5.8609E-01 qscat=  7.3489E-03 qabs=  2.2674E-02
+ g =  2.9330E-02 albedo =  2.4478E-01 1-g =  9.7067E-01
+ qext/a =  3.0023E+03 c/v =  2.2517E+03 kappa =  6.8234E+02
+
+ vacuum wavelength =  1.6040E+00 wavenumber =  6.2344E-01 x =  3.9172E-01
+ rydberg =  5.6812E-02 ev =  7.7297E-01
+ n= 1.6811E+00 n-1= 6.8109E-01 k=3.1812E-02 ep1= 2.8251E+00 ep2=1.0696E-01
+  relative errors    4.2167D-10   4.5207D-10
+  n, nmx2, nmx1     5     6    21
+ qext=  3.3306E-02 qphase=  6.2388E-01 qscat=  9.2596E-03 qabs=  2.4046E-02
+ g =  3.2838E-02 albedo =  2.7802E-01 1-g =  9.6716E-01
+ qext/a =  3.3306E+03 c/v =  2.4979E+03 kappa =  7.5695E+02
+
+ vacuum wavelength =  1.5154E+00 wavenumber =  6.5989E-01 x =  4.1462E-01
+ rydberg =  6.0134E-02 ev =  8.1816E-01
+ n= 1.6814E+00 n-1= 6.8138E-01 k=3.1553E-02 ep1= 2.8260E+00 ep2=1.0611E-01
+  relative errors    6.6006D-10   7.1355D-10
+  n, nmx2, nmx1     5     6    21
+ qext=  3.7211E-02 qphase=  6.6429E-01 qscat=  1.1662E-02 qabs=  2.5548E-02
+ g =  3.6757E-02 albedo =  3.1342E-01 1-g =  9.6324E-01
+ qext/a =  3.7211E+03 c/v =  2.7908E+03 kappa =  8.4570E+02
+
+ vacuum wavelength =  1.4316E+00 wavenumber =  6.9852E-01 x =  4.3889E-01
+ rydberg =  6.3654E-02 ev =  8.6605E-01
+ n= 1.6816E+00 n-1= 6.8160E-01 k=3.1292E-02 ep1= 2.8268E+00 ep2=1.0524E-01
+  relative errors    1.0330D-09   1.1272D-09
+  n, nmx2, nmx1     5     7    22
+ qext=  4.1872E-02 qphase=  7.0771E-01 qscat=  1.4693E-02 qabs=  2.7178E-02
+ g =  4.1146E-02 albedo =  3.5091E-01 1-g =  9.5885E-01
+ qext/a =  4.1872E+03 c/v =  3.1404E+03 kappa =  9.5163E+02
+
+ vacuum wavelength =  1.3524E+00 wavenumber =  7.3943E-01 x =  4.6460E-01
+ rydberg =  6.7381E-02 ev =  9.1677E-01
+ n= 1.6818E+00 n-1= 6.8177E-01 k=3.1036E-02 ep1= 2.8274E+00 ep2=1.0439E-01
+  relative errors    1.6161D-09   1.7819D-09
+  n, nmx2, nmx1     5     7    22
+ qext=  4.7471E-02 qphase=  7.5438E-01 qscat=  1.8515E-02 qabs=  2.8956E-02
+ g =  4.6060E-02 albedo =  3.9002E-01 1-g =  9.5394E-01
+ qext/a =  4.7471E+03 c/v =  3.5603E+03 kappa =  1.0789E+03
+
+ vacuum wavelength =  1.2776E+00 wavenumber =  7.8272E-01 x =  4.9180E-01
+ rydberg =  7.1326E-02 ev =  9.7045E-01
+ n= 1.6819E+00 n-1= 6.8191E-01 k=3.0810E-02 ep1= 2.8279E+00 ep2=1.0364E-01
+  relative errors    2.5260D-09   2.8180D-09
+  n, nmx2, nmx1     5     7    22
+ qext=  5.4255E-02 qphase=  8.0458E-01 qscat=  2.3331E-02 qabs=  3.0924E-02
+ g =  5.1561E-02 albedo =  4.3002E-01 1-g =  9.4844E-01
+ qext/a =  5.4255E+03 c/v =  4.0691E+03 kappa =  1.2331E+03
+
+ vacuum wavelength =  1.2070E+00 wavenumber =  8.2850E-01 x =  5.2056E-01
+ rydberg =  7.5499E-02 ev =  1.0272E+00
+ n= 1.6821E+00 n-1= 6.8205E-01 k=3.0634E-02 ep1= 2.8284E+00 ep2=1.0306E-01
+  relative errors    3.9436D-09   4.4577D-09
+  n, nmx2, nmx1     5     7    22
+ qext=  6.2523E-02 qphase=  8.5862E-01 qscat=  2.9396E-02 qabs=  3.3127E-02
+ g =  5.7717E-02 albedo =  4.7017E-01 1-g =  9.4228E-01
+ qext/a =  6.2523E+03 c/v =  4.6892E+03 kappa =  1.4210E+03
+
+ vacuum wavelength =  1.1403E+00 wavenumber =  8.7696E-01 x =  5.5101E-01
+ rydberg =  7.9915E-02 ev =  1.0873E+00
+ n= 1.6821E+00 n-1= 6.8214E-01 k=3.0506E-02 ep1= 2.8287E+00 ep2=1.0263E-01
+  relative errors    6.1521D-09   7.0573D-09
+  n, nmx2, nmx1     5     7    22
+ qext=  7.2635E-02 qphase=  9.1682E-01 qscat=  3.7035E-02 qabs=  3.5601E-02
+ g =  6.4615E-02 albedo =  5.0987E-01 1-g =  9.3538E-01
+ qext/a =  7.2635E+03 c/v =  5.4476E+03 kappa =  1.6508E+03
+
+ vacuum wavelength =  1.0772E+00 wavenumber =  9.2833E-01 x =  5.8329E-01
+ rydberg =  8.4596E-02 ev =  1.1510E+00
+ n= 1.6822E+00 n-1= 6.8219E-01 k=3.0409E-02 ep1= 2.8288E+00 ep2=1.0231E-01
+  relative errors    9.5957D-09   1.1192D-08
+  n, nmx2, nmx1     5     7    22
+ qext=  8.5033E-02 qphase=  9.7963E-01 qscat=  4.6664E-02 qabs=  3.8369E-02
+ g =  7.2363E-02 albedo =  5.4877E-01 1-g =  9.2764E-01
+ qext/a =  8.5033E+03 c/v =  6.3775E+03 kappa =  1.9326E+03
+
+ vacuum wavelength =  1.0177E+00 wavenumber =  9.8261E-01 x =  6.1739E-01
+ rydberg =  8.9542E-02 ev =  1.2183E+00
+ n= 1.6822E+00 n-1= 6.8223E-01 k=3.0321E-02 ep1= 2.8290E+00 ep2=1.0201E-01
+  relative errors    1.4943D-08   1.7759D-08
+  n, nmx2, nmx1     5     7    22
+ qext=  1.0019E-01 qphase=  1.0472E+00 qscat=  5.8754E-02 qabs=  4.1433E-02
+ g =  8.1050E-02 albedo =  5.8644E-01 1-g =  9.1895E-01
+ qext/a =  1.0019E+04 c/v =  7.5140E+03 kappa =  2.2770E+03
+
+ vacuum wavelength =  9.6139E-01 wavenumber =  1.0402E+00 x =  6.5355E-01
+ rydberg =  9.4786E-02 ev =  1.2896E+00
+ n= 1.6823E+00 n-1= 6.8226E-01 k=3.0225E-02 ep1= 2.8291E+00 ep2=1.0169E-01
+  relative errors    2.3270D-08   2.8252D-08
+  n, nmx2, nmx1     5     7    22
+ qext=  1.1879E-01 qphase=  1.1202E+00 qscat=  7.3968E-02 qabs=  4.4819E-02
+ g =  9.0839E-02 albedo =  6.2270E-01 1-g =  9.0916E-01
+ qext/a =  1.1879E+04 c/v =  8.9090E+03 kappa =  2.6997E+03
+
+ vacuum wavelength =  9.0823E-01 wavenumber =  1.1010E+00 x =  6.9181E-01
+ rydberg =  1.0033E-01 ev =  1.3651E+00
+ n= 1.6823E+00 n-1= 6.8233E-01 k=3.0120E-02 ep1= 2.8293E+00 ep2=1.0134E-01
+  relative errors    3.6202D-08   4.5035D-08
+  n, nmx2, nmx1     5     7    22
+ qext=  1.4160E-01 qphase=  1.1988E+00 qscat=  9.3042E-02 qabs=  4.8554E-02
+ g =  1.0187E-01 albedo =  6.5710E-01 1-g =  8.9813E-01
+ qext/a =  1.4160E+04 c/v =  1.0620E+04 kappa =  3.2181E+03
+
+ vacuum wavelength =  8.5802E-01 wavenumber =  1.1655E+00 x =  7.3229E-01
+ rydberg =  1.0621E-01 ev =  1.4450E+00
+ n= 1.6825E+00 n-1= 6.8246E-01 k=3.0016E-02 ep1= 2.8298E+00 ep2=1.0100E-01
+  relative errors    5.6284D-08   7.2001D-08
+  n, nmx2, nmx1     5     7    22
+ qext=  1.6960E-01 qphase=  1.2834E+00 qscat=  1.1690E-01 qabs=  5.2697E-02
+ g =  1.1434E-01 albedo =  6.8929E-01 1-g =  8.8566E-01
+ qext/a =  1.6960E+04 c/v =  1.2720E+04 kappa =  3.8545E+03
+
+ vacuum wavelength =  8.1058E-01 wavenumber =  1.2337E+00 x =  7.7515E-01
+ rydberg =  1.1242E-01 ev =  1.5296E+00
+ n= 1.6826E+00 n-1= 6.8265E-01 k=2.9916E-02 ep1= 2.8304E+00 ep2=1.0068E-01
+  relative errors    8.7479D-08   1.1559D-07
+  n, nmx2, nmx1     5     8    23
+ qext=  2.0395E-01 qphase=  1.3741E+00 qscat=  1.4664E-01 qabs=  5.7304E-02
+ g =  1.2850E-01 albedo =  7.1903E-01 1-g =  8.7150E-01
+ qext/a =  2.0395E+04 c/v =  1.5296E+04 kappa =  4.6352E+03
+
+ vacuum wavelength =  7.6576E-01 wavenumber =  1.3059E+00 x =  8.2052E-01
+ rydberg =  1.1900E-01 ev =  1.6191E+00
+ n= 1.6829E+00 n-1= 6.8293E-01 k=2.9817E-02 ep1= 2.8314E+00 ep2=1.0036E-01
+  relative errors    7.4220D-10   1.0270D-09
+  n, nmx2, nmx1     6     8    23
+ qext=  2.4596E-01 qphase=  1.4710E+00 qscat=  1.8354E-01 qabs=  6.2423E-02
+ g =  1.4465E-01 albedo =  7.4621E-01 1-g =  8.5535E-01
+ qext/a =  2.4596E+04 c/v =  1.8447E+04 kappa =  5.5900E+03
+
+ vacuum wavelength =  7.2342E-01 wavenumber =  1.3823E+00 x =  8.6854E-01
+ rydberg =  1.2597E-01 ev =  1.7139E+00
+ n= 1.6833E+00 n-1= 6.8332E-01 k=2.9723E-02 ep1= 2.8327E+00 ep2=1.0007E-01
+  relative errors    1.2928D-09   1.8735D-09
+  n, nmx2, nmx1     6     8    23
+ qext=  2.9711E-01 qphase=  1.5741E+00 qscat=  2.2898E-01 qabs=  6.8123E-02
+ g =  1.6316E-01 albedo =  7.7071E-01 1-g =  8.3684E-01
+ qext/a =  2.9711E+04 c/v =  2.2283E+04 kappa =  6.7524E+03
+
+ vacuum wavelength =  6.8342E-01 wavenumber =  1.4632E+00 x =  9.1937E-01
+ rydberg =  1.3334E-01 ev =  1.8142E+00
+ n= 1.6838E+00 n-1= 6.8383E-01 k=2.9638E-02 ep1= 2.8344E+00 ep2=9.9811E-02
+  relative errors    2.2533D-09   3.4533D-09
+  n, nmx2, nmx1     6     8    23
+ qext=  3.5897E-01 qphase=  1.6828E+00 qscat=  2.8448E-01 qabs=  7.4490E-02
+ g =  1.8454E-01 albedo =  7.9249E-01 1-g =  8.1546E-01
+ qext/a =  3.5897E+04 c/v =  2.6922E+04 kappa =  8.1583E+03
+
+ vacuum wavelength =  6.4563E-01 wavenumber =  1.5489E+00 x =  9.7319E-01
+ rydberg =  1.4114E-01 ev =  1.9204E+00
+ n= 1.6845E+00 n-1= 6.8450E-01 k=2.9561E-02 ep1= 2.8367E+00 ep2=9.9591E-02
+  relative errors    3.9317D-09   6.4567D-09
+  n, nmx2, nmx1     6     8    23
+ qext=  4.3313E-01 qphase=  1.7966E+00 qscat=  3.5151E-01 qabs=  8.1620E-02
+ g =  2.0942E-01 albedo =  8.1156E-01 1-g =  7.9058E-01
+ qext/a =  4.3313E+04 c/v =  3.2485E+04 kappa =  9.8439E+03
+
+ vacuum wavelength =  6.0994E-01 wavenumber =  1.6395E+00 x =  1.0301E+00
+ rydberg =  1.4940E-01 ev =  2.0327E+00
+ n= 1.6853E+00 n-1= 6.8533E-01 k=2.9488E-02 ep1= 2.8395E+00 ep2=9.9394E-02
+  relative errors    6.8687D-09   1.2313D-08
+  n, nmx2, nmx1     6     8    23
+ qext=  5.2103E-01 qphase=  1.9147E+00 qscat=  4.3139E-01 qabs=  8.9647E-02
+ g =  2.3862E-01 albedo =  8.2794E-01 1-g =  7.6138E-01
+ qext/a =  5.2103E+04 c/v =  3.9077E+04 kappa =  1.1842E+04
+
+ vacuum wavelength =  5.7621E-01 wavenumber =  1.7355E+00 x =  1.0904E+00
+ rydberg =  1.5815E-01 ev =  2.1517E+00
+ n= 1.6864E+00 n-1= 6.8637E-01 k=2.9418E-02 ep1= 2.8430E+00 ep2=9.9219E-02
+  relative errors    1.2022D-08   2.4171D-08
+  n, nmx2, nmx1     6     8    23
+ qext=  6.2417E-01 qphase=  2.0366E+00 qscat=  5.2536E-01 qabs=  9.8811E-02
+ g =  2.7317E-01 albedo =  8.4169E-01 1-g =  7.2683E-01
+ qext/a =  6.2417E+04 c/v =  4.6813E+04 kappa =  1.4186E+04
+
+ vacuum wavelength =  5.4435E-01 wavenumber =  1.8371E+00 x =  1.1543E+00
+ rydberg =  1.6740E-01 ev =  2.2777E+00
+ n= 1.6876E+00 n-1= 6.8764E-01 k=2.9350E-02 ep1= 2.8473E+00 ep2=9.9064E-02
+  relative errors    2.1070D-08   4.9492D-08
+  n, nmx2, nmx1     6     8    23
+ qext=  7.4411E-01 qphase=  2.1623E+00 qscat=  6.3460E-01 qabs=  1.0951E-01
+ g =  3.1420E-01 albedo =  8.5283E-01 1-g =  6.8580E-01
+ qext/a =  7.4411E+04 c/v =  5.5808E+04 kappa =  1.6912E+04
+
+ vacuum wavelength =  5.1426E-01 wavenumber =  1.9445E+00 x =  1.2218E+00
+ rydberg =  1.7720E-01 ev =  2.4109E+00
+ n= 1.6892E+00 n-1= 6.8919E-01 k=2.9283E-02 ep1= 2.8525E+00 ep2=9.8929E-02
+  relative errors    3.6953D-08   1.0825D-07
+  n, nmx2, nmx1     6     9    24
+ qext=  8.8372E-01 qphase=  2.2929E+00 qscat=  7.6129E-01 qabs=  1.2243E-01
+ g =  3.6273E-01 albedo =  8.6146E-01 1-g =  6.3727E-01
+ qext/a =  8.8372E+04 c/v =  6.6279E+04 kappa =  2.0085E+04
+
+ vacuum wavelength =  4.8582E-01 wavenumber =  2.0584E+00 x =  1.2933E+00
+ rydberg =  1.8757E-01 ev =  2.5521E+00
+ n= 1.6911E+00 n-1= 6.9106E-01 k=2.9221E-02 ep1= 2.8588E+00 ep2=9.8829E-02
+  relative errors    6.4828D-08   2.6557D-07
+  n, nmx2, nmx1     6     9    24
+ qext=  1.0494E+00 qphase=  2.4302E+00 qscat=  9.1070E-01 qabs=  1.3869E-01
+ g =  4.1887E-01 albedo =  8.6784E-01 1-g =  5.8113E-01
+ qext/a =  1.0494E+05 c/v =  7.8704E+04 kappa =  2.3850E+04
+
+ vacuum wavelength =  4.5896E-01 wavenumber =  2.1788E+00 x =  1.3690E+00
+ rydberg =  1.9855E-01 ev =  2.7014E+00
+ n= 1.6933E+00 n-1= 6.9331E-01 k=2.9166E-02 ep1= 2.8664E+00 ep2=9.8774E-02
+  relative errors    1.2471D-09   9.2242D-09
+  n, nmx2, nmx1     7     9    24
+ qext=  1.2542E+00 qphase=  2.5743E+00 qscat=  1.0944E+00 qabs=  1.5978E-01
+ g =  4.7996E-01 albedo =  8.7260E-01 1-g =  5.2004E-01
+ qext/a =  1.2542E+05 c/v =  9.4065E+04 kappa =  2.8505E+04
+
+ vacuum wavelength =  4.3358E-01 wavenumber =  2.3064E+00 x =  1.4491E+00
+ rydberg =  2.1017E-01 ev =  2.8595E+00
+ n= 1.6960E+00 n-1= 6.9597E-01 k=2.9120E-02 ep1= 2.8755E+00 ep2=9.8773E-02
+  relative errors    2.4627D-09   8.1897D-08
+  n, nmx2, nmx1     7     9    24
+ qext=  1.5205E+00 qphase=  2.7139E+00 qscat=  1.3335E+00 qabs=  1.8692E-01
+ g =  5.3811E-01 albedo =  8.7706E-01 1-g =  4.6189E-01
+ qext/a =  1.5205E+05 c/v =  1.1403E+05 kappa =  3.4556E+04
+
+ vacuum wavelength =  4.0961E-01 wavenumber =  2.4413E+00 x =  1.5339E+00
+ rydberg =  2.2247E-01 ev =  3.0269E+00
+ n= 1.6991E+00 n-1= 6.9913E-01 k=2.9072E-02 ep1= 2.8862E+00 ep2=9.8794E-02
+  relative errors    4.9478D-09   8.8196D-08
+  n, nmx2, nmx1     7     9    24
+ qext=  1.8700E+00 qphase=  2.8102E+00 qscat=  1.6513E+00 qabs=  2.1866E-01
+ g =  5.7975E-01 albedo =  8.8307E-01 1-g =  4.2025E-01
+ qext/a =  1.8700E+05 c/v =  1.4025E+05 kappa =  4.2500E+04
+
+ vacuum wavelength =  3.8696E-01 wavenumber =  2.5842E+00 x =  1.6237E+00
+ rydberg =  2.3549E-01 ev =  3.2041E+00
+ n= 1.7029E+00 n-1= 7.0287E-01 k=2.8987E-02 ep1= 2.8989E+00 ep2=9.8722E-02
+  relative errors    1.0362D-08   1.0711D-07
+  n, nmx2, nmx1     7     9    24
+ qext=  2.2838E+00 qphase=  2.7904E+00 qscat=  2.0370E+00 qabs=  2.4685E-01
+ g =  5.9329E-01 albedo =  8.9191E-01 1-g =  4.0671E-01
+ qext/a =  2.2838E+05 c/v =  1.7129E+05 kappa =  5.1905E+04
+
+ vacuum wavelength =  3.6557E-01 wavenumber =  2.7355E+00 x =  1.7187E+00
+ rydberg =  2.4927E-01 ev =  3.3915E+00
+ n= 1.7073E+00 n-1= 7.0734E-01 k=2.8876E-02 ep1= 2.9142E+00 ep2=9.8602E-02
+  relative errors    2.2994D-08   3.3134D-07
+  n, nmx2, nmx1     7    10    25
+ qext=  2.6574E+00 qphase=  2.6129E+00 qscat=  2.3984E+00 qabs=  2.5903E-01
+ g =  5.8173E-01 albedo =  9.0252E-01 1-g =  4.1827E-01
+ qext/a =  2.6574E+05 c/v =  1.9931E+05 kappa =  6.0396E+04
+
+ vacuum wavelength =  3.4536E-01 wavenumber =  2.8955E+00 x =  1.8193E+00
+ rydberg =  2.6386E-01 ev =  3.5900E+00
+ n= 1.7127E+00 n-1= 7.1268E-01 k=2.8778E-02 ep1= 2.9324E+00 ep2=9.8575E-02
+  relative errors    5.2701D-08   2.8170D-06
+  n, nmx2, nmx1     7    10    25
+ qext=  2.8796E+00 qphase=  2.3678E+00 qscat=  2.6258E+00 qabs=  2.5389E-01
+ g =  5.6296E-01 albedo =  9.1183E-01 1-g =  4.3704E-01
+ qext/a =  2.8796E+05 c/v =  2.1597E+05 kappa =  6.5447E+04
+
+ vacuum wavelength =  3.2626E-01 wavenumber =  3.0650E+00 x =  1.9258E+00
+ rydberg =  2.7931E-01 ev =  3.8002E+00
+ n= 1.7190E+00 n-1= 7.1901E-01 k=2.8696E-02 ep1= 2.9542E+00 ep2=9.8657E-02
+  relative errors    1.9258D-09   1.5807D-08
+  n, nmx2, nmx1     8    10    25
+ qext=  2.9812E+00 qphase=  2.2078E+00 qscat=  2.7334E+00 qabs=  2.4779E-01
+ g =  5.5572E-01 albedo =  9.1688E-01 1-g =  4.4428E-01
+ qext/a =  2.9812E+05 c/v =  2.2359E+05 kappa =  6.7753E+04
+
+ vacuum wavelength =  3.0822E-01 wavenumber =  3.2444E+00 x =  2.0385E+00
+ rydberg =  2.9565E-01 ev =  4.0226E+00
+ n= 1.7265E+00 n-1= 7.2652E-01 k=2.8559E-02 ep1= 2.9801E+00 ep2=9.8615E-02
+  relative errors    4.5064D-09   2.1610D-08
+  n, nmx2, nmx1     8    10    25
+ qext=  3.1082E+00 qphase=  2.1946E+00 qscat=  2.8475E+00 qabs=  2.6072E-01
+ g =  5.7020E-01 albedo =  9.1612E-01 1-g =  4.2980E-01
+ qext/a =  3.1082E+05 c/v =  2.3312E+05 kappa =  7.0642E+04
+
+ vacuum wavelength =  2.9118E-01 wavenumber =  3.4343E+00 x =  2.1578E+00
+ rydberg =  3.1296E-01 ev =  4.2580E+00
+ n= 1.7356E+00 n-1= 7.3561E-01 k=2.8290E-02 ep1= 3.0115E+00 ep2=9.8201E-02
+  relative errors    1.0188D-08   3.7591D-08
+  n, nmx2, nmx1     8    10    25
+ qext=  3.4392E+00 qphase=  2.2568E+00 qscat=  3.1304E+00 qabs=  3.0884E-01
+ g =  6.0793E-01 albedo =  9.1020E-01 1-g =  3.9207E-01
+ qext/a =  3.4392E+05 c/v =  2.5794E+05 kappa =  7.8164E+04
+
+ vacuum wavelength =  2.7508E-01 wavenumber =  3.6353E+00 x =  2.2841E+00
+ rydberg =  3.3127E-01 ev =  4.5072E+00
+ n= 1.7468E+00 n-1= 7.4683E-01 k=2.8137E-02 ep1= 3.0506E+00 ep2=9.8301E-02
+  relative errors    2.5811D-08   1.0851D-07
+  n, nmx2, nmx1     8    11    26
+ qext=  4.0838E+00 qphase=  2.0712E+00 qscat=  3.6961E+00 qabs=  3.8771E-01
+ g =  6.5495E-01 albedo =  9.0506E-01 1-g =  3.4505E-01
+ qext/a =  4.0838E+05 c/v =  3.0629E+05 kappa =  9.2815E+04
+
+ vacuum wavelength =  2.5987E-01 wavenumber =  3.8481E+00 x =  2.4178E+00
+ rydberg =  3.5066E-01 ev =  4.7710E+00
+ n= 1.7600E+00 n-1= 7.6004E-01 k=2.8312E-02 ep1= 3.0969E+00 ep2=9.9661E-02
+  relative errors    9.6534D-08   5.1524D-07
+  n, nmx2, nmx1     8    11    26
+ qext=  4.5139E+00 qphase=  1.2871E+00 qscat=  4.1023E+00 qabs=  4.1163E-01
+ g =  6.7334E-01 albedo =  9.0881E-01 1-g =  3.2666E-01
+ qext/a =  4.5139E+05 c/v =  3.3854E+05 kappa =  1.0259E+05
+
+ vacuum wavelength =  2.4550E-01 wavenumber =  4.0733E+00 x =  2.5593E+00
+ rydberg =  3.7119E-01 ev =  5.0503E+00
+ n= 1.7762E+00 n-1= 7.7620E-01 k=2.7159E-02 ep1= 3.1541E+00 ep2=9.6480E-02
+  relative errors    1.1131D-08   7.9081D-09
+  n, nmx2, nmx1     9    11    26
+ qext=  4.2968E+00 qphase=  5.8901E-01 qscat=  3.9372E+00 qabs=  3.5960E-01
+ g =  6.4722E-01 albedo =  9.1631E-01 1-g =  3.5278E-01
+ qext/a =  4.2968E+05 c/v =  3.2226E+05 kappa =  9.7654E+04
+
+ vacuum wavelength =  2.3193E-01 wavenumber =  4.3116E+00 x =  2.7091E+00
+ rydberg =  3.9291E-01 ev =  5.3458E+00
+ n= 1.7993E+00 n-1= 7.9934E-01 k=2.6318E-02 ep1= 3.2369E+00 ep2=9.4710E-02
+  relative errors    4.2351D-08   1.8458D-08
+  n, nmx2, nmx1     9    11    26
+ qext=  3.9956E+00 qphase=  4.0470E-01 qscat=  3.6375E+00 qabs=  3.5803E-01
+ g =  5.9045E-01 albedo =  9.1039E-01 1-g =  4.0955E-01
+ qext/a =  3.9956E+05 c/v =  2.9967E+05 kappa =  9.0808E+04
+
+ vacuum wavelength =  2.1911E-01 wavenumber =  4.5639E+00 x =  2.8676E+00
+ rydberg =  4.1589E-01 ev =  5.6585E+00
+ n= 1.8306E+00 n-1= 8.3058E-01 k=2.8395E-02 ep1= 3.3502E+00 ep2=1.0396E-01
+  relative errors    4.1955D-09   2.8295D-09
+  n, nmx2, nmx1    10    12    27
+ qext=  4.3894E+00 qphase=  2.4532E-01 qscat=  3.8404E+00 qabs=  5.4903E-01
+ g =  5.7309E-01 albedo =  8.7492E-01 1-g =  4.2691E-01
+ qext/a =  4.3894E+05 c/v =  3.2921E+05 kappa =  9.9760E+04
+
+ vacuum wavelength =  2.0699E-01 wavenumber =  4.8312E+00 x =  3.0355E+00
+ rydberg =  4.4025E-01 ev =  5.9899E+00
+ n= 1.8692E+00 n-1= 8.6920E-01 k=3.8695E-02 ep1= 3.4924E+00 ep2=1.4466E-01
+  relative errors    3.3816D-09   2.9787D-09
+  n, nmx2, nmx1    10    12    27
+ qext=  3.9638E+00 qphase= -8.9804E-01 qscat=  3.3109E+00 qabs=  6.5291E-01
+ g =  6.1075E-01 albedo =  8.3528E-01 1-g =  3.8925E-01
+ qext/a =  3.9638E+05 c/v =  2.9728E+05 kappa =  9.0086E+04
+
+ vacuum wavelength =  1.9555E-01 wavenumber =  5.1138E+00 x =  3.2131E+00
+ rydberg =  4.6600E-01 ev =  6.3403E+00
+ n= 1.9142E+00 n-1= 9.1419E-01 k=5.6812E-02 ep1= 3.6609E+00 ep2=2.1750E-01
+  relative errors    9.7822D-09   3.2099D-08
+  n, nmx2, nmx1    10    12    27
+ qext=  3.0124E+00 qphase= -9.1606E-01 qscat=  2.1794E+00 qabs=  8.3297E-01
+ g =  5.2837E-01 albedo =  7.2348E-01 1-g =  4.7163E-01
+ qext/a =  3.0124E+05 c/v =  2.2593E+05 kappa =  6.8463E+04
+
+ vacuum wavelength =  1.8473E-01 wavenumber =  5.4133E+00 x =  3.4013E+00
+ rydberg =  4.9330E-01 ev =  6.7116E+00
+ n= 1.9680E+00 n-1= 9.6799E-01 k=8.8878E-02 ep1= 3.8651E+00 ep2=3.4982E-01
+  relative errors    3.9980D-08   2.5881D-08
+  n, nmx2, nmx1    10    13    28
+ qext=  2.7031E+00 qphase= -6.6403E-01 qscat=  1.4796E+00 qabs=  1.2235E+00
+ g =  5.1593E-01 albedo =  5.4736E-01 1-g =  4.8407E-01
+ qext/a =  2.7031E+05 c/v =  2.0274E+05 kappa =  6.1435E+04
+
+ vacuum wavelength =  1.7452E-01 wavenumber =  5.7300E+00 x =  3.6003E+00
+ rydberg =  5.2216E-01 ev =  7.1043E+00
+ n= 2.0225E+00 n-1= 1.0225E+00 k=1.4208E-01 ep1= 4.0703E+00 ep2=5.7471E-01
+  relative errors    7.1626D-09   4.4894D-09
+  n, nmx2, nmx1    11    13    28
+ qext=  2.5213E+00 qphase= -3.2308E-01 qscat=  1.1246E+00 qabs=  1.3967E+00
+ g =  6.5560E-01 albedo =  4.4604E-01 1-g =  3.4440E-01
+ qext/a =  2.5213E+05 c/v =  1.8909E+05 kappa =  5.7301E+04
+
+ vacuum wavelength =  1.6487E-01 wavenumber =  6.0654E+00 x =  3.8110E+00
+ rydberg =  5.5272E-01 ev =  7.5201E+00
+ n= 2.0725E+00 n-1= 1.0725E+00 k=1.9697E-01 ep1= 4.2565E+00 ep2=8.1644E-01
+  relative errors    5.9297D-08   1.0825D-07
+ backwards consistency failure   1.0991D-14  0.0000D+00  2.5216D-02  2.5216D-02 -6.5424D-01 -6.5424D-01
+  n, nmx2, nmx1    11    13    28
+ qext=  2.5366E+00 qphase= -1.2803E-01 qscat=  1.1237E+00 qabs=  1.4129E+00
+ g =  7.5023E-01 albedo =  4.4298E-01 1-g =  2.4977E-01
+ qext/a =  2.5366E+05 c/v =  1.9025E+05 kappa =  5.7650E+04
+
+ vacuum wavelength =  1.5576E-01 wavenumber =  6.4201E+00 x =  4.0339E+00
+ rydberg =  5.8505E-01 ev =  7.9600E+00
+ n= 2.1957E+00 n-1= 1.1957E+00 k=2.9083E-01 ep1= 4.7365E+00 ep2=1.2772E+00
+  relative errors    8.3705D-09   7.0792D-09
+  n, nmx2, nmx1    12    14    29
+ qext=  2.7148E+00 qphase= -9.5721E-02 qscat=  1.3238E+00 qabs=  1.3910E+00
+ g =  8.0639E-01 albedo =  4.8764E-01 1-g =  1.9361E-01
+ qext/a =  2.7148E+05 c/v =  2.0361E+05 kappa =  6.1700E+04
+
+ vacuum wavelength =  1.4714E-01 wavenumber =  6.7962E+00 x =  4.2702E+00
+ rydberg =  6.1932E-01 ev =  8.4263E+00
+ n= 2.2061E+00 n-1= 1.2061E+00 k=6.9585E-01 ep1= 4.3827E+00 ep2=3.0702E+00
+  relative errors    1.6429D-08   1.7825D-08
+  n, nmx2, nmx1    12    14    29
+ qext=  2.6699E+00 qphase= -1.7542E-01 qscat=  1.3482E+00 qabs=  1.3217E+00
+ g =  7.8141E-01 albedo =  5.0496E-01 1-g =  2.1859E-01
+ qext/a =  2.6699E+05 c/v =  2.0024E+05 kappa =  6.0679E+04
+
+ vacuum wavelength =  1.3901E-01 wavenumber =  7.1937E+00 x =  4.5200E+00
+ rydberg =  6.5554E-01 ev =  8.9191E+00
+ n= 1.8805E+00 n-1= 8.8052E-01 k=6.0486E-01 ep1= 3.1705E+00 ep2=2.2749E+00
+  relative errors    4.4459D-08   4.5367D-08
+  n, nmx2, nmx1    12    14    29
+ qext=  2.6339E+00 qphase= -1.8768E-01 qscat=  1.2760E+00 qabs=  1.3579E+00
+ g =  8.1678E-01 albedo =  4.8446E-01 1-g =  1.8322E-01
+ qext/a =  2.6339E+05 c/v =  1.9755E+05 kappa =  5.9862E+04
+
+ vacuum wavelength =  1.3132E-01 wavenumber =  7.6150E+00 x =  4.7846E+00
+ rydberg =  6.9393E-01 ev =  9.4414E+00
+ n= 1.8730E+00 n-1= 8.7298E-01 k=6.4579E-01 ep1= 3.0910E+00 ep2=2.4191E+00
+  relative errors    5.3677D-09   6.1068D-09
+  n, nmx2, nmx1    13    15    30
+ qext=  2.6133E+00 qphase= -2.0286E-01 qscat=  1.2838E+00 qabs=  1.3295E+00
+ g =  8.1931E-01 albedo =  4.9127E-01 1-g =  1.8069E-01
+ qext/a =  2.6133E+05 c/v =  1.9600E+05 kappa =  5.9393E+04
+
+ vacuum wavelength =  1.2406E-01 wavenumber =  8.0606E+00 x =  5.0646E+00
+ rydberg =  7.3454E-01 ev =  9.9939E+00
+ n= 1.8919E+00 n-1= 8.9187E-01 k=6.8326E-01 ep1= 3.1123E+00 ep2=2.5853E+00
+  relative errors    1.9638D-08   2.9719D-08
+  n, nmx2, nmx1    13    15    30
+ qext=  2.5968E+00 qphase= -2.1469E-01 qscat=  1.2952E+00 qabs=  1.3016E+00
+ g =  8.1968E-01 albedo =  4.9876E-01 1-g =  1.8032E-01
+ qext/a =  2.5968E+05 c/v =  1.9476E+05 kappa =  5.9019E+04
+
+ vacuum wavelength =  1.1720E-01 wavenumber =  8.5324E+00 x =  5.3611E+00
+ rydberg =  7.7753E-01 ev =  1.0579E+01
+ n= 1.8040E+00 n-1= 8.0402E-01 k=7.6593E-01 ep1= 2.6678E+00 ep2=2.7635E+00
+  relative errors    6.4973D-08   1.8587D-07
+  n, nmx2, nmx1    13    16    31
+ qext=  2.5758E+00 qphase= -2.3462E-01 qscat=  1.2997E+00 qabs=  1.2761E+00
+ g =  8.2201E-01 albedo =  5.0457E-01 1-g =  1.7799E-01
+ qext/a =  2.5758E+05 c/v =  1.9319E+05 kappa =  5.8541E+04
+
+ vacuum wavelength =  1.1072E-01 wavenumber =  9.0318E+00 x =  5.6748E+00
+ rydberg =  8.2304E-01 ev =  1.1198E+01
+ n= 1.7741E+00 n-1= 7.7413E-01 k=7.8949E-01 ep1= 2.5242E+00 ep2=2.8013E+00
+  relative errors    1.0617D-08   2.2164D-07
+  n, nmx2, nmx1    14    16    31
+ qext=  2.5572E+00 qphase= -2.4627E-01 qscat=  1.3019E+00 qabs=  1.2554E+00
+ g =  8.2532E-01 albedo =  5.0909E-01 1-g =  1.7468E-01
+ qext/a =  2.5572E+05 c/v =  1.9179E+05 kappa =  5.8119E+04
+
+ vacuum wavelength =  1.0460E-01 wavenumber =  9.5602E+00 x =  6.0069E+00
+ rydberg =  8.7119E-01 ev =  1.1853E+01
+ n= 1.6833E+00 n-1= 6.8334E-01 k=9.2842E-01 ep1= 1.9717E+00 ep2=3.1257E+00
+  relative errors    3.8797D-08   1.9965D-07
+  n, nmx2, nmx1    14    16    31
+ qext=  2.5493E+00 qphase= -2.7286E-01 qscat=  1.3314E+00 qabs=  1.2179E+00
+ g =  8.1784E-01 albedo =  5.2225E-01 1-g =  1.8216E-01
+ qext/a =  2.5493E+05 c/v =  1.9120E+05 kappa =  5.7938E+04
+
+ vacuum wavelength =  9.8816E-02 wavenumber =  1.0120E+01 x =  6.3585E+00
+ rydberg =  9.2219E-01 ev =  1.2547E+01
+ n= 1.5189E+00 n-1= 5.1886E-01 k=9.4872E-01 ep1= 1.4069E+00 ep2=2.8819E+00
+  relative errors    6.7016D-09   2.3158D-08
+  n, nmx2, nmx1    15    17    32
+ qext=  2.5242E+00 qphase= -3.0640E-01 qscat=  1.3275E+00 qabs=  1.1966E+00
+ g =  8.2293E-01 albedo =  5.2593E-01 1-g =  1.7707E-01
+ qext/a =  2.5242E+05 c/v =  1.8931E+05 kappa =  5.7367E+04
+
+ vacuum wavelength =  9.3353E-02 wavenumber =  1.0712E+01 x =  6.7306E+00
+ rydberg =  9.7615E-01 ev =  1.3281E+01
+ n= 1.4084E+00 n-1= 4.0842E-01 k=9.4436E-01 ep1= 1.0918E+00 ep2=2.6601E+00
+  relative errors    2.5455D-08   2.4314D-07
+  n, nmx2, nmx1    15    17    32
+ qext=  2.4983E+00 qphase= -3.3208E-01 qscat=  1.3236E+00 qabs=  1.1747E+00
+ g =  8.2737E-01 albedo =  5.2979E-01 1-g =  1.7263E-01
+ qext/a =  2.4983E+05 c/v =  1.8737E+05 kappa =  5.6779E+04
+
+ vacuum wavelength =  8.8191E-02 wavenumber =  1.1339E+01 x =  7.1245E+00
+ rydberg =  1.0333E+00 ev =  1.4059E+01
+ n= 1.3220E+00 n-1= 3.2202E-01 k=8.6553E-01 ep1= 9.9859E-01 ep2=2.2885E+00
+  relative errors    9.1579D-08   5.0421D-07
+  n, nmx2, nmx1    15    18    33
+ qext=  2.4543E+00 qphase= -3.4526E-01 qscat=  1.2903E+00 qabs=  1.1641E+00
+ g =  8.4122E-01 albedo =  5.2572E-01 1-g =  1.5878E-01
+ qext/a =  2.4543E+05 c/v =  1.8408E+05 kappa =  5.5781E+04
+
+ vacuum wavelength =  8.3315E-02 wavenumber =  1.2003E+01 x =  7.5415E+00
+ rydberg =  1.0938E+00 ev =  1.4881E+01
+ n= 1.3036E+00 n-1= 3.0363E-01 k=9.0101E-01 ep1= 8.8763E-01 ep2=2.3492E+00
+  relative errors    2.5626D-08   6.3194D-07
+  n, nmx2, nmx1    16    19    34
+ qext=  2.4493E+00 qphase= -3.5303E-01 qscat=  1.3087E+00 qabs=  1.1406E+00
+ g =  8.3824E-01 albedo =  5.3431E-01 1-g =  1.6176E-01
+ qext/a =  2.4493E+05 c/v =  1.8370E+05 kappa =  5.5666E+04
+
+ vacuum wavelength =  7.8708E-02 wavenumber =  1.2705E+01 x =  7.9829E+00
+ rydberg =  1.1578E+00 ev =  1.5752E+01
+ n= 1.2042E+00 n-1= 2.0424E-01 k=9.1291E-01 ep1= 6.1679E-01 ep2=2.1987E+00
+  relative errors    9.9437D-08   8.1673D-07
+  n, nmx2, nmx1    16    19    34
+ qext=  2.4305E+00 qphase= -3.8028E-01 qscat=  1.3220E+00 qabs=  1.1084E+00
+ g =  8.3601E-01 albedo =  5.4395E-01 1-g =  1.6399E-01
+ qext/a =  2.4305E+05 c/v =  1.8229E+05 kappa =  5.5238E+04
+
+ vacuum wavelength =  7.4357E-02 wavenumber =  1.3449E+01 x =  8.4500E+00
+ rydberg =  1.2255E+00 ev =  1.6674E+01
+ n= 1.1051E+00 n-1= 1.0514E-01 k=9.1448E-01 ep1= 3.8506E-01 ep2=2.0213E+00
+  relative errors    2.7582D-08   1.0746D-06
+  n, nmx2, nmx1    17    23    38
+ qext=  2.4110E+00 qphase= -4.0763E-01 qscat=  1.3381E+00 qabs=  1.0728E+00
+ g =  8.3273E-01 albedo =  5.5501E-01 1-g =  1.6727E-01
+ qext/a =  2.4110E+05 c/v =  1.8082E+05 kappa =  5.4794E+04
+
+ vacuum wavelength =  7.0245E-02 wavenumber =  1.4236E+01 x =  8.9447E+00
+ rydberg =  1.2973E+00 ev =  1.7650E+01
+ n= 9.8797E-01 n-1=-1.2031E-02 k=9.0238E-01 ep1= 1.6179E-01 ep2=1.7830E+00
+  relative errors    7.2999D-09   1.0385D-07
+  n, nmx2, nmx1    18    24    39
+ qext=  2.3880E+00 qphase= -4.4128E-01 qscat=  1.3604E+00 qabs=  1.0276E+00
+ g =  8.2701E-01 albedo =  5.6969E-01 1-g =  1.7299E-01
+ qext/a =  2.3880E+05 c/v =  1.7910E+05 kappa =  5.4273E+04
+
+ vacuum wavelength =  6.6361E-02 wavenumber =  1.5069E+01 x =  9.4682E+00
+ rydberg =  1.3732E+00 ev =  1.8683E+01
+ n= 8.4867E-01 n-1=-1.5133E-01 k=8.6302E-01 ep1=-2.4563E-02 ep2=1.4648E+00
+  relative errors    2.7390D-08   6.6962D-07
+  n, nmx2, nmx1    18    24    39
+ qext=  2.3568E+00 qphase= -4.8322E-01 qscat=  1.3909E+00 qabs=  9.6591E-01
+ g =  8.1809E-01 albedo =  5.9016E-01 1-g =  1.8191E-01
+ qext/a =  2.3568E+05 c/v =  1.7676E+05 kappa =  5.3564E+04
+
+ vacuum wavelength =  6.2692E-02 wavenumber =  1.5951E+01 x =  1.0022E+01
+ rydberg =  1.4536E+00 ev =  1.9777E+01
+ n= 6.8934E-01 n-1=-3.1066E-01 k=7.4169E-01 ep1=-7.4914E-02 ep2=1.0226E+00
+  relative errors    1.3295D-08   9.7902D-07
+  n, nmx2, nmx1    19    25    40
+ qext=  2.2966E+00 qphase= -5.3305E-01 qscat=  1.4158E+00 qabs=  8.8078E-01
+ g =  8.1057E-01 albedo =  6.1649E-01 1-g =  1.8943E-01
+ qext/a =  2.2966E+05 c/v =  1.7225E+05 kappa =  5.2196E+04
+
+ vacuum wavelength =  5.9226E-02 wavenumber =  1.6884E+01 x =  1.0609E+01
+ rydberg =  1.5386E+00 ev =  2.0934E+01
+ n= 6.4900E-01 n-1=-3.5100E-01 k=5.3433E-01 ep1= 1.3569E-01 ep2=6.9356E-01
+  relative errors    1.0667D-08   2.3018D-07
+  n, nmx2, nmx1    20    26    41
+ qext=  2.2055E+00 qphase= -5.4063E-01 qscat=  1.3545E+00 qabs=  8.5108E-01
+ g =  8.3579E-01 albedo =  6.1412E-01 1-g =  1.6421E-01
+ qext/a =  2.2055E+05 c/v =  1.6542E+05 kappa =  5.0126E+04
+
+ vacuum wavelength =  5.5951E-02 wavenumber =  1.7873E+01 x =  1.1230E+01
+ rydberg =  1.6287E+00 ev =  2.2159E+01
+ n= 7.0654E-01 n-1=-2.9346E-01 k=4.1216E-01 ep1= 3.2932E-01 ep2=5.8242E-01
+  relative errors    6.2284D-08   3.3774D-06
+  n, nmx2, nmx1    20    27    42
+ qext=  2.1431E+00 qphase= -5.1026E-01 qscat=  1.2643E+00 qabs=  8.7881E-01
+ g =  8.7180E-01 albedo =  5.8994E-01 1-g =  1.2820E-01
+ qext/a =  2.1431E+05 c/v =  1.6074E+05 kappa =  4.8708E+04
+
+ vacuum wavelength =  5.2858E-02 wavenumber =  1.8919E+01 x =  1.1887E+01
+ rydberg =  1.7240E+00 ev =  2.3456E+01
+ n= 7.4767E-01 n-1=-2.5233E-01 k=3.5661E-01 ep1= 4.3184E-01 ep2=5.3325E-01
+  relative errors    3.4708D-08   3.0840D-06
+  n, nmx2, nmx1    21    27    42
+ qext=  2.1101E+00 qphase= -4.8227E-01 qscat=  1.2133E+00 qabs=  8.9682E-01
+ g =  8.9245E-01 albedo =  5.7499E-01 1-g =  1.0755E-01
+ qext/a =  2.1101E+05 c/v =  1.5826E+05 kappa =  4.7958E+04
+
+ vacuum wavelength =  4.9935E-02 wavenumber =  2.0026E+01 x =  1.2583E+01
+ rydberg =  1.8249E+00 ev =  2.4829E+01
+ n= 7.6534E-01 n-1=-2.3466E-01 k=3.1080E-01 ep1= 4.8915E-01 ep2=4.7574E-01
+  relative errors    2.3124D-08   5.6243D-07
+  n, nmx2, nmx1    22    28    43
+ qext=  2.0846E+00 qphase= -4.6666E-01 qscat=  1.1882E+00 qabs=  8.9641E-01
+ g =  9.0473E-01 albedo =  5.6998E-01 1-g =  9.5272E-02
+ qext/a =  2.0846E+05 c/v =  1.5634E+05 kappa =  4.7377E+04
+
+ vacuum wavelength =  4.7174E-02 wavenumber =  2.1198E+01 x =  1.3319E+01
+ rydberg =  1.9317E+00 ev =  2.6282E+01
+ n= 7.8156E-01 n-1=-2.1844E-01 k=2.6331E-01 ep1= 5.4150E-01 ep2=4.1159E-01
+  relative errors    1.7133D-08   4.9377D-07
+  n, nmx2, nmx1    23    29    44
+ qext=  2.0574E+00 qphase= -4.5473E-01 qscat=  1.1659E+00 qabs=  8.9156E-01
+ g =  9.1624E-01 albedo =  5.6666E-01 1-g =  8.3761E-02
+ qext/a =  2.0574E+05 c/v =  1.5431E+05 kappa =  4.6760E+04
+
+ vacuum wavelength =  4.4566E-02 wavenumber =  2.2439E+01 x =  1.4099E+01
+ rydberg =  2.0448E+00 ev =  2.7820E+01
+ n= 8.0664E-01 n-1=-1.9336E-01 k=2.2125E-01 ep1= 6.0172E-01 ep2=3.5694E-01
+  relative errors    1.3632D-08   3.0476D-07
+  n, nmx2, nmx1    24    30    45
+ qext=  2.0292E+00 qphase= -4.3890E-01 qscat=  1.1362E+00 qabs=  8.9306E-01
+ g =  9.2908E-01 albedo =  5.5990E-01 1-g =  7.0923E-02
+ qext/a =  2.0292E+05 c/v =  1.5219E+05 kappa =  4.6119E+04
+
+ vacuum wavelength =  4.2102E-02 wavenumber =  2.3752E+01 x =  1.4924E+01
+ rydberg =  2.1644E+00 ev =  2.9449E+01
+ n= 8.3157E-01 n-1=-1.6843E-01 k=1.9514E-01 ep1= 6.5343E-01 ep2=3.2455E-01
+  relative errors    1.2116D-08   4.4668D-07
+  n, nmx2, nmx1    25    31    46
+ qext=  2.0087E+00 qphase= -4.1943E-01 qscat=  1.1080E+00 qabs=  9.0075E-01
+ g =  9.3977E-01 albedo =  5.5158E-01 1-g =  6.0231E-02
+ qext/a =  2.0087E+05 c/v =  1.5066E+05 kappa =  4.5653E+04
+
+ vacuum wavelength =  3.9774E-02 wavenumber =  2.5142E+01 x =  1.5797E+01
+ rydberg =  2.2911E+00 ev =  3.1172E+01
+ n= 8.4789E-01 n-1=-1.5211E-01 k=1.7418E-01 ep1= 6.8858E-01 ep2=2.9537E-01
+  relative errors    1.2429D-08   5.2858D-07
+  n, nmx2, nmx1    26    32    47
+ qext=  1.9939E+00 qphase= -4.0465E-01 qscat=  1.0910E+00 qabs=  9.0297E-01
+ g =  9.4727E-01 albedo =  5.4714E-01 1-g =  5.2735E-02
+ qext/a =  1.9939E+05 c/v =  1.4955E+05 kappa =  4.5317E+04
+
+ vacuum wavelength =  3.7575E-02 wavenumber =  2.6613E+01 x =  1.6722E+01
+ rydberg =  2.4252E+00 ev =  3.2996E+01
+ n= 8.6539E-01 n-1=-1.3461E-01 k=1.5184E-01 ep1= 7.2584E-01 ep2=2.6280E-01
+  relative errors    1.3948D-08   2.1963D-06
+  n, nmx2, nmx1    27    33    48
+ qext=  1.9766E+00 qphase= -3.9209E-01 qscat=  1.0721E+00 qabs=  9.0454E-01
+ g =  9.5500E-01 albedo =  5.4238E-01 1-g =  4.4998E-02
+ qext/a =  1.9766E+05 c/v =  1.4825E+05 kappa =  4.4924E+04
+
+ vacuum wavelength =  3.5497E-02 wavenumber =  2.8171E+01 x =  1.7701E+01
+ rydberg =  2.5672E+00 ev =  3.4928E+01
+ n= 8.8464E-01 n-1=-1.1536E-01 k=1.4233E-01 ep1= 7.6233E-01 ep2=2.5182E-01
+  relative errors    1.7424D-08   1.4145D-06
+  n, nmx2, nmx1    28    35    50
+ qext=  1.9641E+00 qphase= -3.7168E-01 qscat=  1.0467E+00 qabs=  9.1735E-01
+ g =  9.6149E-01 albedo =  5.3294E-01 1-g =  3.8514E-02
+ qext/a =  1.9641E+05 c/v =  1.4731E+05 kappa =  4.4638E+04
+
+ vacuum wavelength =  3.3535E-02 wavenumber =  2.9820E+01 x =  1.8736E+01
+ rydberg =  2.7174E+00 ev =  3.6972E+01
+ n= 8.9155E-01 n-1=-1.0845E-01 k=1.3173E-01 ep1= 7.7751E-01 ep2=2.3489E-01
+  relative errors    2.5982D-08   1.1683D-06
+  n, nmx2, nmx1    29    36    51
+ qext=  1.9593E+00 qphase= -3.6105E-01 qscat=  1.0422E+00 qabs=  9.1708E-01
+ g =  9.6494E-01 albedo =  5.3193E-01 1-g =  3.5065E-02
+ qext/a =  1.9593E+05 c/v =  1.4695E+05 kappa =  4.4529E+04
+
+ vacuum wavelength =  3.1681E-02 wavenumber =  3.1565E+01 x =  1.9833E+01
+ rydberg =  2.8764E+00 ev =  3.9135E+01
+ n= 8.9905E-01 n-1=-1.0095E-01 k=1.2032E-01 ep1= 7.9381E-01 ep2=2.1635E-01
+  relative errors    4.2652D-08   6.5443D-06
+  n, nmx2, nmx1    30    37    52
+ qext=  1.9532E+00 qphase= -3.5201E-01 qscat=  1.0367E+00 qabs=  9.1650E-01
+ g =  9.6850E-01 albedo =  5.3077E-01 1-g =  3.1495E-02
+ qext/a =  1.9532E+05 c/v =  1.4649E+05 kappa =  4.4391E+04
+
+ vacuum wavelength =  2.9929E-02 wavenumber =  3.3412E+01 x =  2.0994E+01
+ rydberg =  3.0448E+00 ev =  4.1426E+01
+ n= 9.0581E-01 n-1=-9.4191E-02 k=1.0934E-01 ep1= 8.0853E-01 ep2=1.9808E-01
+  relative errors    1.0747D-08   6.2756D-07
+  n, nmx2, nmx1    32    39    54
+ qext=  1.9480E+00 qphase= -3.4464E-01 qscat=  1.0329E+00 qabs=  9.1512E-01
+ g =  9.7175E-01 albedo =  5.3022E-01 1-g =  2.8246E-02
+ qext/a =  1.9480E+05 c/v =  1.4610E+05 kappa =  4.4272E+04
+
+ vacuum wavelength =  2.8274E-02 wavenumber =  3.5368E+01 x =  2.2222E+01
+ rydberg =  3.2230E+00 ev =  4.3851E+01
+ n= 9.1210E-01 n-1=-8.7900E-02 k=9.8785E-02 ep1= 8.2217E-01 ep2=1.8020E-01
+  relative errors    2.3069D-08   3.8739D-06
+  n, nmx2, nmx1    33    40    55
+ qext=  1.9436E+00 qphase= -3.3903E-01 qscat=  1.0305E+00 qabs=  9.1308E-01
+ g =  9.7475E-01 albedo =  5.3021E-01 1-g =  2.5246E-02
+ qext/a =  1.9436E+05 c/v =  1.4577E+05 kappa =  4.4173E+04
+
+ vacuum wavelength =  2.6711E-02 wavenumber =  3.7438E+01 x =  2.3523E+01
+ rydberg =  3.4116E+00 ev =  4.6417E+01
+ n= 9.1822E-01 n-1=-8.1785E-02 k=8.8760E-02 ep1= 8.3524E-01 ep2=1.6300E-01
+  relative errors    5.4240D-08   3.0222D-06
+  n, nmx2, nmx1    34    42    57
+ qext=  1.9400E+00 qphase= -3.3525E-01 qscat=  1.0293E+00 qabs=  9.1069E-01
+ g =  9.7756E-01 albedo =  5.3057E-01 1-g =  2.2436E-02
+ qext/a =  1.9400E+05 c/v =  1.4550E+05 kappa =  4.4090E+04
+
+ vacuum wavelength =  2.5234E-02 wavenumber =  3.9629E+01 x =  2.4900E+01
+ rydberg =  3.6113E+00 ev =  4.9134E+01
+ n= 9.2437E-01 n-1=-7.5632E-02 k=7.9329E-02 ep1= 8.4816E-01 ep2=1.4666E-01
+  relative errors    2.1970D-08   2.5325D-06
+  n, nmx2, nmx1    36    43    58
+ qext=  1.9368E+00 qphase= -3.3372E-01 qscat=  1.0286E+00 qabs=  9.0817E-01
+ g =  9.8023E-01 albedo =  5.3110E-01 1-g =  1.9774E-02
+ qext/a =  1.9368E+05 c/v =  1.4526E+05 kappa =  4.4018E+04
+
+ vacuum wavelength =  2.3839E-02 wavenumber =  4.1948E+01 x =  2.6357E+01
+ rydberg =  3.8226E+00 ev =  5.2009E+01
+ n= 9.3087E-01 n-1=-6.9131E-02 k=7.0603E-02 ep1= 8.6153E-01 ep2=1.3144E-01
+  relative errors    1.0371D-08   3.4020D-06
+ backwards consistency failure   1.5765D-14  1.3323D-15 -2.1245D-01 -2.1245D-01  1.3310D+00  1.3310D+00
+  n, nmx2, nmx1    38    45    60
+ qext=  1.9329E+00 qphase= -3.3510E-01 qscat=  1.0270E+00 qabs=  9.0597E-01
+ g =  9.8279E-01 albedo =  5.3129E-01 1-g =  1.7210E-02
+ qext/a =  1.9329E+05 c/v =  1.4497E+05 kappa =  4.3930E+04
+
+ vacuum wavelength =  2.2521E-02 wavenumber =  4.4403E+01 x =  2.7899E+01
+ rydberg =  4.0463E+00 ev =  5.5053E+01
+ n= 9.3812E-01 n-1=-6.1881E-02 k=6.3253E-02 ep1= 8.7607E-01 ep2=1.1868E-01
+  relative errors    3.5204D-08   2.1197D-05
+  n, nmx2, nmx1    39    47    62
+ qext=  1.9251E+00 qphase= -3.3851E-01 qscat=  1.0192E+00 qabs=  9.0590E-01
+ g =  9.8524E-01 albedo =  5.2944E-01 1-g =  1.4758E-02
+ qext/a =  1.9251E+05 c/v =  1.4439E+05 kappa =  4.3753E+04
+
+ vacuum wavelength =  2.1276E-02 wavenumber =  4.7001E+01 x =  2.9532E+01
+ rydberg =  4.2831E+00 ev =  5.8274E+01
+ n= 9.4548E-01 n-1=-5.4519E-02 k=5.8709E-02 ep1= 8.9049E-01 ep2=1.1102E-01
+  relative errors    2.2912D-08   6.6536D-06
+ backwards consistency failure   4.2633D-14  1.1102D-15 -2.9358D-01 -2.9358D-01  1.1800D+00  1.1800D+00
+  n, nmx2, nmx1    41    49    64
+ qext=  1.9116E+00 qphase= -3.3635E-01 qscat=  1.0009E+00 qabs=  9.1068E-01
+ g =  9.8727E-01 albedo =  5.2361E-01 1-g =  1.2725E-02
+ qext/a =  1.9116E+05 c/v =  1.4337E+05 kappa =  4.3446E+04
+
+ vacuum wavelength =  2.0099E-02 wavenumber =  4.9754E+01 x =  3.1261E+01
+ rydberg =  4.5339E+00 ev =  6.1687E+01
+ n= 9.4993E-01 n-1=-5.0070E-02 k=5.6776E-02 ep1= 8.9914E-01 ep2=1.0787E-01
+  relative errors    1.9312D-08   2.7185D-06
+  n, nmx2, nmx1    43    51    66
+ qext=  1.9065E+00 qphase= -3.2352E-01 qscat=  9.8961E-01 qabs=  9.1686E-01
+ g =  9.8845E-01 albedo =  5.1908E-01 1-g =  1.1553E-02
+ qext/a =  1.9065E+05 c/v =  1.4299E+05 kappa =  4.3329E+04
+
+ vacuum wavelength =  1.8988E-02 wavenumber =  5.2665E+01 x =  3.3090E+01
+ rydberg =  4.7992E+00 ev =  6.5296E+01
+ n= 9.5129E-01 n-1=-4.8707E-02 k=5.3552E-02 ep1= 9.0209E-01 ep2=1.0189E-01
+  relative errors    2.0201D-08   3.0008D-06
+  n, nmx2, nmx1    45    53    68
+ qext=  1.9143E+00 qphase= -3.1687E-01 qscat=  9.9796E-01 qabs=  9.1631E-01
+ g =  9.8924E-01 albedo =  5.2133E-01 1-g =  1.0764E-02
+ qext/a =  1.9143E+05 c/v =  1.4357E+05 kappa =  4.3506E+04
+
+ vacuum wavelength =  1.7938E-02 wavenumber =  5.5748E+01 x =  3.5027E+01
+ rydberg =  5.0801E+00 ev =  6.9118E+01
+ n= 9.5273E-01 n-1=-4.7273E-02 k=4.8335E-02 ep1= 9.0535E-01 ep2=9.2100E-02
+  relative errors    2.4493D-08   9.4773D-06
+ backwards consistency failure   8.7708D-15  1.0214D-14  1.1876D+00  1.1876D+00  2.4497D-01  2.4497D-01
+  n, nmx2, nmx1    47    55    70
+ qext=  1.9236E+00 qphase= -3.2057E-01 qscat=  1.0126E+00 qabs=  9.1099E-01
+ g =  9.9020E-01 albedo =  5.2642E-01 1-g =  9.8006E-03
+ qext/a =  1.9236E+05 c/v =  1.4427E+05 kappa =  4.3719E+04
+
+ vacuum wavelength =  1.6946E-02 wavenumber =  5.9011E+01 x =  3.7078E+01
+ rydberg =  5.3775E+00 ev =  7.3164E+01
+ n= 9.5525E-01 n-1=-4.4748E-02 k=4.2943E-02 ep1= 9.1066E-01 ep2=8.2043E-02
+  relative errors    3.4156D-08   7.1173D-06
+ backwards consistency failure   1.4100D-14  1.1102D-15 -5.0219D-01 -5.0219D-01 -1.0608D+00 -1.0608D+00
+  n, nmx2, nmx1    49    57    72
+ qext=  1.9300E+00 qphase= -3.2977E-01 qscat=  1.0248E+00 qabs=  9.0525E-01
+ g =  9.9130E-01 albedo =  5.3096E-01 1-g =  8.7003E-03
+ qext/a =  1.9300E+05 c/v =  1.4475E+05 kappa =  4.3864E+04
+
+ vacuum wavelength =  1.6009E-02 wavenumber =  6.2465E+01 x =  3.9248E+01
+ rydberg =  5.6922E+00 ev =  7.7447E+01
+ n= 9.5824E-01 n-1=-4.1762E-02 k=3.8130E-02 ep1= 9.1677E-01 ep2=7.3075E-02
+  relative errors    1.1261D-08   1.7256D-06
+ backwards consistency failure   3.0198D-14  1.7764D-15 -7.5622D-01 -7.5622D-01  8.4821D-01  8.4821D-01
+  n, nmx2, nmx1    52    60    75
+ qext=  1.9343E+00 qphase= -3.4201E-01 qscat=  1.0343E+00 qabs=  8.9994E-01
+ g =  9.9236E-01 albedo =  5.3474E-01 1-g =  7.6362E-03
+ qext/a =  1.9343E+05 c/v =  1.4507E+05 kappa =  4.3961E+04
+
+ vacuum wavelength =  1.5124E-02 wavenumber =  6.6120E+01 x =  4.1544E+01
+ rydberg =  6.0253E+00 ev =  8.1978E+01
+ n= 9.6129E-01 n-1=-3.8708E-02 k=3.3946E-02 ep1= 9.2293E-01 ep2=6.5264E-02
+  relative errors    2.2678D-08   5.2050D-06
+ backwards consistency failure   1.1102D-14  6.4393D-15  9.0689D-01  9.0689D-01  6.0098D-01  6.0098D-01
+  n, nmx2, nmx1    54    62    77
+ qext=  1.9368E+00 qphase= -3.5656E-01 qscat=  1.0419E+00 qabs=  8.9490E-01
+ g =  9.9333E-01 albedo =  5.3796E-01 1-g =  6.6718E-03
+ qext/a =  1.9368E+05 c/v =  1.4526E+05 kappa =  4.4019E+04
+
+ vacuum wavelength =  1.4288E-02 wavenumber =  6.9989E+01 x =  4.3975E+01
+ rydberg =  6.3778E+00 ev =  8.6775E+01
+ n= 9.6421E-01 n-1=-3.5786E-02 k=3.0252E-02 ep1= 9.2879E-01 ep2=5.8339E-02
+  relative errors    1.1580D-08   2.3333D-06
+  n, nmx2, nmx1    57    65    80
+ qext=  1.9385E+00 qphase= -3.7356E-01 qscat=  1.0488E+00 qabs=  8.8961E-01
+ g =  9.9418E-01 albedo =  5.4107E-01 1-g =  5.8184E-03
+ qext/a =  1.9385E+05 c/v =  1.4538E+05 kappa =  4.4056E+04
+
+ vacuum wavelength =  1.3498E-02 wavenumber =  7.4085E+01 x =  4.6549E+01
+ rydberg =  6.7511E+00 ev =  9.1854E+01
+ n= 9.6701E-01 n-1=-3.2985E-02 k=2.6869E-02 ep1= 9.3440E-01 ep2=5.1965E-02
+  relative errors    7.4387D-09   2.7253D-06
+ backwards consistency failure   1.0192D-13  8.8818D-16 -4.2309D-01 -4.2309D-01 -9.1048D-01 -9.1048D-01
+  n, nmx2, nmx1    60    68    83
+ qext=  1.9389E+00 qphase= -3.9469E-01 qscat=  1.0555E+00 qabs=  8.8334E-01
+ g =  9.9495E-01 albedo =  5.4441E-01 1-g =  5.0540E-03
+ qext/a =  1.9389E+05 c/v =  1.4542E+05 kappa =  4.4065E+04
+
+ vacuum wavelength =  1.2752E-02 wavenumber =  7.8419E+01 x =  4.9272E+01
+ rydberg =  7.1461E+00 ev =  9.7227E+01
+ n= 9.6986E-01 n-1=-3.0140E-02 k=2.3685E-02 ep1= 9.4007E-01 ep2=4.5942E-02
+  relative errors    5.9516D-09   5.1284D-06
+  n, nmx2, nmx1    63    71    86
+ qext=  1.9351E+00 qphase= -4.2292E-01 qscat=  1.0597E+00 qabs=  8.7547E-01
+ g =  9.9565E-01 albedo =  5.4759E-01 1-g =  4.3480E-03
+ qext/a =  1.9351E+05 c/v =  1.4513E+05 kappa =  4.3980E+04
+
+ vacuum wavelength =  1.2047E-02 wavenumber =  8.3008E+01 x =  5.2156E+01
+ rydberg =  7.5643E+00 ev =  1.0292E+02
+ n= 9.7322E-01 n-1=-2.6777E-02 k=2.0678E-02 ep1= 9.4674E-01 ep2=4.0249E-02
+  relative errors    5.8064D-09   6.3933D-06
+ backwards consistency failure   2.0761D-14  4.2188D-15 -8.5875D-01 -8.5875D-01  2.3582D-01  2.3582D-01
+  n, nmx2, nmx1    66    74    89
+ qext=  1.9143E+00 qphase= -4.6284E-01 qscat=  1.0483E+00 qabs=  8.6597E-01
+ g =  9.9634E-01 albedo =  5.4762E-01 1-g =  3.6554E-03
+ qext/a =  1.9143E+05 c/v =  1.4357E+05 kappa =  4.3506E+04
+
+ vacuum wavelength =  1.1380E-02 wavenumber =  8.7873E+01 x =  5.5213E+01
+ rydberg =  8.0076E+00 ev =  1.0895E+02
+ n= 9.7771E-01 n-1=-2.2290E-02 k=2.3142E-02 ep1= 9.5538E-01 ep2=4.5252E-02
+  relative errors    8.9491D-09   8.4158D-06
+  n, nmx2, nmx1    69    77    92
+ qext=  1.8458E+00 qphase= -3.9017E-01 qscat=  9.4598E-01 qabs=  8.9980E-01
+ g =  9.9665E-01 albedo =  5.1251E-01 1-g =  3.3484E-03
+ qext/a =  1.8458E+05 c/v =  1.3843E+05 kappa =  4.1949E+04
+
+ vacuum wavelength =  1.0751E-02 wavenumber =  9.3015E+01 x =  5.8443E+01
+ rydberg =  8.4761E+00 ev =  1.1532E+02
+ n= 9.7627E-01 n-1=-2.3731E-02 k=2.0282E-02 ep1= 9.5269E-01 ep2=3.9601E-02
+  relative errors    1.7155D-08   2.4461D-05
+ backwards consistency failure   2.1982D-14  7.7716D-15 -9.0188D-01 -9.0188D-01  1.8754D-01  1.8754D-01
+  n, nmx2, nmx1    72    81    96
+ qext=  1.9058E+00 qphase= -4.1648E-01 qscat=  1.0205E+00 qabs=  8.8533E-01
+ g =  9.9686E-01 albedo =  5.3546E-01 1-g =  3.1417E-03
+ qext/a =  1.9058E+05 c/v =  1.4293E+05 kappa =  4.3314E+04
+
+ vacuum wavelength =  1.0157E-02 wavenumber =  9.8454E+01 x =  6.1861E+01
+ rydberg =  8.9718E+00 ev =  1.2207E+02
+ n= 9.7727E-01 n-1=-2.2733E-02 k=1.7735E-02 ep1= 9.5474E-01 ep2=3.4664E-02
+  relative errors    9.5289D-09   1.1189D-05
+ backwards consistency failure   1.5432D-14  4.1078D-15 -8.4693D-01 -8.4693D-01 -2.7068D-01 -2.7068D-01
+  n, nmx2, nmx1    76    85   100
+ qext=  1.9234E+00 qphase= -4.4614E-01 qscat=  1.0502E+00 qabs=  8.7319E-01
+ g =  9.9722E-01 albedo =  5.4602E-01 1-g =  2.7802E-03
+ qext/a =  1.9234E+05 c/v =  1.4425E+05 kappa =  4.3713E+04
+
+ vacuum wavelength =  9.5952E-03 wavenumber =  1.0422E+02 x =  6.5483E+01
+ rydberg =  9.4971E+00 ev =  1.2921E+02
+ n= 9.7866E-01 n-1=-2.1344E-02 k=1.5508E-02 ep1= 9.5753E-01 ep2=3.0354E-02
+  relative errors    6.9638D-09   6.8784D-06
+ backwards consistency failure   5.5511D-15  1.3101D-14 -2.7918D-01 -2.7918D-01 -8.2926D-01 -8.2926D-01
+  n, nmx2, nmx1    80    89   104
+ qext=  1.9317E+00 qphase= -4.8012E-01 qscat=  1.0711E+00 qabs=  8.6060E-01
+ g =  9.9757E-01 albedo =  5.5449E-01 1-g =  2.4304E-03
+ qext/a =  1.9317E+05 c/v =  1.4488E+05 kappa =  4.3903E+04
+
+ vacuum wavelength =  9.0647E-03 wavenumber =  1.1032E+02 x =  6.9315E+01
+ rydberg =  1.0053E+01 ev =  1.3678E+02
+ n= 9.8015E-01 n-1=-1.9850E-02 k=1.3586E-02 ep1= 9.6051E-01 ep2=2.6633E-02
+  relative errors    6.7558D-09   6.4319D-06
+ backwards consistency failure   6.4060D-14  1.1546D-14  6.9963D-01  6.9963D-01 -4.6111D-01 -4.6111D-01
+  n, nmx2, nmx1    84    93   108
+ qext=  1.9336E+00 qphase= -5.1708E-01 qscat=  1.0862E+00 qabs=  8.4742E-01
+ g =  9.9789E-01 albedo =  5.6175E-01 1-g =  2.1149E-03
+ qext/a =  1.9336E+05 c/v =  1.4502E+05 kappa =  4.3946E+04
+
+ vacuum wavelength =  8.5635E-03 wavenumber =  1.1677E+02 x =  7.3372E+01
+ rydberg =  1.0641E+01 ev =  1.4478E+02
+ n= 9.8163E-01 n-1=-1.8366E-02 k=1.1971E-02 ep1= 9.6346E-01 ep2=2.3502E-02
+  relative errors    8.7907D-09   1.2134D-05
+  n, nmx2, nmx1    88    97   112
+ qext=  1.9298E+00 qphase= -5.5423E-01 qscat=  1.0954E+00 qabs=  8.3438E-01
+ g =  9.9816E-01 albedo =  5.6764E-01 1-g =  1.8400E-03
+ qext/a =  1.9298E+05 c/v =  1.4474E+05 kappa =  4.3859E+04
+
+ vacuum wavelength =  8.0900E-03 wavenumber =  1.2361E+02 x =  7.7666E+01
+ rydberg =  1.1264E+01 ev =  1.5326E+02
+ n= 9.8291E-01 n-1=-1.7091E-02 k=1.0638E-02 ep1= 9.6600E-01 ep2=2.0912E-02
+  relative errors    4.3534D-09   8.2507D-06
+ backwards consistency failure   1.5543D-15  3.3973D-14 -7.0300D-01 -7.0300D-01 -3.1347D-01 -3.1347D-01
+  n, nmx2, nmx1    93   102   117
+ qext=  1.9279E+00 qphase= -5.8735E-01 qscat=  1.1058E+00 qabs=  8.2206E-01
+ g =  9.9839E-01 albedo =  5.7359E-01 1-g =  1.6141E-03
+ qext/a =  1.9279E+05 c/v =  1.4459E+05 kappa =  4.3815E+04
+
+ vacuum wavelength =  7.6427E-03 wavenumber =  1.3084E+02 x =  8.2212E+01
+ rydberg =  1.1923E+01 ev =  1.6223E+02
+ n= 9.8400E-01 n-1=-1.5999E-02 k=9.2233E-03 ep1= 9.6817E-01 ep2=1.8151E-02
+  relative errors    8.2745D-10   4.6353D-05
+ backwards consistency failure   2.3537D-14  8.4044D-14  7.2618D-01  7.2618D-01  1.3039D-02  1.3039D-02
+  n, nmx2, nmx1    99   107   122
+ qext=  1.9333E+00 qphase= -6.3330E-01 qscat=  1.1307E+00 qabs=  8.0257E-01
+ g =  9.9859E-01 albedo =  5.8486E-01 1-g =  1.4099E-03
+ qext/a =  1.9333E+05 c/v =  1.4499E+05 kappa =  4.3938E+04
+
+ vacuum wavelength =  7.2202E-03 wavenumber =  1.3850E+02 x =  8.7022E+01
+ rydberg =  1.2621E+01 ev =  1.7172E+02
+ n= 9.8523E-01 n-1=-1.4775E-02 k=7.8486E-03 ep1= 9.7061E-01 ep2=1.5465E-02
+  relative errors    2.8248D-09   1.5745D-05
+ backwards consistency failure   4.8184D-14  1.9373D-13 -6.8517D-01 -6.8517D-01 -1.4973D-01 -1.4973D-01
+  n, nmx2, nmx1   103   112   127
+ qext=  1.9268E+00 qphase= -6.9381E-01 qscat=  1.1500E+00 qabs=  7.7676E-01
+ g =  9.9878E-01 albedo =  5.9686E-01 1-g =  1.2152E-03
+ qext/a =  1.9268E+05 c/v =  1.4451E+05 kappa =  4.3791E+04
+
+ vacuum wavelength =  6.8210E-03 wavenumber =  1.4661E+02 x =  9.2115E+01
+ rydberg =  1.3360E+01 ev =  1.8177E+02
+ n= 9.8646E-01 n-1=-1.3541E-02 k=6.7140E-03 ep1= 9.7306E-01 ep2=1.3246E-02
+  relative errors    3.7618D-09   5.8941D-06
+ backwards consistency failure   4.9072D-14  3.8414D-14  4.1623D-01  4.1623D-01  6.2000D-01  6.2000D-01
+  n, nmx2, nmx1   108   118   133
+ qext=  1.9077E+00 qphase= -7.5422E-01 qscat=  1.1573E+00 qabs=  7.5049E-01
+ g =  9.9895E-01 albedo =  6.0661E-01 1-g =  1.0471E-03
+ qext/a =  1.9077E+05 c/v =  1.4308E+05 kappa =  4.3358E+04
+
+ vacuum wavelength =  6.4438E-03 wavenumber =  1.5519E+02 x =  9.7507E+01
+ rydberg =  1.4142E+01 ev =  1.9241E+02
+ n= 9.8760E-01 n-1=-1.2398E-02 k=5.7192E-03 ep1= 9.7533E-01 ep2=1.1297E-02
+  relative errors    7.0205D-09   1.4062D-05
+ backwards consistency failure   2.3503D-13  2.9976D-14  3.4786D-01  3.4786D-01 -5.5509D-01 -5.5509D-01
+  n, nmx2, nmx1   113   123   138
+ qext=  1.8830E+00 qphase= -8.1704E-01 qscat=  1.1618E+00 qabs=  7.2117E-01
+ g =  9.9910E-01 albedo =  6.1700E-01 1-g =  9.0348E-04
+ qext/a =  1.8830E+05 c/v =  1.4122E+05 kappa =  4.2794E+04
+
+ vacuum wavelength =  6.0875E-03 wavenumber =  1.6427E+02 x =  1.0321E+02
+ rydberg =  1.4969E+01 ev =  2.0367E+02
+ n= 9.8870E-01 n-1=-1.1303E-02 k=4.8368E-03 ep1= 9.7750E-01 ep2=9.5643E-03
+  relative errors    5.7991D-09   1.1964D-05
+ backwards consistency failure   7.7605D-14  3.1974D-14 -3.2139D-01 -3.2139D-01 -6.3300D-01 -6.3300D-01
+  n, nmx2, nmx1   119   129   144
+ qext=  1.8478E+00 qphase= -8.8332E-01 qscat=  1.1598E+00 qabs=  6.8802E-01
+ g =  9.9922E-01 albedo =  6.2766E-01 1-g =  7.7860E-04
+ qext/a =  1.8478E+05 c/v =  1.3859E+05 kappa =  4.1996E+04
+ qback =  4.7307E-05 rel -1 =  2.3780E-01   1.0321D+02   4.9923D-01
+
+ vacuum wavelength =  5.7510E-03 wavenumber =  1.7388E+02 x =  1.0925E+02
+ rydberg =  1.5845E+01 ev =  2.1559E+02
+ n= 9.8974E-01 n-1=-1.0261E-02 k=4.0744E-03 ep1= 9.7957E-01 ep2=8.0652E-03
+  relative errors    2.2677D-09   8.7930D-06
+ backwards consistency failure   9.3259D-15  1.9984D-14 -5.2460D-01 -5.2460D-01 -4.0384D-01 -4.0384D-01
+  n, nmx2, nmx1   126   136   151
+ qext=  1.8009E+00 qphase= -9.4941E-01 qscat=  1.1487E+00 qabs=  6.5220E-01
+ g =  9.9933E-01 albedo =  6.3786E-01 1-g =  6.7141E-04
+ qext/a =  1.8009E+05 c/v =  1.3507E+05 kappa =  4.0930E+04
+ qback =  3.6719E-05 rel -1 =  1.9268E-01   1.0925D+02   4.4514D-01
+
+ vacuum wavelength =  5.4330E-03 wavenumber =  1.8406E+02 x =  1.1565E+02
+ rydberg =  1.6773E+01 ev =  2.2821E+02
+ n= 9.9072E-01 n-1=-9.2815E-03 k=3.4264E-03 ep1= 9.8151E-01 ep2=6.7892E-03
+  relative errors    4.1585D-09   1.5072D-05
+ backwards consistency failure   1.0569D-13  5.9952D-15 -4.8462D-01 -4.8462D-01 -4.8582D-01 -4.8582D-01
+  n, nmx2, nmx1   132   143   158
+ qext=  1.7427E+00 qphase= -1.0120E+00 qscat=  1.1278E+00 qabs=  6.1482E-01
+ g =  9.9942E-01 albedo =  6.4720E-01 1-g =  5.8015E-04
+ qext/a =  1.7427E+05 c/v =  1.3070E+05 kappa =  3.9606E+04
+ qback =  3.5206E-05 rel -1 =  4.2535E-01   1.1565D+02   3.9626D-01
+
+ vacuum wavelength =  5.1326E-03 wavenumber =  1.9483E+02 x =  1.2242E+02
+ rydberg =  1.7754E+01 ev =  2.4156E+02
+ n= 9.9163E-01 n-1=-8.3720E-03 k=2.8778E-03 ep1= 9.8332E-01 ep2=5.7074E-03
+  relative errors    3.7894D-09   3.8443D-05
+ backwards consistency failure   3.1308D-14  7.5939D-14 -6.8356D-02 -6.8356D-02 -5.1461D-01 -5.1461D-01
+  n, nmx2, nmx1   139   150   165
+ qext=  1.6744E+00 qphase= -1.0689E+00 qscat=  1.0979E+00 qabs=  5.7647E-01
+ g =  9.9950E-01 albedo =  6.5571E-01 1-g =  5.0268E-04
+ qext/a =  1.6744E+05 c/v =  1.2558E+05 kappa =  3.8054E+04
+ qback =  1.7983E-05 rel -1 = -8.9827E-02   1.2242D+02   3.5229D-01
+
+ vacuum wavelength =  4.8488E-03 wavenumber =  2.0624E+02 x =  1.2958E+02
+ rydberg =  1.8794E+01 ev =  2.5570E+02
+ n= 9.9247E-01 n-1=-7.5343E-03 k=2.4144E-03 ep1= 9.8498E-01 ep2=4.7924E-03
+  relative errors    1.8343D-09   1.4980D-05
+ backwards consistency failure   1.1147D-13  1.4422D-13  5.7624D-01  5.7624D-01  2.8554D-01  2.8554D-01
+  n, nmx2, nmx1   147   158   173
+ qext=  1.5976E+00 qphase= -1.1187E+00 qscat=  1.0599E+00 qabs=  5.3771E-01
+ g =  9.9956E-01 albedo =  6.6343E-01 1-g =  4.3663E-04
+ qext/a =  1.5976E+05 c/v =  1.1982E+05 kappa =  3.6309E+04
+ qback =  2.4630E-05 rel -1 =  5.6211E-01   1.2958D+02   3.1286D-01
+
+ vacuum wavelength =  4.5807E-03 wavenumber =  2.1831E+02 x =  1.3717E+02
+ rydberg =  1.9894E+01 ev =  2.7067E+02
+ n= 9.9323E-01 n-1=-6.7661E-03 k=2.0238E-03 ep1= 9.8651E-01 ep2=4.0202E-03
+  relative errors    1.4237D-09   9.1022D-05
+ backwards consistency failure   1.0658D-14  1.8381D-12 -5.0960D-01 -5.0960D-01 -4.1155D-02 -4.1155D-02
+  n, nmx2, nmx1   155   166   181
+ qext=  1.5139E+00 qphase= -1.1599E+00 qscat=  1.0148E+00 qabs=  4.9908E-01
+ g =  9.9962E-01 albedo =  6.7034E-01 1-g =  3.8045E-04
+ qext/a =  1.5139E+05 c/v =  1.1354E+05 kappa =  3.4407E+04
+ qback =  1.3893E-05 rel -1 =  1.0667E-01   1.3717D+02   2.7760D-01
+
+ vacuum wavelength =  4.3274E-03 wavenumber =  2.3109E+02 x =  1.4520E+02
+ rydberg =  2.1058E+01 ev =  2.8651E+02
+ n= 9.9394E-01 n-1=-6.0642E-03 k=1.6950E-03 ep1= 9.8791E-01 ep2=3.3694E-03
+  relative errors    1.7794D-09   3.3556D-05
+ backwards consistency failure   3.3307D-15  1.3545D-14  5.8523D-01  5.8523D-01  1.5326D-01  1.5326D-01
+  n, nmx2, nmx1   163   174   189
+ qext=  1.4249E+00 qphase= -1.1918E+00 qscat=  9.6382E-01 qabs=  4.6104E-01
+ g =  9.9967E-01 albedo =  6.7643E-01 1-g =  3.3250E-04
+ qext/a =  1.4249E+05 c/v =  1.0686E+05 kappa =  3.2383E+04
+ qback =  1.7360E-05 rel -1 =  7.4082E-01   1.4520D+02   2.4611D-01
+
+ vacuum wavelength =  4.0882E-03 wavenumber =  2.4461E+02 x =  1.5369E+02
+ rydberg =  2.2290E+01 ev =  3.0327E+02
+ n= 9.9457E-01 n-1=-5.4251E-03 k=1.4198E-03 ep1= 9.8918E-01 ep2=2.8242E-03
+  relative errors    1.2958D-09   1.3574D-05
+ backwards consistency failure   8.3267D-14  9.1260D-14 -2.3004D-01 -2.3004D-01 -3.0653D-01 -3.0653D-01
+  n, nmx2, nmx1   172   183   198
+ qext=  1.3323E+00 qphase= -1.2136E+00 qscat=  9.0802E-01 qabs=  4.2427E-01
+ g =  9.9971E-01 albedo =  6.8155E-01 1-g =  2.9150E-04
+ qext/a =  1.3323E+05 c/v =  9.9922E+04 kappa =  3.0279E+04
+ qback =  6.2184E-06 rel -1 = -2.1333E-01   1.5369D+02   2.1821D-01
+
+ vacuum wavelength =  3.8621E-03 wavenumber =  2.5893E+02 x =  1.6269E+02
+ rydberg =  2.3595E+01 ev =  3.2103E+02
+ n= 9.9515E-01 n-1=-4.8462E-03 k=1.1909E-03 ep1= 9.9033E-01 ep2=2.3703E-03
+  relative errors    1.5840D-09   2.9279D-05
+ backwards consistency failure   1.5987D-13  1.2612D-13 -5.3283D-01 -5.3283D-01 -1.8755D-01 -1.8755D-01
+  n, nmx2, nmx1   181   193   208
+ qext=  1.2385E+00 qphase= -1.2251E+00 qscat=  8.4910E-01 qabs=  3.8942E-01
+ g =  9.9974E-01 albedo =  6.8558E-01 1-g =  2.5620E-04
+ qext/a =  1.2385E+05 c/v =  9.2889E+04 kappa =  2.8148E+04
+ qback =  1.2056E-05 rel -1 =  9.2695E-01   1.6269D+02   1.9375D-01
+
+ vacuum wavelength =  3.6486E-03 wavenumber =  2.7408E+02 x =  1.7221E+02
+ rydberg =  2.4976E+01 ev =  3.3981E+02
+ n= 9.9567E-01 n-1=-4.3254E-03 k=9.9871E-04 ep1= 9.9137E-01 ep2=1.9888E-03
+  relative errors    1.2178D-09   2.5847D-05
+ backwards consistency failure   4.2188D-14  3.7015D-13 -4.9266D-01 -4.9266D-01 -1.7826D-01 -1.7826D-01
+  n, nmx2, nmx1   191   203   218
+ qext=  1.1455E+00 qphase= -1.2277E+00 qscat=  7.8931E-01 qabs=  3.5621E-01
+ g =  9.9977E-01 albedo =  6.8904E-01 1-g =  2.2581E-04
+ qext/a =  1.1455E+05 c/v =  8.5914E+04 kappa =  2.6035E+04
+ qback =  9.2558E-06 rel -1 =  8.7061E-01   1.7221D+02   1.7199D-01
+
+ vacuum wavelength =  3.4469E-03 wavenumber =  2.9012E+02 x =  1.8229E+02
+ rydberg =  2.6437E+01 ev =  3.5970E+02
+ n= 9.9614E-01 n-1=-3.8563E-03 k=8.3335E-04 ep1= 9.9230E-01 ep2=1.6603E-03
+  relative errors    1.6152D-09   4.6339D-05
+ backwards consistency failure   2.7423D-14  2.5913D-13  1.9022D-01  1.9022D-01 -1.3998D-01 -1.3998D-01
+  n, nmx2, nmx1   201   213   228
+ qext=  1.0534E+00 qphase= -1.2229E+00 qscat=  7.2980E-01 qabs=  3.2357E-01
+ g =  9.9980E-01 albedo =  6.9283E-01 1-g =  1.9935E-04
+ qext/a =  1.0534E+05 c/v =  7.9003E+04 kappa =  2.3940E+04
+ qback =  1.6787E-06 rel -1 = -5.7028E-01   1.8229D+02   1.5191D-01
+
+ vacuum wavelength =  3.2563E-03 wavenumber =  3.0710E+02 x =  1.9295E+02
+ rydberg =  2.7985E+01 ev =  3.8075E+02
+ n= 9.9657E-01 n-1=-3.4296E-03 k=6.8881E-04 ep1= 9.9315E-01 ep2=1.3729E-03
+  relative errors    1.4579D-09   4.4034D-05
+ backwards consistency failure   5.5966D-13  7.2609D-14  1.3991D-01  1.3991D-01  1.4250D-01  1.4250D-01
+  n, nmx2, nmx1   212   225   240
+ qext=  9.6083E-01 qphase= -1.2113E+00 qscat=  6.7003E-01 qabs=  2.9080E-01
+ g =  9.9982E-01 albedo =  6.9735E-01 1-g =  1.7629E-04
+ qext/a =  9.6083E+04 c/v =  7.2062E+04 kappa =  2.1837E+04
+ qback =  1.0712E-06 rel -1 = -6.5103E-01   1.9295D+02   1.3291D-01
+
+ vacuum wavelength =  3.0762E-03 wavenumber =  3.2508E+02 x =  2.0425E+02
+ rydberg =  2.9623E+01 ev =  4.0304E+02
+ n= 9.9697E-01 n-1=-3.0342E-03 k=5.6293E-04 ep1= 9.9394E-01 ep2=1.1224E-03
+  relative errors    2.3371D-09   8.2391D-05
+ backwards consistency failure   4.6407D-14  3.8214D-13  2.0298D-01  2.0298D-01 -1.2669D-01 -1.2669D-01
+  n, nmx2, nmx1   223   236   251
+ qext=  8.6593E-01 qphase= -1.1905E+00 qscat=  6.0784E-01 qabs=  2.5809E-01
+ g =  9.9984E-01 albedo =  7.0195E-01 1-g =  1.5598E-04
+ qext/a =  8.6593E+04 c/v =  6.4945E+04 kappa =  1.9680E+04
+ qback =  1.3723E-06 rel -1 = -4.2534E-01   2.0425D+02   1.1498D-01
+
+ vacuum wavelength =  2.9062E-03 wavenumber =  3.4409E+02 x =  2.1620E+02
+ rydberg =  3.1356E+01 ev =  4.2662E+02
+ n= 9.9733E-01 n-1=-2.6657E-03 k=4.6340E-04 ep1= 9.9468E-01 ep2=9.2433E-04
+  relative errors    7.0573D-11   9.2965D-05
+ backwards consistency failure   1.0214D-13  1.1723D-11 -3.3051D-01 -3.3051D-01 -4.0647D-03 -4.0647D-03
+  n, nmx2, nmx1   239   249   264
+ qext=  7.7164E-01 qphase= -1.1558E+00 qscat=  5.4188E-01 qabs=  2.2976E-01
+ g =  9.9986E-01 albedo =  7.0225E-01 1-g =  1.3833E-04
+ qext/a =  7.7164E+04 c/v =  5.7873E+04 kappa =  1.7537E+04
+ qback =  2.3373E-06 rel -1 =  2.7370E-01   2.1620D+02   1.0019D-01
+
+ vacuum wavelength =  2.7455E-03 wavenumber =  3.6423E+02 x =  2.2885E+02
+ rydberg =  3.3191E+01 ev =  4.5159E+02
+ n= 9.9767E-01 n-1=-2.3259E-03 k=3.8855E-04 ep1= 9.9535E-01 ep2=7.7529E-04
+  relative errors    1.0295D-11   9.1548D-05
+ backwards consistency failure   6.9500D-14  6.8443D-12 -2.0525D-01 -2.0525D-01 -6.6329D-04 -6.6329D-04
+  n, nmx2, nmx1   254   262   277
+ qext=  6.8185E-01 qphase= -1.1074E+00 qscat=  4.7452E-01 qabs=  2.0733E-01
+ g =  9.9988E-01 albedo =  6.9593E-01 1-g =  1.2290E-04
+ qext/a =  6.8185E+04 c/v =  5.1139E+04 kappa =  1.5497E+04
+
+ vacuum wavelength =  2.5937E-03 wavenumber =  3.8555E+02 x =  2.4225E+02
+ rydberg =  3.5134E+01 ev =  4.7802E+02
+ n= 9.9799E-01 n-1=-2.0118E-03 k=3.3184E-04 ep1= 9.9598E-01 ep2=6.6234E-04
+  relative errors    1.8001D-09   4.6741D-05
+ backwards consistency failure   9.3481D-14  5.0338D-13  3.7124D-01  3.7124D-01 -1.9101D-01 -1.9101D-01
+  n, nmx2, nmx1   262   276   291
+ qext=  5.9686E-01 qphase= -1.0462E+00 qscat=  4.0702E-01 qabs=  1.8984E-01
+ g =  9.9989E-01 albedo =  6.8194E-01 1-g =  1.0938E-04
+ qext/a =  5.9686E+04 c/v =  4.4764E+04 kappa =  1.3565E+04
+
+ vacuum wavelength =  2.4503E-03 wavenumber =  4.0811E+02 x =  2.5643E+02
+ rydberg =  3.7190E+01 ev =  5.0600E+02
+ n= 9.9831E-01 n-1=-1.6892E-03 k=2.7760E-04 ep1= 9.9662E-01 ep2=5.5426E-04
+  relative errors    1.1124D-09   2.7869D-05
+ backwards consistency failure   5.8731D-14  5.1514D-14 -3.3164D-01 -3.3164D-01  2.0023D-01  2.0023D-01
+  n, nmx2, nmx1   277   291   306
+ qext=  5.0025E-01 qphase= -9.6205E-01 qscat=  3.2981E-01 qabs=  1.7044E-01
+ g =  9.9990E-01 albedo =  6.5930E-01 1-g =  9.7252E-05
+ qext/a =  5.0025E+04 c/v =  3.7519E+04 kappa =  1.1369E+04
+
+ vacuum wavelength =  2.3148E-03 wavenumber =  4.3200E+02 x =  2.7144E+02
+ rydberg =  3.9367E+01 ev =  5.3562E+02
+ n= 9.9868E-01 n-1=-1.3216E-03 k=6.5641E-04 ep1= 9.9736E-01 ep2=1.3111E-03
+  relative errors    7.2005D-10   6.1273D-05
+ backwards consistency failure   2.9389D-12  4.8983D-13 -2.3433D-02 -2.3433D-02  1.1525D-01  1.1525D-01
+  n, nmx2, nmx1   293   307   322
+ qext=  6.0448E-01 qphase= -6.9757E-01 qscat=  2.3634E-01 qabs=  3.6814E-01
+ g =  9.9991E-01 albedo =  3.9098E-01 1-g =  9.1628E-05
+ qext/a =  6.0448E+04 c/v =  4.5336E+04 kappa =  1.3738E+04
+ qback =  1.8775E-07 rel -1 = -6.5557E-01   2.7144D+02   1.7817D-01
+
+ vacuum wavelength =  2.1868E-03 wavenumber =  4.5729E+02 x =  2.8732E+02
+ rydberg =  4.1671E+01 ev =  5.6697E+02
+ n= 9.9856E-01 n-1=-1.4360E-03 k=5.7225E-04 ep1= 9.9713E-01 ep2=1.1429E-03
+  relative errors    1.8974D-09   6.4509D-05
+ backwards consistency failure   1.9762D-13  7.7649D-13 -1.1378D-01 -1.1378D-01  1.4099D-01  1.4099D-01
+  n, nmx2, nmx1   308   323   338
+ qext=  6.3995E-01 qphase= -8.0512E-01 qscat=  2.9397E-01 qabs=  3.4598E-01
+ g =  9.9992E-01 albedo =  4.5937E-01 1-g =  8.2685E-05
+ qext/a =  6.3995E+04 c/v =  4.7996E+04 kappa =  1.4544E+04
+ qback =  3.9762E-07 rel -1 = -3.3536E-01   2.8732D+02   1.6442D-01
+
+ vacuum wavelength =  2.0659E-03 wavenumber =  4.8405E+02 x =  3.0414E+02
+ rydberg =  4.4110E+01 ev =  6.0015E+02
+ n= 9.9865E-01 n-1=-1.3486E-03 k=4.6937E-04 ep1= 9.9730E-01 ep2=9.3747E-04
+  relative errors    1.8062D-10   6.0670D-05
+ backwards consistency failure   3.1475D-13  6.5257D-12 -1.6366D-01 -1.6366D-01 -1.7469D-02 -1.7469D-02
+  n, nmx2, nmx1   328   341   356
+ qext=  5.9998E-01 qphase= -8.2679E-01 qscat=  2.9057E-01 qabs=  3.0941E-01
+ g =  9.9993E-01 albedo =  4.8430E-01 1-g =  7.3680E-05
+ qext/a =  5.9998E+04 c/v =  4.4999E+04 kappa =  1.3636E+04
+ qback =  2.9286E-07 rel -1 = -4.2626E-01   3.0414D+02   1.4275D-01
+
+ vacuum wavelength =  1.9517E-03 wavenumber =  5.1237E+02 x =  3.2193E+02
+ rydberg =  4.6691E+01 ev =  6.3526E+02
+ n= 9.9877E-01 n-1=-1.2295E-03 k=3.8883E-04 ep1= 9.9754E-01 ep2=7.7670E-04
+  relative errors    2.0926D-09   7.9047D-05
+ backwards consistency failure   9.5479D-15  1.0272D-12 -1.3877D-01 -1.3877D-01  1.4969D-01  1.4969D-01
+  n, nmx2, nmx1   343   359   374
+ qext=  5.5145E-01 qphase= -8.2254E-01 qscat=  2.7343E-01 qabs=  2.7802E-01
+ g =  9.9993E-01 albedo =  4.9584E-01 1-g =  6.5653E-05
+ qext/a =  5.5145E+04 c/v =  4.1359E+04 kappa =  1.2533E+04
+ qback =  4.0202E-07 rel -1 = -3.4127E-02   3.2193D+02   1.2518D-01
+
+ vacuum wavelength =  1.8438E-03 wavenumber =  5.4236E+02 x =  3.4077E+02
+ rydberg =  4.9423E+01 ev =  6.7244E+02
+ n= 9.9891E-01 n-1=-1.0891E-03 k=3.1634E-04 ep1= 9.9782E-01 ep2=6.3199E-04
+  relative errors    1.0609D-09   4.4523D-05
+ backwards consistency failure   1.3300D-13  2.2138D-13 -1.4068D-01 -1.4068D-01  1.4514D-01  1.4514D-01
+  n, nmx2, nmx1   363   379   394
+ qext=  4.8977E-01 qphase= -7.9727E-01 qscat=  2.4441E-01 qabs=  2.4535E-01
+ g =  9.9994E-01 albedo =  4.9904E-01 1-g =  5.8425E-05
+ qext/a =  4.8977E+04 c/v =  3.6733E+04 kappa =  1.1131E+04
+ qback =  3.5184E-07 rel -1 =  9.3009E-02   3.4077D+02   1.0780D-01
+
+ vacuum wavelength =  1.7418E-03 wavenumber =  5.7412E+02 x =  3.6073E+02
+ rydberg =  5.2318E+01 ev =  7.1182E+02
+ n= 9.9911E-01 n-1=-8.8751E-04 k=2.6207E-04 ep1= 9.9823E-01 ep2=5.2367E-04
+  relative errors    1.2908D-10   6.3542D-05
+ backwards consistency failure   2.2382D-13  8.3822D-13 -7.3215D-02 -7.3215D-02 -1.3009D-02 -1.3009D-02
+  n, nmx2, nmx1   386   400   415
+ qext=  4.0690E-01 qphase= -7.1137E-01 qscat=  1.8760E-01 qabs=  2.1930E-01
+ g =  9.9995E-01 albedo =  4.6104E-01 1-g =  5.1943E-05
+ qext/a =  4.0690E+04 c/v =  3.0518E+04 kappa =  9.2477E+03
+  anomalous diffraction 
+ qext=  4.0746E-01 qphase= -7.1189E-01 qscat=  1.8777E-01 qabs=  2.1969E-01
+ xistar =  6.6763E-01 albedo =  4.6084E-01
+           0  failure: poor anomalous diffraction -- mie agreement 
+ cqe,cqs,cqa,cqph=     1.3767E-03   9.3170E-04   1.7574E-03   7.2457E-04
+
+ vacuum wavelength =  1.6455E-03 wavenumber =  6.0772E+02 x =  3.8184E+02
+ rydberg =  5.5379E+01 ev =  7.5347E+02
+ n= 9.9911E-01 n-1=-8.8847E-04 k=4.0719E-04 ep1= 9.9822E-01 ep2=8.1366E-04
+  relative errors    1.8978D-09   7.5195D-05
+ backwards consistency failure   1.0503D-13  8.4743D-13 -2.1870D-01 -2.1870D-01  1.4978D-01  1.4978D-01
+  n, nmx2, nmx1   404   421   436
+ qext=  5.4452E-01 qphase= -6.8578E-01 qscat=  2.1302E-01 qabs=  3.3150E-01
+ g =  9.9995E-01 albedo =  3.9120E-01 1-g =  4.8537E-05
+ qext/a =  5.4452E+04 c/v =  4.0839E+04 kappa =  1.2375E+04
+ qback =  4.8191E-07 rel -1 =  1.0163E+00   3.8184D+02   1.5548D-01
+  anomalous diffraction 
+ qext=  5.4529E-01 qphase= -6.8615E-01 qscat=  2.1321E-01 qabs=  3.3208E-01
+ xistar =  7.4637E-01 albedo =  3.9101E-01
+           0  failure: poor anomalous diffraction -- mie agreement 
+ cqe,cqs,cqa,cqph=     1.4211E-03   9.0982E-04   1.7497E-03   5.4325E-04
+
+ vacuum wavelength =  1.5545E-03 wavenumber =  6.4329E+02 x =  4.0419E+02
+ rydberg =  5.8621E+01 ev =  7.9758E+02
+ n= 9.9915E-01 n-1=-8.5179E-04 k=3.2968E-04 ep1= 9.9830E-01 ep2=6.5880E-04
+  relative errors    1.4562D-09   8.4383D-05
+ backwards consistency failure   1.5199D-13  5.5334D-13 -2.5159D-01 -2.5159D-01  1.1696D-01  1.1696D-01
+  n, nmx2, nmx1   427   445   460
+ qext=  5.0836E-01 qphase= -7.1804E-01 qscat=  2.1546E-01 qabs=  2.9289E-01
+ g =  9.9996E-01 albedo =  4.2384E-01 1-g =  4.3230E-05
+ qext/a =  5.0836E+04 c/v =  3.8127E+04 kappa =  1.1554E+04
+ qback =  4.7118E-07 rel -1 =  1.2573E+00   4.0419D+02   1.3325D-01
+  anomalous diffraction 
+ qext=  5.0904E-01 qphase= -7.1848E-01 qscat=  2.1565E-01 qabs=  2.9339E-01
+ xistar =  7.3835E-01 albedo =  4.2365E-01
+           0  failure: poor anomalous diffraction -- mie agreement 
+ cqe,cqs,cqa,cqph=     1.3397E-03   8.7333E-04   1.6827E-03   6.0211E-04
+
+ vacuum wavelength =  1.4686E-03 wavenumber =  6.8092E+02 x =  4.2784E+02
+ rydberg =  6.2050E+01 ev =  8.4423E+02
+ n= 9.9921E-01 n-1=-7.9225E-04 k=2.9278E-04 ep1= 9.9842E-01 ep2=5.8510E-04
+  relative errors    6.9824D-10   5.1748D-05
+ backwards consistency failure   9.8144D-14  1.8281D-12  2.3578D-01  2.3578D-01 -1.0176D-01 -1.0176D-01
+  n, nmx2, nmx1   452   469   484
+ qext=  4.8756E-01 qphase= -7.1633E-01 qscat=  2.0915E-01 qabs=  2.7841E-01
+ g =  9.9996E-01 albedo =  4.2897E-01 1-g =  3.8760E-05
+ qext/a =  4.8756E+04 c/v =  3.6567E+04 kappa =  1.1081E+04
+ qback =  3.6028E-07 rel -1 =  1.0185E+00   4.2784D+02   1.2526D-01
+  anomalous diffraction 
+ qext=  4.8817E-01 qphase= -7.1675E-01 qscat=  2.0932E-01 qabs=  2.7885E-01
+ xistar =  7.2271E-01 albedo =  4.2878E-01
+           0  failure: poor anomalous diffraction -- mie agreement 
+ cqe,cqs,cqa,cqph=     1.2431E-03   8.1202E-04   1.5669E-03   5.7950E-04
+
+ vacuum wavelength =  1.3874E-03 wavenumber =  7.2077E+02 x =  4.5287E+02
+ rydberg =  6.5682E+01 ev =  8.9364E+02
+ n= 9.9927E-01 n-1=-7.3336E-04 k=2.3931E-04 ep1= 9.9853E-01 ep2=4.7827E-04
+  relative errors    8.9174D-10   5.2959D-05
+ backwards consistency failure   2.4603D-13  1.3012D-13  2.4046D-01  2.4046D-01 -1.3601D-01 -1.3601D-01
+  n, nmx2, nmx1   477   495   510
+ qext=  4.4747E-01 qphase= -7.2090E-01 qscat=  2.0082E-01 qabs=  2.4664E-01
+ g =  9.9997E-01 albedo =  4.4880E-01 1-g =  3.4562E-05
+ qext/a =  4.4747E+04 c/v =  3.3560E+04 kappa =  1.0170E+04
+ qback =  3.7212E-07 rel -1 =  1.4994E+00   4.5287D+02   1.0838D-01
+  anomalous diffraction 
+ qext=  4.4797E-01 qphase= -7.2131E-01 qscat=  2.0098E-01 qabs=  2.4700E-01
+ xistar =  6.9871E-01 albedo =  4.4863E-01
+           0  failure: poor anomalous diffraction -- mie agreement 
+ cqe,cqs,cqa,cqph=     1.1393E-03   7.5374E-04   1.4532E-03   5.7479E-04
+
+ vacuum wavelength =  1.3107E-03 wavenumber =  7.6295E+02 x =  4.7938E+02
+ rydberg =  6.9525E+01 ev =  9.4594E+02
+ n= 9.9933E-01 n-1=-6.6977E-04 k=1.9768E-04 ep1= 9.9866E-01 ep2=3.9510E-04
+  relative errors    1.5401D-09   7.4375D-05
+ backwards consistency failure   2.1971D-13  8.2401D-13 -2.2120D-01 -2.2120D-01  1.7336D-01  1.7336D-01
+  n, nmx2, nmx1   503   522   537
+ qext=  4.0847E-01 qphase= -7.1314E-01 qscat=  1.8862E-01 qabs=  2.1985E-01
+ g =  9.9997E-01 albedo =  4.6177E-01 1-g =  3.0856E-05
+ qext/a =  4.0847E+04 c/v =  3.0635E+04 kappa =  9.2834E+03
+  anomalous diffraction 
+ qext=  4.0889E-01 qphase= -7.1353E-01 qscat=  1.8875E-01 qabs=  2.2014E-01
+ xistar =  6.6953E-01 albedo =  4.6161E-01
+           0  failure: poor anomalous diffraction -- mie agreement 
+ cqe,cqs,cqa,cqph=     1.0340E-03   6.9026E-04   1.3289E-03   5.4898E-04
+
+ vacuum wavelength =  1.2382E-03 wavenumber =  8.0762E+02 x =  5.0745E+02
+ rydberg =  7.3596E+01 ev =  1.0013E+03
+ n= 9.9939E-01 n-1=-6.0768E-04 k=1.6212E-04 ep1= 9.9878E-01 ep2=3.2404E-04
+  relative errors    1.0221D-09   5.3421D-05
+ backwards consistency failure   3.3984D-13  1.2059D-12 -1.7871D-01 -1.7871D-01  1.7268D-01  1.7268D-01
+  n, nmx2, nmx1   532   551   566
+ qext=  3.6940E-01 qphase= -6.9994E-01 qscat=  1.7510E-01 qabs=  1.9429E-01
+ g =  9.9997E-01 albedo =  4.7402E-01 1-g =  2.7555E-05
+ qext/a =  3.6940E+04 c/v =  2.7705E+04 kappa =  8.3954E+03
+  anomalous diffraction 
+ qext=  3.6974E-01 qphase= -7.0030E-01 qscat=  1.7521E-01 qabs=  1.9453E-01
+ xistar =  6.3830E-01 albedo =  4.7388E-01
+           0  failure: poor anomalous diffraction -- mie agreement 
+ cqe,cqs,cqa,cqph=     9.3262E-04   6.2804E-04   1.2071E-03   5.1646E-04
+
+ vacuum wavelength =  1.1697E-03 wavenumber =  8.5492E+02 x =  5.3716E+02
+ rydberg =  7.7906E+01 ev =  1.0600E+03
+ n= 9.9945E-01 n-1=-5.4801E-04 k=1.3269E-04 ep1= 9.9890E-01 ep2=2.6523E-04
+  relative errors    1.0489D-09   6.3794D-05
+ backwards consistency failure   9.7500D-13  5.1914D-13  1.3628D-01  1.3628D-01 -1.5527D-01 -1.5527D-01
+  n, nmx2, nmx1   562   582   597
+ qext=  3.3175E-01 qphase= -6.8147E-01 qscat=  1.6073E-01 qabs=  1.7102E-01
+ g =  9.9998E-01 albedo =  4.8449E-01 1-g =  2.4623E-05
+ qext/a =  3.3175E+04 c/v =  2.4881E+04 kappa =  7.5397E+03
+  anomalous diffraction 
+ qext=  3.3203E-01 qphase= -6.8179E-01 qscat=  1.6082E-01 qabs=  1.7121E-01
+ xistar =  6.0575E-01 albedo =  4.8436E-01
+           0  failure: poor anomalous diffraction -- mie agreement 
+ cqe,cqs,cqa,cqph=     8.3684E-04   5.6791E-04   1.0896E-03   4.7918E-04
+
+ vacuum wavelength =  1.1051E-03 wavenumber =  9.0490E+02 x =  5.6856E+02
+ rydberg =  8.2460E+01 ev =  1.1219E+03
+ n= 9.9951E-01 n-1=-4.9188E-04 k=1.0863E-04 ep1= 9.9902E-01 ep2=2.1715E-04
+  relative errors    8.8410D-10   5.6485D-05
+ backwards consistency failure   3.7215D-13  3.7415D-13  1.2543D-01  1.2543D-01 -1.5507D-01 -1.5507D-01
+  n, nmx2, nmx1   594   614   629
+ qext=  2.9640E-01 qphase= -6.5887E-01 qscat=  1.4615E-01 qabs=  1.5025E-01
+ g =  9.9998E-01 albedo =  4.9309E-01 1-g =  2.2023E-05
+ qext/a =  2.9640E+04 c/v =  2.2230E+04 kappa =  6.7364E+03
+  anomalous diffraction 
+ qext=  2.9662E-01 qphase= -6.5916E-01 qscat=  1.4623E-01 qabs=  1.5040E-01
+ xistar =  5.7281E-01 albedo =  4.9297E-01
+
+ vacuum wavelength =  1.0440E-03 wavenumber =  9.5785E+02 x =  6.0184E+02
+ rydberg =  8.7286E+01 ev =  1.1876E+03
+ n= 9.9956E-01 n-1=-4.3942E-04 k=8.8969E-05 ep1= 9.9912E-01 ep2=1.7786E-04
+  relative errors    1.2920D-09   7.1248D-05
+ backwards consistency failure   5.8109D-13  8.9406D-13 -1.5850D-01 -1.5850D-01  1.8210D-01  1.8210D-01
+  n, nmx2, nmx1   627   648   663
+ qext=  2.6348E-01 qphase= -6.3282E-01 qscat=  1.3165E-01 qabs=  1.3183E-01
+ g =  9.9998E-01 albedo =  4.9966E-01 1-g =  1.9708E-05
+ qext/a =  2.6348E+04 c/v =  1.9761E+04 kappa =  5.9882E+03
+  anomalous diffraction 
+ qext=  2.6366E-01 qphase= -6.3307E-01 qscat=  1.3171E-01 qabs=  1.3194E-01
+ xistar =  5.3965E-01 albedo =  4.9956E-01
+
+ vacuum wavelength =  9.8625E-04 wavenumber =  1.0139E+03 x =  6.3708E+02
+ rydberg =  9.2397E+01 ev =  1.2571E+03
+ n= 9.9961E-01 n-1=-3.8906E-04 k=7.2879E-05 ep1= 9.9922E-01 ep2=1.4570E-04
+  relative errors    2.9328D-10   9.9425D-05
+ backwards consistency failure   7.2564D-13  3.8717D-12 -5.1227D-02 -5.1227D-02  3.2597D-02  3.2597D-02
+  n, nmx2, nmx1   665   685   700
+ qext=  2.3202E-01 qphase= -6.0148E-01 qscat=  1.1651E-01 qabs=  1.1551E-01
+ g =  9.9998E-01 albedo =  5.0214E-01 1-g =  1.7644E-05
+ qext/a =  2.3202E+04 c/v =  1.7401E+04 kappa =  5.2731E+03
+  anomalous diffraction 
+ qext=  2.3215E-01 qphase= -6.0170E-01 qscat=  1.1655E-01 qabs=  1.1560E-01
+ xistar =  5.0435E-01 albedo =  5.0205E-01
+
+ vacuum wavelength =  9.3172E-04 wavenumber =  1.0733E+03 x =  6.7436E+02
+ rydberg =  9.7805E+01 ev =  1.3307E+03
+ n= 9.9965E-01 n-1=-3.4700E-04 k=7.7461E-05 ep1= 9.9931E-01 ep2=1.5487E-04
+  relative errors    8.2072D-10   6.2289D-05
+ backwards consistency failure   1.5576D-13  8.2101D-13 -1.2869D-01 -1.2869D-01  1.3997D-01  1.3997D-01
+  n, nmx2, nmx1   701   723   738
+ qext=  2.3340E-01 qphase= -5.6449E-01 qscat=  1.0452E-01 qabs=  1.2888E-01
+ g =  9.9998E-01 albedo =  4.4783E-01 1-g =  1.5916E-05
+ qext/a =  2.3340E+04 c/v =  1.7505E+04 kappa =  5.3046E+03
+  anomalous diffraction 
+ qext=  2.3353E-01 qphase= -5.6467E-01 qscat=  1.0456E-01 qabs=  1.2897E-01
+ xistar =  4.7953E-01 albedo =  4.4775E-01
+
+ vacuum wavelength =  8.8020E-04 wavenumber =  1.1361E+03 x =  7.1384E+02
+ rydberg =  1.0353E+02 ev =  1.4086E+03
+ n= 9.9968E-01 n-1=-3.1799E-04 k=6.3348E-05 ep1= 9.9936E-01 ep2=1.2666E-04
+  relative errors    7.4485D-10   9.2461D-05
+ backwards consistency failure   2.1092D-12  1.2466D-12  8.7330D-02  8.7330D-02 -9.0826D-02 -9.0826D-02
+  n, nmx2, nmx1   741   764   779
+ qext=  2.1127E-01 qphase= -5.5406E-01 qscat=  9.8557E-02 qabs=  1.1272E-01
+ g =  9.9999E-01 albedo =  4.6649E-01 1-g =  1.4260E-05
+ qext/a =  2.1127E+04 c/v =  1.5845E+04 kappa =  4.8017E+03
+  anomalous diffraction 
+ qext=  2.1138E-01 qphase= -5.5422E-01 qscat=  9.8589E-02 qabs=  1.1279E-01
+ xistar =  4.6291E-01 albedo =  4.6641E-01
+
+ vacuum wavelength =  8.3154E-04 wavenumber =  1.2026E+03 x =  7.5561E+02
+ rydberg =  1.0959E+02 ev =  1.4910E+03
+ n= 9.9971E-01 n-1=-2.8686E-04 k=5.1728E-05 ep1= 9.9943E-01 ep2=1.0343E-04
+  relative errors    8.0809D-10   5.8711D-05
+ backwards consistency failure   1.0301D-12  1.5010D-13 -1.0760D-01 -1.0760D-01  1.6050D-01  1.6050D-01
+  n, nmx2, nmx1   783   806   821
+ qext=  1.8852E-01 qphase= -5.3491E-01 qscat=  9.0206E-02 qabs=  9.8309E-02
+ g =  9.9999E-01 albedo =  4.7851E-01 1-g =  1.2778E-05
+ qext/a =  1.8852E+04 c/v =  1.4139E+04 kappa =  4.2844E+03
+  anomalous diffraction 
+ qext=  1.8860E-01 qphase= -5.3505E-01 qscat=  9.0234E-02 qabs=  9.8365E-02
+ xistar =  4.4050E-01 albedo =  4.7844E-01
+
+ vacuum wavelength =  7.8556E-04 wavenumber =  1.2730E+03 x =  7.9984E+02
+ rydberg =  1.1600E+02 ev =  1.5783E+03
+ n= 9.9974E-01 n-1=-2.5730E-04 k=4.2196E-05 ep1= 9.9949E-01 ep2=8.4370E-05
+  relative errors    1.1285D-09   8.3971D-05
+ backwards consistency failure   2.4425D-13  1.7921D-12 -1.0621D-01 -1.0621D-01  1.5879D-01  1.5879D-01
+  n, nmx2, nmx1   827   852   867
+ qext=  1.6720E-01 qphase= -5.1289E-01 qscat=  8.1645E-02 qabs=  8.5559E-02
+ g =  9.9999E-01 albedo =  4.8830E-01 1-g =  1.1454E-05
+ qext/a =  1.6720E+04 c/v =  1.2540E+04 kappa =  3.8001E+03
+  anomalous diffraction 
+ qext=  1.6727E-01 qphase= -5.1301E-01 qscat=  8.1667E-02 qabs=  8.5603E-02
+ xistar =  4.1709E-01 albedo =  4.8824E-01
+
+ vacuum wavelength =  7.4212E-04 wavenumber =  1.3475E+03 x =  8.4665E+02
+ rydberg =  1.2279E+02 ev =  1.6707E+03
+ n= 9.9977E-01 n-1=-2.2976E-04 k=3.4407E-05 ep1= 9.9954E-01 ep2=6.8798E-05
+  relative errors    7.2372D-10   6.0503D-05
+ backwards consistency failure   1.2703D-12  2.6044D-12 -8.4446D-02 -8.4446D-02  1.4843D-01  1.4843D-01
+  n, nmx2, nmx1   875   900   915
+ qext=  1.4759E-01 qphase= -4.8905E-01 qscat=  7.3238E-02 qabs=  7.4357E-02
+ g =  9.9999E-01 albedo =  4.9621E-01 1-g =  1.0271E-05
+ qext/a =  1.4759E+04 c/v =  1.1070E+04 kappa =  3.3544E+03
+  anomalous diffraction 
+ qext=  1.4765E-01 qphase= -4.8915E-01 qscat=  7.3256E-02 qabs=  7.4391E-02
+ xistar =  3.9339E-01 albedo =  4.9616E-01
+
+ vacuum wavelength =  7.0109E-04 wavenumber =  1.4264E+03 x =  8.9620E+02
+ rydberg =  1.2998E+02 ev =  1.7684E+03
+ n= 9.9980E-01 n-1=-2.0375E-04 k=2.8053E-05 ep1= 9.9959E-01 ep2=5.6095E-05
+  relative errors    2.3528D-10   9.9503D-05
+ backwards consistency failure   8.6042D-13  1.1262D-11  2.7005D-02  2.7005D-02 -3.1609D-02 -3.1609D-02
+  n, nmx2, nmx1   927   951   966
+ qext=  1.2934E-01 qphase= -4.6265E-01 qscat=  6.4788E-02 qabs=  6.4555E-02
+ g =  9.9999E-01 albedo =  5.0090E-01 1-g =  9.2125E-06
+ qext/a =  1.2934E+04 c/v =  9.7007E+03 kappa =  2.9396E+03
+  anomalous diffraction 
+ qext=  1.2938E-01 qphase= -4.6274E-01 qscat=  6.4802E-02 qabs=  6.4581E-02
+ xistar =  3.6865E-01 albedo =  5.0085E-01
+
+ vacuum wavelength =  6.6233E-04 wavenumber =  1.5098E+03 x =  9.4865E+02
+ rydberg =  1.3759E+02 ev =  1.8719E+03
+ n= 9.9982E-01 n-1=-1.8015E-04 k=3.1086E-05 ep1= 9.9964E-01 ep2=6.2161E-05
+  relative errors    6.5248D-10   6.7153D-05
+ backwards consistency failure   3.8647D-13  1.9912D-12  6.3304D-02  6.3304D-02 -1.2367D-01 -1.2367D-01
+  n, nmx2, nmx1   978  1004  1019
+ qext=  1.3225E-01 qphase= -4.3092E-01 qscat=  5.7013E-02 qabs=  7.5240E-02
+ g =  9.9999E-01 albedo =  4.3109E-01 1-g =  8.3030E-06
+ qext/a =  1.3225E+04 c/v =  9.9190E+03 kappa =  3.0058E+03
+  anomalous diffraction 
+ qext=  1.3229E-01 qphase= -4.3099E-01 qscat=  5.7024E-02 qabs=  7.5267E-02
+ xistar =  3.4685E-01 albedo =  4.3105E-01
+
+ vacuum wavelength =  6.2571E-04 wavenumber =  1.5982E+03 x =  1.0042E+03
+ rydberg =  1.4564E+02 ev =  1.9815E+03
+ n= 9.9983E-01 n-1=-1.6534E-04 k=2.5394E-05 ep1= 9.9967E-01 ep2=5.0780E-05
+  relative errors    6.2780D-10   7.0421D-05
+ backwards consistency failure   2.7800D-13  4.8773D-12 -6.7914D-02 -6.7914D-02  1.1961D-01  1.1961D-01
+  n, nmx2, nmx1  1034  1061  1076
+ qext=  1.1929E-01 qphase= -4.2142E-01 qscat=  5.3846E-02 qabs=  6.5446E-02
+ g =  9.9999E-01 albedo =  4.5138E-01 1-g =  7.4502E-06
+ qext/a =  1.1929E+04 c/v =  8.9469E+03 kappa =  2.7112E+03
+  anomalous diffraction 
+ qext=  1.1932E-01 qphase= -4.2149E-01 qscat=  5.3856E-02 qabs=  6.5468E-02
+ xistar =  3.3595E-01 albedo =  4.5134E-01
+
+ vacuum wavelength =  5.9111E-04 wavenumber =  1.6917E+03 x =  1.0629E+03
+ rydberg =  1.5416E+02 ev =  2.0975E+03
+ n= 9.9985E-01 n-1=-1.4917E-04 k=2.0689E-05 ep1= 9.9970E-01 ep2=4.1372E-05
+  relative errors    2.4823D-10   8.4554D-05
+ backwards consistency failure   1.6394D-12  2.2529D-12 -1.3530D-02 -1.3530D-02  4.2717D-02  4.2717D-02
+  n, nmx2, nmx1  1095  1121  1136
+ qext=  1.0594E-01 qphase= -4.0498E-01 qscat=  4.9202E-02 qabs=  5.6737E-02
+ g =  9.9999E-01 albedo =  4.6444E-01 1-g =  6.6846E-06
+ qext/a =  1.0594E+04 c/v =  7.9454E+03 kappa =  2.4077E+03
+  anomalous diffraction 
+ qext=  1.0596E-01 qphase= -4.0504E-01 qscat=  4.9209E-02 qabs=  5.6754E-02
+ xistar =  3.2016E-01 albedo =  4.6440E-01
+
+ vacuum wavelength =  5.5843E-04 wavenumber =  1.7907E+03 x =  1.1252E+03
+ rydberg =  1.6318E+02 ev =  2.2202E+03
+ n= 9.9987E-01 n-1=-1.3397E-04 k=1.6825E-05 ep1= 9.9973E-01 ep2=3.3645E-05
+  relative errors    5.7225D-10   7.7007D-05
+ backwards consistency failure   1.2247D-12  1.3904D-12  5.2080D-02  5.2080D-02 -1.0648D-01 -1.0648D-01
+  n, nmx2, nmx1  1156  1185  1200
+ qext=  9.3619E-02 qphase= -3.8714E-01 qscat=  4.4556E-02 qabs=  4.9064E-02
+ g =  9.9999E-01 albedo =  4.7592E-01 1-g =  5.9993E-06
+ qext/a =  9.3619E+03 c/v =  7.0215E+03 kappa =  2.1277E+03
+  anomalous diffraction 
+ qext=  9.3639E-02 qphase= -3.8719E-01 qscat=  4.4562E-02 qabs=  4.9077E-02
+ xistar =  3.0384E-01 albedo =  4.7589E-01
+
+ vacuum wavelength =  5.2755E-04 wavenumber =  1.8956E+03 x =  1.1910E+03
+ rydberg =  1.7274E+02 ev =  2.3502E+03
+ n= 9.9988E-01 n-1=-1.2004E-04 k=1.3671E-05 ep1= 9.9976E-01 ep2=2.7339E-05
+  relative errors    6.5844D-10   8.1873D-05
+ backwards consistency failure   1.3494D-12  1.4528D-12  5.1014D-02  5.1014D-02 -1.1722D-01 -1.1722D-01
+  n, nmx2, nmx1  1222  1252  1267
+ qext=  8.2528E-02 qphase= -3.6899E-01 qscat=  4.0161E-02 qabs=  4.2367E-02
+ g =  9.9999E-01 albedo =  4.8663E-01 1-g =  5.3849E-06
+ qext/a =  8.2528E+03 c/v =  6.1896E+03 kappa =  1.8756E+03
+  anomalous diffraction 
+ qext=  8.2543E-02 qphase= -3.6903E-01 qscat=  4.0166E-02 qabs=  4.2377E-02
+ xistar =  2.8779E-01 albedo =  4.8661E-01
+
+ vacuum wavelength =  4.9838E-04 wavenumber =  2.0065E+03 x =  1.2607E+03
+ rydberg =  1.8285E+02 ev =  2.4877E+03
+ n= 9.9989E-01 n-1=-1.0740E-04 k=1.1094E-05 ep1= 9.9979E-01 ep2=2.2186E-05
+  relative errors    3.6618D-11   8.6587D-05
+ backwards consistency failure   1.2222D-10  4.2586D-11  1.3345D-03  1.3345D-03  7.2749D-03  7.2749D-03
+  n, nmx2, nmx1  1298  1324  1339
+ qext=  7.2607E-02 qphase= -3.5096E-01 qscat=  3.6089E-02 qabs=  3.6518E-02
+ g =  1.0000E+00 albedo =  4.9704E-01 1-g =  4.8342E-06
+ qext/a =  7.2607E+03 c/v =  5.4456E+03 kappa =  1.6502E+03
+  anomalous diffraction 
+ qext=  7.2619E-02 qphase= -3.5100E-01 qscat=  3.6093E-02 qabs=  3.6526E-02
+ xistar =  2.7224E-01 albedo =  4.9702E-01
+
+ vacuum wavelength =  4.7083E-04 wavenumber =  2.1239E+03 x =  1.3345E+03
+ rydberg =  1.9354E+02 ev =  2.6333E+03
+ n= 9.9990E-01 n-1=-9.5991E-05 k=8.9911E-06 ep1= 9.9981E-01 ep2=1.7980E-05
+  relative errors    2.6115D-11   8.3020D-05
+ backwards consistency failure   1.2998D-12  3.4992D-11 -4.9363D-03 -4.9363D-03  5.6152D-03  5.6152D-03
+  n, nmx2, nmx1  1373  1399  1414
+ qext=  6.3779E-02 qphase= -3.3328E-01 qscat=  3.2357E-02 qabs=  3.1422E-02
+ g =  1.0000E+00 albedo =  5.0733E-01 1-g =  4.3406E-06
+ qext/a =  6.3779E+03 c/v =  4.7834E+03 kappa =  1.4495E+03
+  anomalous diffraction 
+ qext=  6.3788E-02 qphase= -3.3332E-01 qscat=  3.2360E-02 qabs=  3.1428E-02
+ xistar =  2.5732E-01 albedo =  5.0731E-01
+
+ vacuum wavelength =  4.4480E-04 wavenumber =  2.2482E+03 x =  1.4126E+03
+ rydberg =  2.0487E+02 ev =  2.7874E+03
+ n= 9.9991E-01 n-1=-8.5724E-05 k=7.2771E-06 ep1= 9.9983E-01 ep2=1.4553E-05
+  relative errors    3.9331D-10   6.9966D-05
+ backwards consistency failure   8.4066D-13  1.6498D-12 -3.1904D-02 -3.1904D-02  8.9774D-02  8.9774D-02
+  n, nmx2, nmx1  1446  1479  1494
+ qext=  5.5950E-02 qphase= -3.1609E-01 qscat=  2.8960E-02 qabs=  2.6989E-02
+ g =  1.0000E+00 albedo =  5.1761E-01 1-g =  3.8980E-06
+ qext/a =  5.5950E+03 c/v =  4.1962E+03 kappa =  1.2716E+03
+  anomalous diffraction 
+ qext=  5.5957E-02 qphase= -3.1612E-01 qscat=  2.8963E-02 qabs=  2.6994E-02
+ xistar =  2.4306E-01 albedo =  5.1759E-01
+
+ vacuum wavelength =  4.2020E-04 wavenumber =  2.3798E+03 x =  1.4953E+03
+ rydberg =  2.1687E+02 ev =  2.9506E+03
+ n= 9.9992E-01 n-1=-7.6510E-05 k=5.8830E-06 ep1= 9.9985E-01 ep2=1.1765E-05
+  relative errors    4.2423D-10   7.0890D-05
+ backwards consistency failure   1.2990D-12  6.5581D-13  2.9433D-02  2.9433D-02 -9.6975D-02 -9.6975D-02
+  n, nmx2, nmx1  1529  1563  1578
+ qext=  4.9034E-02 qphase= -2.9949E-01 qscat=  2.5887E-02 qabs=  2.3148E-02
+ g =  1.0000E+00 albedo =  5.2793E-01 1-g =  3.5004E-06
+ qext/a =  4.9034E+03 c/v =  3.6776E+03 kappa =  1.1144E+03
+  anomalous diffraction 
+ qext=  4.9040E-02 qphase= -2.9951E-01 qscat=  2.5889E-02 qabs=  2.3151E-02
+ xistar =  2.2948E-01 albedo =  5.2791E-01
+
+ vacuum wavelength =  3.9697E-04 wavenumber =  2.5191E+03 x =  1.5828E+03
+ rydberg =  2.2956E+02 ev =  3.1233E+03
+ n= 9.9993E-01 n-1=-6.8255E-05 k=4.7501E-06 ep1= 9.9986E-01 ep2=9.4996E-06
+  relative errors    1.0867D-10   9.2873D-05
+ backwards consistency failure   1.1369D-13  9.8890D-12  4.5451D-03  4.5451D-03 -2.0727D-02 -2.0727D-02
+  n, nmx2, nmx1  1620  1652  1667
+ qext=  4.2936E-02 qphase= -2.8351E-01 qscat=  2.3114E-02 qabs=  1.9822E-02
+ g =  1.0000E+00 albedo =  5.3833E-01 1-g =  3.1440E-06
+ qext/a =  4.2936E+03 c/v =  3.2202E+03 kappa =  9.7581E+02
+  anomalous diffraction 
+ qext=  4.2940E-02 qphase= -2.8353E-01 qscat=  2.3115E-02 qabs=  1.9825E-02
+ xistar =  2.1659E-01 albedo =  5.3832E-01
+
+ vacuum wavelength =  3.7502E-04 wavenumber =  2.6665E+03 x =  1.6754E+03
+ rydberg =  2.4299E+02 ev =  3.3061E+03
+ n= 9.9994E-01 n-1=-6.0865E-05 k=3.8322E-06 ep1= 9.9988E-01 ep2=7.6639E-06
+  relative errors    7.5206D-11   9.8402D-05
+ backwards consistency failure   3.9778D-11  5.0493D-12 -2.6862D-03 -2.6862D-03  1.4029D-02  1.4029D-02
+  n, nmx2, nmx1  1714  1747  1762
+ qext=  3.7574E-02 qphase= -2.6819E-01 qscat=  2.0618E-02 qabs=  1.6956E-02
+ g =  1.0000E+00 albedo =  5.4874E-01 1-g =  2.8240E-06
+ qext/a =  3.7574E+03 c/v =  2.8180E+03 kappa =  8.5395E+02
+  anomalous diffraction 
+ qext=  3.7577E-02 qphase= -2.6821E-01 qscat=  2.0619E-02 qabs=  1.6958E-02
+ xistar =  2.0435E-01 albedo =  5.4872E-01
+
+ vacuum wavelength =  3.5429E-04 wavenumber =  2.8225E+03 x =  1.7735E+03
+ rydberg =  2.5721E+02 ev =  3.4995E+03
+ n= 9.9995E-01 n-1=-5.4259E-05 k=3.0909E-06 ep1= 9.9989E-01 ep2=6.1815E-06
+  relative errors    3.5929D-10   6.7430D-05
+ backwards consistency failure   1.0700D-12  1.3360D-12 -2.3292D-02 -2.3292D-02  9.1714D-02  9.1714D-02
+  n, nmx2, nmx1  1809  1847  1862
+ qext=  3.2875E-02 qphase= -2.5355E-01 qscat=  1.8378E-02 qabs=  1.4496E-02
+ g =  1.0000E+00 albedo =  5.5904E-01 1-g =  2.5368E-06
+ qext/a =  3.2875E+03 c/v =  2.4656E+03 kappa =  7.4715E+02
+  anomalous diffraction 
+ qext=  3.2877E-02 qphase= -2.5356E-01 qscat=  1.8379E-02 qabs=  1.4498E-02
+ xistar =  1.9276E-01 albedo =  5.5902E-01
+
+

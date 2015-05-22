@@ -1,0 +1,16 @@
+ nosina= 7 nosini= 7 nopol= 1 nofin= 1 norpr= 7
+ number of scattering angles =  91 181
+ density =    2.240000
+ ng=96 ipart=  1 numsizes=  96
+ numsd=    1
+ nsd=  9 rm= 9.50000D+05 rn= 1.54000D+00 rp=-1.65000D-01
+ rq= 1.07000D-02 rs= 4.28000D-01 rt= 3.00000D+00
+  num=2.4654D+06 vol=1.6334D+02 r10=8.8994D-03 r32=8.3418D-02 r76=4.2005D-01
+
+
+ vac length=6.2000E-01 numb=1.6129E+00 ryd=1.4698E-01 ev=1.9997E+00
+ n= 1.9608E+00 n-1= 9.6085E-01 k=1.2427E+00 ep1= 2.3006E+00 ep2=4.8736E+00
+ nsd= 9 sca= 7.08008D+02 ext= 1.97273D+03  g= 4.50387D-01 albedo= 3.58898D-01
+        abs= 1.26472D+03 pha= 1.00990D+03 pr= 1.65385D+03
+ rex=1.5088D-01 rsc=1.8838D-01
+

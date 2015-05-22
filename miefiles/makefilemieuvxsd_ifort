@@ -1,0 +1,32 @@
+# makefile for mieuvxsd
+#VERSION for linux, may 2015
+FFLAGS = -O
+LDFLAGS = -O
+
+PREF = mieuvxsd
+SOU = $(PREF).f
+OBJ = $(PREF).o
+
+# explicit inclusion of io assignments: includes binary (unformatted) version
+#IOPREF = ibo
+#IOSOU = $(IOPREF).f
+#IOOBJ = $(IOPREF).o
+
+#OBJA = $(PREF).o gauss.o sinpar.o ritdft.o sizeds.o $(IOOBJ)
+OBJA = $(PREF).o gauss.o sinpar.o ritdft.o sizeds.o
+#EXE = $(PREF)_dec
+EXE = $(PREF)
+
+$(EXE): $(OBJA)
+	ifort  $(LDFLAGS) $(OBJA) -o $(EXE)
+
+$(OBJ): $(SOU)
+	ifort $(FFLAGS) -c $(SOU)
+gauss.o: gauss.f
+	ifort $(FFLAGS) -c gauss.f
+sinpar.o: sinpar.f
+	ifort $(FFLAGS) -c sinpar.f
+ritdft.o: ritdft.f
+	ifort $(FFLAGS) -c ritdft.f
+sizeds.o: sizeds.f
+	ifort $(FFLAGS) -c sizeds.f

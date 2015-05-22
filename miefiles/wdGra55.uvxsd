@@ -1,0 +1,8 @@
+7 7 1 1 7 !nosina,nosini,nopol,nofin,norpr (1=yes, 7=no to printing)
+90 !jx one less than the number of angles in 0 - 90, including 90 (0 ok too)
+2.24 ! density rho
+1 0.004 0.8 ! irlog=0 for normal radii; rbot,rtop (always same units as wave)
+96 1 ! ng, ipart
+1 ! numsd
+9 7.2D+04 1.61 -0.722 0.0418 0.720 3. ! case, then 6 parameters: rm,rn,rp,rq,rs,rt here WD Graphite bc=3, RV = 5.5
+

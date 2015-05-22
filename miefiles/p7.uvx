@@ -1,0 +1,3 @@
+1 1 !no phase function output (nosina=7), single particle q's (nosini=1)
+3.3 !density in gm cm-3; dl astronomical silicate; can be altered in plot 
+0.7 !size in microns; this is top of main loop

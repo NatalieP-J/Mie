@@ -1,0 +1,7 @@
+7 7 7 1 7 !nosina,nosini,nopol,nofin,norpr (1=yes, 7=no to printing)
+0 !jx one less than the number of angles in 0 - 90, including 90 (0 ok too)
+3.3 ! density rho
+1 .005 .25 ! irlog=0 for normal radii; rbot,rtop (always same units as wave)
+96 1 ! ng, ipart
+1 ! numsd
+7 1. 4.5 1. ! steep power law

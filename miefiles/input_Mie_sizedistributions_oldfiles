@@ -1,0 +1,8 @@
+mieuvxsd.sh:fort04=$1.uvxsd 		# input mie, rho, size distribution
+mieuvxsd.sh.irides:fort04=/d/ironwood/pgmartin/scatter/sphere/uvx/$1.uvxsd # input mie, rho, size distribution
+mieuvxsd.sh.iris:fort04=/usr/people/pgmartin/ironwood/scatter/sphere/uvx/$1.uvxsd # input mie, rho, size distr
+mieuvxsd.sh.sparc:fort04=/d/ironwood/pgmartin/scatter/sphere/uvx/$1.uvxsd # input mie, rho, size distribution
+mieuvx.sh~:fort04=/rose/pgmartin/ironbat/scatter/sphere/uvx/$1.uvx 	# input mie, rho, sizes
+mieuvx.sh.iris:fort04=/d/ironwood/pgmartin/scatter/sphere/uvx/$1.uvx 	# input mie, rho, sizes
+mieuvx.sh.orig:fort04=/rose/pgmartin/ironbat/scatter/sphere/uvx/$1.uvx 	# input mie, rho, sizes
+mieuvx.sh.sparc:fort04=/d/ironwood/pgmartin/scatter/sphere/uvx/$1.uvx 	# input mie, rho, sizes

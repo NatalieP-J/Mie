@@ -1,0 +1,45 @@
+From pgmartin Mon May 27 12:52:31 1996
+From: Peter Martin <pgmartin>
+Date: Mon, 27 May 1996 12:52:27 -0400
+To: covatto@groucho.la.asu.edu
+cc: pgmartin
+Subject: Re: data request
+
+Carl:
+
+I will send two tables of refractive indices of silicate materials I
+have been using recently (e.g., Kim and Martin ApJ 462, 296, 1996 and
+references therein).  These go back to about the time of the Martin and
+Rouleau article and are quite similar to what was used then.  The tables
+are laid out as follows:
+
+
+| this simply indicates that the table contains n - 1, rather than n,
+| which is better for accuracy at high energies
+| Use n and k to generate eps1 and eps2
+V
+0 ! silicate DL, Huffman&Stapp, Reilman&Manson, Henke et al. den=3.3 wt=172
+  9.1177E+03  2.4035E+00  5.3985E-03  1.1584E+01  3.6748E-02
+  8.6135E+03  2.4035E+00  5.7144E-03  1.1584E+01  3.8898E-02
+.
+.
+.
+   wavelength  n - 1       k              eps1      eps2
+   in microns 
+
+The files are rosil.refr and rosilx.refr.  The second one is just for
+finer energy resolution in the FUV; it starts at wavelength 1.24E-02
+microns ~= 100 eV and extends about a factor 3 further, to ~10 KeV.
+
+I hope this is satisfactory.
+
+Regards,
+
+Peter
+
+-- 
+Peter G. Martin                   pgmartin@cita.utoronto.ca
+CITA, University of Toronto       (416) 978-6840    
+Toronto, Ontario M5S 3H8          Fax      -3921
+
+

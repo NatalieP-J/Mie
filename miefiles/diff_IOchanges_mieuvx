@@ -1,0 +1,31 @@
+26,38c26
+< c change shell script to get around this f77 construction
+< c      call ioinit(.true.,.false.,.false.,'fort',.false.)
+< c
+< c Oct 2014, standard i/o to go with new shell script mieuvx.sh
+< c temporary file names
+<       open(unit=1,file='t1.po',status='old')
+< c 1 plotting output for plotq and  for hazy
+<       open(unit=2,file='t2.refr',status='old')
+< c 2 input wavelength and refractive index
+<       open(unit=3,file='t3.pr',status='old')
+< c 3 printed output
+<       open(unit=4,file='t4.uvx',status='old')
+< c 4 input mie, rho, sizes
+---
+>       call ioinit(.true.,.false.,.false.,'fort',.false.)
+60,61c48
+< c      jxf=max1(2,2*jx-1)
+<       jxf=max(2,2*jx-1)
+---
+>       jxf=max1(2,2*jx-1)
+201,202c188
+< c      jmx = max1(1,jx - 1)
+<       jmx = max(1,jx - 1)
+---
+>       jmx = max1(1,jx - 1)
+204,205c190
+< c         jj = max1(1,jx - j)
+<          jj = max(1,jx - j)
+---
+>          jj = max1(1,jx - j)
