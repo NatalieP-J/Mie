@@ -49,6 +49,9 @@ FILE INVENTORY
   function multiplied by cos(theta) to find anisotropy parameter g
   	- used in sd.pro, sinpar.pro, combsd.pro
 
+- mie.pro contains the function mie, which interpolates a phase function to
+  a new value
+
 - plotoptions.pro contains the function plotoptions, which is designed to allow
   for easy plotting of phase functions
       	- used in rgcombsd.pro, combsd.pro, sd.pro, sinpar.pro
