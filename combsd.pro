@@ -88,13 +88,16 @@ pf2 = data[keys[i+2], 'pf']/(4*!dpi)
 datadict['angle'] = data[keys[i], 'angle']
 datadict['scatter'] = scatter
 
-; read in the scattering cross section and g parameters
+; read in the scattering cross section
 qs1 = headers[keys[i], 'sca']
 qs2 = headers[keys[i+2], 'sca']
+; read in g parameter
 g1 = headers[keys[i], 'g']
 g2 = headers[keys[i+2], 'g']
+; read in extinction cross section
 ext1 = headers[keys[i], 'ext']
 ext2 = headers[keys[i+2], 'ext']
+; read in absorption cross section
 abs1 = headers[keys[i], 'abs']
 abs2 = headers[keys[i+2], 'abs']
 
@@ -107,7 +110,6 @@ g = addphase(g1,g2,qs1,qs2)
 ; Identify the author
 start = strpos(fnames[i],'aSil')
 nfname = fname.Remove(start)
-
 if nfname eq 'comp' then begin
 pname = 'compiegne' 
 endif

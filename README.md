@@ -5,6 +5,9 @@ FILE INVENTORY
 - anything with test in the name is a temporary file
 - all output written to working directory, miefiles or to a subdirectory
   of /home/njones/Dropbox/Mie/NatalieResults
+- as prefix means this file creates all sky maps
+- _frankie suffix means this file utilizes frankie sky as light source,
+  not a beam source from the galactic center.
 
 - addphase.pro contains the function addphase, which takes two arrays and
    two values by which to weight them
