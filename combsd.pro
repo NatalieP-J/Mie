@@ -19,6 +19,7 @@ lGC = 0
 ; produce scattering angles that correspond to a pointing from the
 ; nebula to earth
 scatter = pointingangles(dracodist, GCdist, dracobee, dracoell, bGC, lGC)
+scatter = scatter['scatter']
 
 ; location of source files
 sourcedir = '/mnt/raid-project/hp/njones/Mie/miefiles/'

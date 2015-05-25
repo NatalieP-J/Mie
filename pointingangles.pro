@@ -42,7 +42,7 @@ if total(crits) ne -1 then learth[crits] = !dpi - learth[crits]
 lt0 = where(learth lt 0)
 if total(lt0) ne -1 then learth[lt0] += 2*!dpi
 ;print, learth*!radeg
-bearth = -bcloud
+bearth = fltarr(leng(learth))-bcloud
 
 ;print, 'longitude cloud to sun ', learth*!radeg
 
@@ -52,6 +52,10 @@ bearth = -bcloud
 uscat = ct(ellillum = lillum, beeillum = billum, ellscat = learth, beescat = bearth)
 scatter = acos(uscat)
 ;print, 'scattering angle ', scatter*!radeg
+outdict = dictionary()
+outdict['scatter'] = scatter
+outdict['learth'] = learth
+outdict['bearth'] = bearth
 
-return, scatter
+return, outdict
 end
