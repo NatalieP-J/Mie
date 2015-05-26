@@ -4,7 +4,7 @@ ISRFDIR='/cita/d/raid-project/hp/pgmartin/GALPROP/FITS/ISRF/Standard/'
 ; sky with spectrum integrated over certain filter
 ; choice of 0, 0.1, 0.2, 0.5, 1, 2, 5, 10, 20, 30
 ;filein = ISRFDIR+'Standard_8.5_0_0.5_Filter_HP.fits.gz'
-filein = ISRFDIR+'Standard_8.5_0_1_Filter_HP.fits.gz'
+filein = ISRFDIR+'Standard_8.5_0_0.5_Filter_HP.fits.gz'
 
 foofilt = mrdfits(filein, 1, hfoof)
 print, hfoof
@@ -34,7 +34,7 @@ print, min(skyfilt), 'min skyfilt'
 
 ; display the full sky plot
 ; smart enough not to take the log of zero
-mollview, skyfilt, /log, grat=[30.,30.], glsize= 1.
+;mollview, skyfilt, /log, grat=[30.,30.], glsize= 1.
 
 ; now create a copies of the sky array, to be manipulated
 
@@ -60,7 +60,7 @@ npix = nside2npix(32)
 domega = 4.*!pi/npix
 ;print, domega
 
-mollview, skyinput, /log
+;mollview, skyinput, /log
 
 sumsky = 0.
 for i = 0,npix-1 do begin
@@ -140,7 +140,7 @@ endfor
 ;mollview, skyoutput, /log
 ;mollview, skyfilt, /log, grat=30., glsize= 1.
 ;mollview, skyfilt, /log, grat=[45.,15.], glsize= 1.
-mollview, skyoutput, /log, grat=[30.,30.], glsize= 1.
+;mollview, skyoutput, /log, grat=[30.,30.], glsize= 1.
 
 ; this integral over the whole sky should be 1
 intpf = sumpf*domega
@@ -151,7 +151,7 @@ print, 'integral of the phase function over sky', intpf
 ; view from the pole, north on the left, Galactic centre at contact point
 ;orthview, skyfilt, rot=[0.,90.,90.], /log 
 ;orthview, skyfilt, rot=[0.,90.,90.], /log, grat=[45.,15.], glsize= 1.
-orthview, skyoutput, rot=[0.,90.,90.], /log, grat=[45.,15.], glsize= 1.
+;orthview, skyoutput, rot=[0.,90.,90.], /log, grat=[45.,15.], glsize= 1.
 
 print, 'beginning the double integral'
 

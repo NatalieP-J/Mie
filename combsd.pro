@@ -139,6 +139,9 @@ endif
 ; create an output file name
 pname += color
 
+save, pf, filename = pname+'_pf.idlsav'
+save, g, filename = pname+'_g.idlsav'
+
 ; use output file name as key for new phase function
 datadict[pname] = pf
 hgplot = dictionary(pname, g)

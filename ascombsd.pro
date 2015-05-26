@@ -1,6 +1,6 @@
-forcegen = 1
+forcegen = 0
 
-height = '0.2'
+height = '0.1'
 print, 'height '+height + ' kpc'
 nside = findnside(height = height)
 
@@ -34,66 +34,32 @@ ang2pix_ring, nside, polearth, learth, earthpix
 ; location of source files
 sourcedir = '/mnt/raid-project/hp/njones/Mie/miefiles/'
 
-; chosen size distribution
-sds = ['compaSil', 'compLamC', 'wdaSil31', 'wdGra31','wdaSil55', 'wdGra55']
-; wavelengths for which scattering is calculated
-colors = ['red', 'green']
-; refraction indices used
-particles = ['draine', 'zubko']
-
-; create a list of filenames
-fnames = sdgenfilelist(sds = sds, colors = colors, particles = particles)
 spawn, 'ls *kpc.idlsav', sumscatfilelist
+spawn, 'ls *_pf.idlsav', fnamelist
 
-; specify file extension
-exten = '.phsd'
-; specify size of header
-hsize = 3
-; include column titles
-colnames = ['angle','m2','m1','s21','d21','pf','pol']
+fnames = fnamelist.remove(-10)
 
-; read in data from each file in fnames
-outdata = genfiledata(sourcedir, fnames, exten, hsize, colnames)
-
-; split output into column data and header information
-data = outdata['data']
-headers = outdata['headers']
-
-; set keys to use in data dictionary to feed plot options
-keys = fnames
-
-; specify extension of auxiliary header file and its length
-nexten = '.prsd'
-nhsize = 16
-
-; read in additional header information from auxiliary file and
-; combine with the existing header
-for i=0, leng(keys)-1 do begin
-addheader = prheader(sourcedir+fnames[i]+nexten, nhsize)
-headers[keys[i]] = headers[keys[i]]+addheader
-endfor
 
 ; choose where to save plots
-outputdir = '/home/njones/Dropbox/Mie/NatalieResults/AllSky/'
+outputdir = '/home/njones/Dropbox/Mie/NatalieResults/AllSky/CarbonSilicate/'
 
 ; initialize index
-i=10
+i=0
 ; create arrays to hold numeric (1) and analytic (2) values for g
 
 while i lt leng(fnames) do begin
 fname = fnames[i]
 
+restore, fnamelist[i]
+restore, fname+'_g.idlsav'
+
 ; intialize data dictionary to feed to plotoptions
 datadict = dictionary()
 ; add renormalized phase functions for both colors
-datadict[keys[i]] = data[keys[i], 'pf']/(4*!dpi)
+datadict[fname] = pf
 ; add angle information and scattering angles
-datadict['angle'] = data[keys[i], 'angle']*!dtor
+datadict['angle'] = findgen(181)*!dtor
 
-; find whether the particles are silicates or carbon
-typecheck = strpos(fname,'zubko')
-if typecheck ne -1 then ptype = 'carbon'
-if typecheck eq -1 then ptype = 'silicate'
 ; find out which R_V value was used
 acheck = strpos(fname, 'wd')
 rvtype = ''
@@ -108,7 +74,7 @@ if ccheck eq -1 then ctype = 'green'
 
 ; construct a title for the plot and the savefile name
 ptitle = 'Mie scattered light'
-sptitle = 'for a size distribution of '+ptype+$
+sptitle = 'for a size distribution of carbon and silicate'+$
          ' particles under '+ctype+' light' 
 if rvtype ne '' then sptitle += ' with '+rvtype   
 
@@ -133,7 +99,7 @@ isoscat = fltarr(npix)
 timer, /start
 for k=0, npix-1 do begin
 uscats = ct(ellillum=ells[k],beeillum=bees[k], ellscat=ells, beescat=bees)
-pf = mie(acos(uscats),angles = datadict['angle'], pf = datadict[keys[i]])
+pf = mie(acos(uscats),angles = datadict['angle'], pf = datadict[fname])
 iso = hg(g = 0, u = uscats)
 sumscat += pf * skyin[k]
 isoscat += iso * skyin[k]
@@ -182,8 +148,7 @@ endif
 npname += '.ps'
 npname = noutputdir + '/' + npname
 mollview, nsumscat, grat = [30,30], glsize = 1., rot = rot[r],$
-          titleplot = ptitle, subtitle = sptitle, ps = npname,$
-          min = min(nsumscat), max = max(nsumscat)
+          titleplot = ptitle, subtitle = sptitle, ps = npname
 cgfixps, npname
 cgps2pdf, npname
 spawn, 'rm '+npname

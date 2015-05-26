@@ -125,14 +125,14 @@ plot, angle*!radeg, datadict[mkey]/isovals,/nodata, title = ptitle,$
 ; COLOR AND LINESTYLE
 for i=0, leng(keys)-1 do begin
 oplot, angle*!radeg, datadict[keys[i]]/isovals,$ 
-       color = cgcolor(colors[keys[i]]), thick = 5,$
+       color = cgcolor(colors[keys[i]]), thick = 8,$
        linestyle = lstyles[keys[i]]
 endfor
 ; ADD SCATTERING ANGLES POINTING TOWARD EARTH
-vline, datadict['scatter']*!radeg
+vline, datadict['scatter']*!radeg, thick = 5
 ; ADD LEGEND
 legend, nmeanings, linestyle = nlstyles, color = ncolors, thick = nthicks,$
-        /right
+        /left, /bottom, charsize = 1.5, charthick = 4
 rpsclose, /high
 ; ROTATE POSTSCRIPT FILE
 cgfixps, outputdir+pname+'.ps'
@@ -152,16 +152,16 @@ plot, datadict[mkey]/isovals, angle, /polar,/nodata, title = ptitle,$
 ; COLOUR AND LINESTYLE
 for i=0, leng(keys)-1 do begin
 oplot, datadict[keys[i]]/isovals, angle, color = cgcolor(colors[keys[i]]), $
-       /polar, linestyle = lstyles[keys[i]], thick = 5
+       /polar, linestyle = lstyles[keys[i]], thick = 8
 endfor
 ; ADD SCATTERING ANGLES POINTING TOWARD EARTH
-angline, datadict['scatter']
+angline, datadict['scatter'], thick = 5
 ; ADD AXIS LINES
-hline, 0
-vline, 0
+hline, 0, thick = 5
+vline, 0, thick = 5
 ; ADD LEGENDE
 legend, nmeanings, linestyle = nlstyles, color = ncolors, thick = nthicks, $
-        /right
+        /right, charsize = 1.5, charthick = 4
 rpsclose, /high
 ; ROTATE POSTSCRIPT FILE
 cgfixps, outputdir+pname+'.ps'

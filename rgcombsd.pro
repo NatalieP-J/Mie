@@ -151,13 +151,13 @@ endif
 endif
 
 ; construct title for plot
-ptitle = 'Phase functions for a size distribution of carbon and silicate particles'
+ptitle = 'Mixed particle size distribution'
 
 ; produce information for legend
 nmeanings = ['Mie', 'Henyey-Greenstein','Mie', 'Henyey-Greenstein', 'Isotropic']
 ncolors = ['red','red','grn5','grn5', 'blue']
 nlstyles = [0,2,0,2,0]
-nthicks = [5,5,5,5,5]
+nthicks = [8,8,8,8,8]
 
 ; call plot options to make desired plot
 plotoptions, datadict, outputdir, pname, ptitle, $
@@ -165,7 +165,8 @@ plotoptions, datadict, outputdir, pname, ptitle, $
              hgplot = hgplot, /isoplot, /nplot, /ylog, $
              yrange = [0.1,10], xrange = [0,180], /xstyle, $
              xtitle = 'scattering angle', $
-             ytitle = 'phase function'
+             ytitle = 'phase function',$
+             charsize = 2, charthick = 5
 
 i+=1
 endwhile
