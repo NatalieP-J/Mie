@@ -6,13 +6,13 @@ outdir = '/home/njones/Dropbox/Mie/NatalieResults/AllSky/frankie/'
 pname = 'illumination_h'+heights[i]+'kpc.ps'
 pname = outdir+pname
 ptitle = 'Illumination Map'
-stitle = '8.5 kpc from and '+heights[i]+' kpc above the Galactic Center'
+stitle = '8.5 kpc from the Galactic Centre and '+heights[i]+' kpc above the midplane'
 mollview, skyin, grat = [30,30], glsize = 1., ps = pname,$
           titleplot = ptitle, subtitle = stitle, /log
 
 cgfixps, pname
-cgps2pdf, pname
-spawn, 'rm '+pname
+;cgps2pdf, pname
+;spawn, 'rm '+pname
 
 endfor
 end

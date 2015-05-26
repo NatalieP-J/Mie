@@ -1,6 +1,8 @@
 forcegen = 0
 
-height = '0.1'
+heights = ['0.1','0.2','0.5','1'] ; in kpc
+for h=0, leng(heights)-1 do begin
+height = heights[h]
 print, 'height '+height + ' kpc'
 nside = findnside(height = height)
 
@@ -73,9 +75,8 @@ if ccheck ne -1 then ctype = 'red'
 if ccheck eq -1 then ctype = 'green'
 
 ; construct a title for the plot and the savefile name
-ptitle = 'Mie scattered light'
-sptitle = 'for a size distribution of carbon and silicate'+$
-         ' particles under '+ctype+' light' 
+ptitle = 'Mie scattered '+ctype+' light'
+sptitle = 'for a mixed size distribution'
 if rvtype ne '' then sptitle += ' with '+rvtype   
 
 pname = fname+'_allsky_h'+height+'kpc'
@@ -145,13 +146,13 @@ npname += '_log'
 nsumscat = alog10(nsumscat)
 noutputdir += 'Log'
 endif
-npname += '.ps'
+npname += '.png'
 npname = noutputdir + '/' + npname
 mollview, nsumscat, grat = [30,30], glsize = 1., rot = rot[r],$
-          titleplot = ptitle, subtitle = sptitle, ps = npname
-cgfixps, npname
-cgps2pdf, npname
-spawn, 'rm '+npname
+          titleplot = ptitle, subtitle = sptitle, png = npname
+;cgfixps, npname
+;cgps2pdf, npname
+;spawn, 'rm '+npname
 endfor
 endfor
 endfor
@@ -160,5 +161,6 @@ endfor
 
 i+=1
 endwhile
+endfor
 
 end

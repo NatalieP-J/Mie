@@ -1,6 +1,8 @@
 forcegen = 1
 
-height = '0.2'
+heights = ['0.1','0.2','0.5','1'] ; in kpc
+for h=1, leng(heights)-1 do begin
+height = heights[h]
 nside = findnside(height = height)
 
 ; direction to Draco nebula from earth
@@ -88,21 +90,23 @@ nsumscat = alog10(nsumscat)
 noutputdir += 'Log'
 endif
 noutputdir+='/'
-npname += '.ps'
+npname += '.png'
 npname = noutputdir+npname
 mollview, nsumscat, grat = [30,30], glsize = 1.,$
-          ps = npname, $
+          png = npname, $
           titleplot = ptitle
 
-cgfixps, npname
-cgps2pdf, npname
-spawn, 'rm '+npname
+;cgfixps, npname
+;cgps2pdf, npname
+;spawn, 'rm '+npname
 endfor
 endfor
 endfor
+endfor
+;wdel
 endfor
 
-endfor
 
+endfor
 
 end
