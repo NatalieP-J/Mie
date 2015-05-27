@@ -1,24 +1,34 @@
+; Written May 21 2015 for SURP 2015 project
+; this code imports an all sky radiation field and is not very flexible
+
 function findskyin, height = height, radius = radius, ifilt = ifilt
 
+; height = height above the midplane (a string)
+; radius = radius from the galactic center (a string)
+; ifilt  = ?
+
+; set default parameter values
 setdefaultvalue, height, '0.5'
 setdefaultvalue, radius, '8.5'
 setdefaultvalue, ifilt, 2
-; Read in map information
-; Source map directory
+
+; radiation field map source directory
 ISRFDIR='/cita/d/raid-project/hp/pgmartin/GALPROP/FITS/ISRF/Standard/'
 
-; sky with spectrum integrated over certain filter
 ; choice of 0, 0.1, 0.2, 0.5, 1, 2, 5, 10, 20, 30 for height
-;filein = ISRFDIR+'Standard_8.5_0_0.5_Filter_HP.fits.gz'
 filein = ISRFDIR+'Standard_'+radius+'_0_'+height+'_Filter_HP.fits.gz'
 
-; read in fits file. filein obviously filename, 2 is fileunit, hfoofe
-; is the name of the extension to read (this is stored as a keyword)
+; read in fits file
 foofilt = mrdfits(filein, 1, hfoof)
+; find nside
 nside = findnside(height = height, radius = radius)
+; calculate the number of pixels
 npix = nside2npix(nside)
+
+; create array to hold map
 skyfilt = dblarr(npix)
+; assign values of the map
 skyfilt[*] = (foofilt.spectra)[ifilt, *]
-;mollview, skyfilt, /log, grat=[30.,30.], glsize= 1.
+
 return, skyfilt
 end

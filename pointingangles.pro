@@ -1,3 +1,8 @@
+; Written May 20 2015 for SURP 2015 project
+; this code calculates the direction to earth in the cloud's
+; coordinate frame and the relevant scattering angle for a beam coming
+; from the galactic centre
+
 function pointingangles, dcloud, dpixel, bcloud, lcloud, bpixel, lpixel
 ; dcloud = distance from earth to cloud
 ; dpixel = distance from earth to pixel of interest
@@ -15,8 +20,6 @@ zh = dcloud*sin(bcloud)
 ; distance to cloud from earth in the plane
 dp = dcloud*cos(bcloud)
 
-;print, 'z height', zh, ' distance in plane ', dp
-
 ; find critical length (case of right angle triangle in the plane)
 dcrit = sqrt(dpixel^2 - dp^2)
 
@@ -29,8 +32,6 @@ if lcloud gt !dpi then begin
 dillum = sqrt(dpixel^2 + dp^2 + 2*dpixel*dp*cos(lcloud))
 endif
 
-;print, 'distance of cloud to Galactic centre ', dillum
-
 ; calculates the angle from the cloud to the illuminating pixel
 lillum = 0
 billum = -atan(zh/dillum)
@@ -41,17 +42,11 @@ crits = where(dillum lt dcrit)
 if total(crits) ne -1 then learth[crits] = !dpi - learth[crits]
 lt0 = where(learth lt 0)
 if total(lt0) ne -1 then learth[lt0] += 2*!dpi
-;print, learth*!radeg
 bearth = fltarr(leng(learth))-bcloud
-
-;print, 'longitude cloud to sun ', learth*!radeg
-
-;print, 'elevation illumination angle ', billum*!radeg
 
 ; find the scattering angle
 uscat = ct(ellillum = lillum, beeillum = billum, ellscat = learth, beescat = bearth)
 scatter = acos(uscat)
-;print, 'scattering angle ', scatter*!radeg
 outdict = dictionary()
 outdict['scatter'] = scatter
 outdict['learth'] = learth

@@ -139,6 +139,7 @@ endif
 ; create an output file name
 pname += color
 
+; save phase function information for retrieval in ascombsd and ashgcombsd
 save, pf, filename = pname+'_pf.idlsav'
 save, g, filename = pname+'_g.idlsav'
 

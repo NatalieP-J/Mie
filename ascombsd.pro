@@ -1,9 +1,24 @@
+; Written May 26 2015 for SURP 2015 project
+; this code produces all sky maps of scattered light from the draco
+; nebula from the phase functions of combined carbon and silicate
+; particle size distributions
+; run combsd.pro FIRST to get the required phase function data saved
+; unless already done
+
+; switch to force generation of scattered light arrays
+; set to 0 -> do not force generation
+; set to 1 -> force generation
 forcegen = 0
 
+; heights of frankie illumination maps to use - must be strings for
+; reading purposes
 heights = ['0.1','0.2','0.5','1'] ; in kpc
+; loop over all heights
 for h=0, leng(heights)-1 do begin
 height = heights[h]
 print, 'height '+height + ' kpc'
+
+; calculate nside based on height
 nside = findnside(height = height)
 
 ; direction to Draco nebula from earth
@@ -19,39 +34,38 @@ GCdist = 8.5 ; kpc
 bGC = 0
 lGC = 0
 
+; calculate the coordinates of earth in Draco's frame, and the
+; scattering angle to earth
 scatter = pointingangles(dracodist, GCdist, dracobee, dracoell, bGC, lGC)
-print, scatter
+
 learth = scatter['learth']
 bearth = scatter['bearth']
 scatter = scatter['scatter']
 polearth = !dpi/2. - bearth
-lt0 = where(polearth lt 0)
-;polearth[lt0] = 2*!dpi + polearth[lt0]
 
+; convert earth's Galactic coordinates to a pixel location
 ang2pix_ring, nside, polearth, learth, earthpix
-;skyin = findskyin(height = '1')
-;skyin[earthpix] = 1.
-;mollview, skyin, /log
-;end
+
 ; location of source files
 sourcedir = '/mnt/raid-project/hp/njones/Mie/miefiles/'
 
+; create lists of saved all sky arrays and combined phase functions
 spawn, 'ls *kpc.idlsav', sumscatfilelist
 spawn, 'ls *_pf.idlsav', fnamelist
 
+; crop 'kpc.idlsav' from the file names
 fnames = fnamelist.remove(-10)
-
 
 ; choose where to save plots
 outputdir = '/home/njones/Dropbox/Mie/NatalieResults/AllSky/CarbonSilicate/'
 
 ; initialize index
 i=0
-; create arrays to hold numeric (1) and analytic (2) values for g
 
 while i lt leng(fnames) do begin
 fname = fnames[i]
 
+; restore phase function data and corresponding anisotropy parameter g value
 restore, fnamelist[i]
 restore, fname+'_g.idlsav'
 
@@ -70,6 +84,7 @@ rvcheck = strpos(fname, '31')
 if rvcheck ne -1 then rvtype = textoidl('R_{V} = 3.1')
 if rvcheck eq -1 then rvtype = textoidl('R_{V} = 5.5')
 endif
+; find out the colour of light
 ccheck = strpos(fname, 'red')
 if ccheck ne -1 then ctype = 'red'
 if ccheck eq -1 then ctype = 'green'
@@ -79,77 +94,117 @@ ptitle = 'Mie scattered '+ctype+' light'
 sptitle = 'for a mixed size distribution'
 if rvtype ne '' then sptitle += ' with '+rvtype   
 
+; construct the output plot file name
 pname = fname+'_allsky_h'+height+'kpc'
 
+; check whether the required data has already been saved
 savecheck = where(sumscatfilelist eq fname+'_h'+height+'kpc.idlsav')
 
+; if force generation is on or the required data is not saved
 if ((forcegen ne 0) or (savecheck eq -1)) then begin
+; calculate the number of pixels
 npix = nside2npix(nside)
+; create an array of pixel indices
 ipix = long(findgen(npix))
+; find incident radiation field
 skyin = findskyin(height = height)
-;mollview, skyin, /log
 
-angles = skyin
-
-pixels = long(findgen(npix))
+; find galactic coordinates for each pixel
 pix2ang_ring, nside, ipix, pols, ells
+; convert polar angle to b angle
 bees = !dpi/2. - pols
 
+; create arrays to hold output scattered and isotropic light maps
 sumscat = fltarr(npix)
 isoscat = fltarr(npix)
 timer, /start
+; for each pixel of input radiation
 for k=0, npix-1 do begin
+; calculate the scattering angles from that input radiation pixel to
+; each other pixel
 uscats = ct(ellillum=ells[k],beeillum=bees[k], ellscat=ells, beescat=bees)
+; interpolate the phase function to find its value at desired
+; scattering angles
 pf = mie(acos(uscats),angles = datadict['angle'], pf = datadict[fname])
+; find the isotropic scattering
 iso = hg(g = 0, u = uscats)
+; add the values for this pixel to total radiation field
 sumscat += pf * skyin[k]
 isoscat += iso * skyin[k]
 endfor
 timer, /stop
 timer, /print
+; save the arrays for future use
 save, sumscat, filename = fname+'_h'+height+'kpc.idlsav'
 save, isoscat, filename = fname+'iso_h'+height+'kpc.idlsav'
 print, fnames[i]
 endif
 
+; if force generation is off and the required file exists
 if ((forcegen eq 0) and (savecheck ne -1)) then begin
+; restore the relevant arrays
 restore, filename = fname+'_h'+height+'kpc.idlsav'
 restore, filename = fname+'iso_h'+height+'kpc.idlsav'
 endif
+; calculate domega
 npix = nside2npix(nside)
 domega = 4.*!pi/npix
 
+; switches for various plot options
+; rot - controls how much the output map is rotated by
 rot = [0];,180]
+; sub - obselete now, originally used to subtract the minimum value
+;       from the map. a boolean switch: 0 = do nothing, 1 = do subtraction
 sub = [0];,1]
+; log - controls whether data is log scaled or not. a boolean switch:
+;       0 = do nothing, 1 = do subtraction
 log = [0,1]
+; iso - controls whether data is normalized by the isotropic value or
+;       not. a boolean switch: 0 = do nothing, 1 = do normalization
 iso = [0,1]
+; iterate over each possible option to produce all possible plots
 for r=0, leng(rot)-1 do begin
 for s=0, leng(sub)-1 do begin
 for l=0, leng(log)-1 do begin
 for j=0, leng(iso)-1 do begin
+; create a new save file name
 npname = pname
+; create a new output directory
 noutputdir = outputdir
+; multiply scattered light by domega
 nsumscat = sumscat*domega
+
+; if isotropic normalization requested, modify the array, filename  and output
+; directory accordingly
 if iso[j] eq 1 then begin
 npname += '_iso'
 nsumscat /= isoscat*domega 
 noutputdir += 'IsoNormal'
 endif
+; if rotation desired, modify the filename accordingly
 if rot[r] ne 0 then npname += '_rot'+string(rot[r],format = '(I0)')
+; if min value subtraction requested, modify the array, filename and
+; output directory accordingly
 if sub[s] eq 1 then begin
 npname += '_sub'
 nsumscat -= (min(nsumscat))
 noutputdir += 'Sub'
 endif
+; if log scaling requested, modify the array, filename and
+; output directory accordingly
 if log[l] eq 1 then begin
 npname += '_log'
 nsumscat = alog10(nsumscat)
 noutputdir += 'Log'
 endif
+; add file extension and output directory
 npname += '.png'
 npname = noutputdir + '/' + npname
+; create and save the map
 mollview, nsumscat, grat = [30,30], glsize = 1., rot = rot[r],$
           titleplot = ptitle, subtitle = sptitle, png = npname
+
+; Uncomment if creating a postscript file to convert it to a pdf
 ;cgfixps, npname
 ;cgps2pdf, npname
 ;spawn, 'rm '+npname
